@@ -1,10 +1,9 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react'
 import "./Nav.css"
 import {AiOutlineHome,AiOutlineUser,AiOutlineFundProjectionScreen} from "react-icons/ai"
 import {BiBook,BiMessageSquareDetail} from "react-icons/bi"
 import {RiServiceLine} from "react-icons/ri"
-import {GrProjects} from "react-icons/gr"
-import Draggable from 'react-draggable'
 
 const Nav = () => {
   return (

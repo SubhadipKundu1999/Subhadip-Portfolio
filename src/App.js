@@ -9,16 +9,12 @@ import MyProtfolio from "./Components/MyProtfolio/MyProtfolio"
 import Contact from "./Components/Contact/Contact";
 import Footer from "./Components/Footer/Footer";
 import Experience from "./Components/Experience/Experience"
-import { themeContext } from "./Context";
-import { useContext } from "react";
-import Protfolio from './Components/MyProtfolio/MyProtfolio';
 
 function App() {
-  const theme = useContext(themeContext);
-  // const darkMode =this.state.darkMode;
+
 
   return (
-    <div className="App">
+    <div className="App" >
 <Header/>
 <Nav/>
 <About/>

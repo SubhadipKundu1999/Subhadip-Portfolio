@@ -92,9 +92,6 @@ const Protfolio = () => {
       </div>
 
 
-      {/* <div className="float-div">
-      <object type="text/html" data=" https://subhadipkundu1999.github.io/codewell-Fiber-Landing-Page/" height="600px" style={{position:'absolute' ,width:"100%"}}></object>
-      </div> */}
     </div>
   )
 }

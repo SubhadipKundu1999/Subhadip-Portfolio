@@ -34,14 +34,14 @@ const Contact = () => {
             <MdOutlineEmail />
             <h4>Email</h4>
             <h5>subhadipkundu1000@gmail.com</h5>
-            <a href="mailto:subhadipkundu1000@gmail.com" target='_blank'>Send a messege</a>
+            <a href="mailto:subhadipkundu1000@gmail.com" target='_blank' rel="noreferrer">Send a messege</a>
           </div>
 
           <div className="contact-option">
             <BsWhatsapp />
             <h4>WhatsApp</h4>
             <h5>+91 8436 7317 10</h5>
-            <a href="https://api.whatsapp.com/send?phone=8436731710" target='_blank'>Send a messege</a>
+            <a href="https://api.whatsapp.com/send?phone=8436731710" target='_blank' rel="noreferrer">Send a messege</a>
           </div>
         </div>
         {/* end of contact options */}

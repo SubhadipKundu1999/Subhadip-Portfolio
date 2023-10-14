@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { useState } from 'react'
 import "./Header.css"
 import cv from "../../assets/cv.pdf"
@@ -46,7 +47,8 @@ const Header = () => {
 </div>
 <div id="panel">
   <div class="pic">
-    <img src={me}/>
+   
+    <img alt='me' src={me}/>
   </div>
   <center>
     <a href="#" class="lnk">My Portfolio</a>
@@ -58,8 +60,8 @@ const Header = () => {
 
 
       <div className="social-icon">
-     <a href="https://www.linkedin.com/in/subhadip-kundu-b40701220/" target='_blank'><AiFillLinkedin/></a> 
-      <a href="https://github.com/SubhadipKundu1999/"  target='_blank'><AiFillGithub/></a>
+     <a href="https://www.linkedin.com/in/subhadip-kundu-b40701220/" target='_blank' rel="noreferrer"><AiFillLinkedin/></a> 
+      <a href="https://github.com/SubhadipKundu1999/"  target='_blank' rel="noreferrer"><AiFillGithub/></a>
 
       </div>
       <div className="scroll-down">
