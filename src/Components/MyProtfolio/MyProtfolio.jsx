@@ -78,7 +78,7 @@ const Protfolio = () => {
   return (
     <div className="container protfolio-container" id="portfolio">
       <h5 className='section-heading-text'>My recent work </h5>
-      <h2 className='section-heading'>Protfolio</h2>
+      <h2 className='section-heading'>Portfolio</h2>
 
       <div className="protfolio-main-container">
         {
