@@ -1,14 +1,18 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { useState } from 'react'
+import { ReactTyped } from "react-typed";
+
 import "./Header.css"
-import cv from "../../assets/cv.doc"
+import cv from "../../assets/cv.pdf"
 import me from "../../assets/subha-2.png"
 
 import { AiFillLinkedin, AiFillGithub } from "react-icons/ai";
+import useTextEffect from '../../hooks/auto-text-effect';
 
 const Header = () => {
 
   const [state, setState] = useState(true);
+
 
   const changeState = () => {
     if (state) {
@@ -20,12 +24,25 @@ const Header = () => {
       setState(true);
     }
   }
+  let text = "Subhadip Kundu"
+  let name = useTextEffect(text, 300);
+
   return (
     <header>
       <div className=" container header-container">
-        <h5>Hello, I'm</h5>
-        <h1>Subhadip Kundu</h1>
-        <h5>Frontend Web Developer</h5>
+        <h5  >Hello, I'm</h5>
+        <h1 id="name">Subhadip Kundu</h1>
+        <ReactTyped strings={[
+          "Software Developer",
+          "React Developer",
+          "Node js Developer",
+        ]}
+          typeSpeed={80}
+          backSpeed={50}
+          loop
+          className="role"
+        />
+
         <div className="call-to-action">
           <a href={cv} download><button class="button-1"><span class="text">Downoad Cv</span></button> </a>
           <a href="#contact"> <button class="btn btn-2 header-btn-2">Let's Talk</button> </a>

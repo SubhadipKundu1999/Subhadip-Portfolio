@@ -16,7 +16,7 @@
 }
 .protfolio-item:hover{
     border-color: var(--color-primary-varient);
-    background: transparent;
+    background: transparent ;
 }
 .protfolio-item img{
 width: 100%;

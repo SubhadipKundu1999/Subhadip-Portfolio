@@ -1,3 +1,8 @@
+
+#name{
+ color:#a279ff;
+  text-shadow:1px  0.5px 1.5px rgb(93, 88, 79);
+}
 .call-to-action{
     display:flex;
     gap:1rem;
@@ -10,6 +15,17 @@
   margin-top: 2rem;
 
 }
+.header-container h5{
+  color: #E34383 ;
+  font-weight: 900;
+}
+.role{
+color: #00ffd5;
+font-weight: 600;
+font-size: 20px;
+font-family:'Times New Roman', Times, serif;
+}
+
 @keyframes backgroundChange {
     0%{
         background:  linear-gradient(

@@ -8,46 +8,54 @@ import IMG3 from "../../assets/portfolio-3.png"
 import IMG4 from "../../assets/portfolio-4.png"
 import IMG5 from "../../assets/portfolio-5.png"
 import IMG6 from "../../assets/portfolio-6.png"
+import IMG7 from "../../assets/portfolio-7.png"
 import IMG20 from "../../assets/game-hub.png"
 const data =
   [
     {
       id: 0,
-      title: " s-stack-overflow-clone ",
-      githublink: "https://github.com/SubhadipKundu1999/stackoverflow-clone",
-      livedemoLink: " https://s-stack-overflow-clone.netlify.app/",
-      img: IMG0
+      title: "issue Tracker",
+      githublink: "https://github.com/SubhadipKundu1999/issue-tracker",
+      livedemoLink: "https://issue-tracker-app-henna.vercel.app/",
+      img: IMG7
     },
     {
       id: 1,
+      title: "s-stack-overflow-clone",
+      githublink: "https://github.com/SubhadipKundu1999/stackoverflow-clone",
+      livedemoLink: "https://s-stack-overflow-clone.netlify.app/",
+      img: IMG0
+    },
+    {
+      id: 2,
       title: "This is a beautiful Weather App",
       githublink: "https://github.com/SubhadipKundu1999/WeatherApp",
       livedemoLink: "https://s-weather-report.onrender.com/",
       img: IMG6
     },
     {
-      id: 2,
+      id: 3,
       title: "game hub",
       githublink: "https://github.com/SubhadipKundu1999/Game_Hub",
       livedemoLink: "https://game-hub-topaz-delta.vercel.app/",
       img: IMG20
     },
     {
-      id: 3,
+      id: 4,
       title: "let'S Chat WebApp",
       githublink: "https://github.com/SubhadipKundu1999/let-sChatWebApp",
       livedemoLink: "https://github.com/SubhadipKundu1999/let-sChatWebApp",
       img: IMG5
     },
     {
-      id: 4,
+      id: 5,
       title: "A travel booking web site",
       githublink: "https://github.com/SubhadipKundu1999/travel-site",
       livedemoLink: "https://subhadipkundu1999.github.io/travel-site/",
       img: IMG3
     },
     {
-      id: 5,
+      id: 6,
       title: " Codewell-Newsletter-Popup-challenge ",
       githublink: "https://github.com/SubhadipKundu1999/Codewell-Newsletter-Popup-challenge",
       livedemoLink: " https://subhadipkundu1999.github.io/Codewell-Newsletter-Popup-challenge/",
@@ -55,7 +63,7 @@ const data =
     },
 
     {
-      id: 6,
+      id: 7,
       title: "Onedeck-codewell-challange ",
       githublink: "https://github.com/SubhadipKundu1999/Onedeck-codewell-challange",
       livedemoLink: " https://subhadipkundu1999.github.io/Onedeck-codewell-challange/",
@@ -63,7 +71,7 @@ const data =
     },
 
     {
-      id: 7,
+      id: 8,
       title: "codewell-Fiber-Landing-Page",
       githublink: "https://github.com/SubhadipKundu1999/codewell-Fiber-Landing-Page",
       livedemoLink: " https://subhadipkundu1999.github.io/codewell-Fiber-Landing-Page/",

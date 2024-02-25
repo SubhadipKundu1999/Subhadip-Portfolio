@@ -16,7 +16,7 @@ align-items: flex-start;
 }
 .service-main-container >div:hover{
    
-    background-color:transparent;
+    background-color: #E34383 ;
 
     border: 2px solid  var(--color-bg-varient);
 }
@@ -24,7 +24,7 @@ align-items: flex-start;
     padding: 0px 10px  ;
 }
 .service-main-container>div li{
-    color:var(--color-light);
+    color:var(--color-white);
     font-size: 16px;
     margin: 1rem 0;
     word-wrap: break-word;

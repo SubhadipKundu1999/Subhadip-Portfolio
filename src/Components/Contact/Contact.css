@@ -42,6 +42,19 @@
     background-color: transparent;
     border: 2px solid var(--color-primary);
 }
+
+
+ .contact-form-container{
+ 
+        color:var(--color-primary);
+        background-color: transparent;
+        padding: 10px 15px;
+        border: 2px  black;
+        align-items: center;
+       border-radius: 1rem;
+       backdrop-filter:blur(10px);
+    
+} 
 .contact-form{
     display: flex;
     flex-direction: column;

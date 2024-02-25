@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Contact.css"
-import  { useRef } from 'react';
+import { useRef } from 'react';
 import emailjs from '@emailjs/browser';
 import { MdOutlineEmail } from "react-icons/md"
 import { BsWhatsapp } from "react-icons/bs"
@@ -14,10 +14,10 @@ const Contact = () => {
 
     emailjs.sendForm('protfolio_1999', 'template_owdnshj', form.current, 'S-U9yucaoGfI_4EcW')
       .then((result) => {
-          console.log(result.text);
-          e.target.reset();
+        console.log(result.text);
+        e.target.reset();
       }, (error) => {
-          console.log(error.text);
+        console.log(error.text);
       });
   };
 
@@ -31,14 +31,14 @@ const Contact = () => {
 
         <div className="contact-options">
           <div className="contact-option">
-            <MdOutlineEmail />
+            <MdOutlineEmail color='#d44d41' />
             <h4>Email</h4>
             <h5>subhadipkundu1000@gmail.com</h5>
             <a href="mailto:subhadipkundu1000@gmail.com" target='_blank' rel="noreferrer">Send a messege</a>
           </div>
 
-          <div className="contact-option">
-            <BsWhatsapp />
+          <div className="contact-option" >
+            <BsWhatsapp color='#3be35b' />
             <h4>WhatsApp</h4>
             <h5>+91 8436 7317 10</h5>
             <a href="https://api.whatsapp.com/send?phone=8436731710" target='_blank' rel="noreferrer">Send a messege</a>
@@ -46,15 +46,16 @@ const Contact = () => {
         </div>
         {/* end of contact options */}
 
+        <div className="contact-form-container">
+          <form ref={form} className="contact-form" onSubmit={sendEmail}>
 
-        <form ref={form} className="contact-form" onSubmit={sendEmail}>
+            <input type="text" name="name" placeholder='Your Full Name' required />
+            <input type="email" name="email" placeholder='Your Email' required />
+            <textarea name="message" id="message" rows="7" required></textarea>
+            <button type="submit" value='Send' className='btn btn-primary'>Send Message</button>
 
-          <input type="text" name="name" placeholder='Your Full Name' required />
-          <input type="email" name="email" placeholder='Your Email' required />
-          <textarea name="message" id="message" rows="7" required></textarea>
-          <button type="submit" value='Send' className='btn btn-primary'>Send Message</button>
-
-        </form>
+          </form>
+        </div>
       </div>
     </div>
 
