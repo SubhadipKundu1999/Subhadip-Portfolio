@@ -7,7 +7,7 @@ import cv from "../../assets/cv.pdf"
 import me from "../../assets/subha-2.png"
 
 import { AiFillLinkedin, AiFillGithub } from "react-icons/ai";
-import useTextEffect from '../../hooks/auto-text-effect';
+
 
 const Header = () => {
 
@@ -24,9 +24,6 @@ const Header = () => {
       setState(true);
     }
   }
-  let text = "Subhadip Kundu"
-  let name = useTextEffect(text, 300);
-
   return (
     <header>
       <div className=" container header-container">
