@@ -1,0 +1,2000 @@
+TB1 
+(Telecom General)
+Indian Railways Telecommunication Manual has been
+revised in 2021 and approved by Railway Board for the
+following purposes:
+•
+Covers general principles and scope of telecom
+systems in Indian Railways.
+• Sets guidelines for planning, installation, operation, 
+and   maintenance.
+• Applies to all telecom equipment and systems used
+across Indian Railways.
+• Forms the foundation for all other telecom
+instructions and chapters.
+ChapterName ChapterNumber
+ORGANISATIONOFTHESIGNAL&TELECOMMUNICATIONDEPARTMENT 1.
+ROLEOFPTCCANDPTCCCLEARANCES 2.
+ROLEOFWPCANDSACFACLEARENCES 3.
+COMMUNICATION REQUIREMENTSFORNEWSTATIONS/SECTIONS 4.
+TRAINTRAFFICCONTROL 5.
+VIDEOSURVEILLANCESYSTEM 6.
+LINEPLANTSYSTEMS-UNDERGROUNDCOPPERCABLE 7.
+IP-MPLS 8.
+TELEPHONEEXCHANGE 9.
+QUADCABLE BASEDCONTROLCOMMUNICATIONSYSTEM 10.
+RADIOCOMMUNICATION(ANALOG/DIGITALVHF) 11.
+ETHERNETRADIO 12.
+OPTICFIBRECOMMUNICATIONSYSTEM 13.
+DIGITALMULTIPLEXINGEQUIPMENT 14.
+DATA-NETWORK 15.
+POWERPLANTSYSTEMSFORTELECOMINSTALLATIONS 16.
+Telecommanual
+Telecom manual
+Chapter Number
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+Chapter Name
+ACCIDENT COMMUNICATION
+MOBILE TRAIN RADIO COMMUNICATION - GSM-R
+MOBILE TRAIN RADIO COMMUNICATION - LTE
+SOUND DISTRIBUTION SYSTEM
+PASSENGER INFORMATION SYSTEM
+SATELLITE COMMUNICATION SYSTEM
+PROTECTION OF TELECOM EQUIPMENTS AGAINST LIGHTNING
+INSTRUCTIONS FOR PROTECTION TO STAFF
+FAULT CONTROL PROCEDURES
+INSPECTION
+PAINTING
+DRAWINGS AND SPECIFICATIONS
+BOOKS OF REFERENCE
+Wi-Fi
+31.
+32.
+IP ADDRESSING - IPV4/IPV6
+TUNNEL COMMUNICATION
+CHAPTERI(Extracts of Telecom manual)
+ORGANISATIONOFTHESIGNAL&TELECOMMUNICATION DEPARTMENT
+
+
+Organisation of the S&T:
+At the apex level, the telecom activities are overseen by the Member
+(Infrastructure) of the Railway Board;
+
+
+At the zonal level, key officials involved in managing telecom functions
+include the Principal Chief Signal and Telecommunication Engineer (PCSTE),
+the Chief Communication Engineer (CCE), the Deputy Chief Communication
+Engineer (Tele);
+At the divisional level, the Senior Divisional Signal and Telecommunication
+Engineer (Sr. DSTE) or Divisional Signal and Telecommunication Engineer
+(DSTE).
+PAYMATRIXw.e.f. 01.01.2016
+ESTABLISHMENTMATTERS
+VER1.0
+6
+CHAPTERI(Extracts of Telecom manual)
+CHAPTERI(Extracts of Telecom manual)
+ORGANISATION OFTHESIGNAL&TELECOMMUNICATION DEPARTMENT
+1.TELECOMORGANISATIONINTHEHEADQUARTER:
+The Principal Chief Signal & Telecommunication Engineer (PCSTE)
+
+
+
+
+
+The Chief Communication Engineer (CCE)
+Deputy Chief Signal & Telecommunication Engineer (Tele)
+Senior Scale Officer (Tele)
+Assistant Signal & Telecommunication Engineer (Tele)
+SSE/JE/Telecom(s) and Ministerial staff
+Organisation of the S&T at Zonal level
+PCST
+E
+Organisation of the S&T at Divisional level
+CHAPTERI(Extracts of Telecom manual)
+ORGANISATIONOFTHESIGNAL&TELECOMMUNICATION DEPARTMENT
+2.DUTIESOF Sr.SECTIONENGINEER/JE(Tele):
+
+
+
+
+Regular Inspectionand efficient maintenance of all 
+telecommunication equipment and systems
+Execution of all existing works involving alterations to the 
+installations of new equipment, its adjustment installations, and 
+connections.
+Carrying out periodical tests/measurements of Telecom
+systems independently and/or jointly with the officials
+of
+the BSNL/RailTel/Other Telecom Service Providers as the
+case may be.
+Efficient maintenance of stores and establishment matters
+by SSE(Tele)
+CHAPTERII(Extracts of Telecom manual)
+ROLEOFPTCCANDPTCCCLEARANCES
+
+
+
+
+
+Power and Telecommunication Co-ordination Committee
+(PTCC): central standing committee for co-ordination of Power and 
+Telecommunication system.
+PTCC committee formed: By the Government of India in the
+year 1949.
+Objective of PTCC: to ensure the safety of telecommunication
+equipment and precious human lives of personnel working in the
+concerned organizations as also those working in the close vicinity of power
+transmission line.
+Role of the committee:Todealwithroute approval forallnew power lines .
+PTCC clearance requirement: Before energization of new power lines
+of 11KVandabove
+CHAPTERII(Extracts of Telecom manual)
+ROLEOFPTCCANDPTCCCLEARANCES
+committeesconnectedwithPTCC
+
+Central Standing Committee:
+Two representatives from DOT and two from Central Electricity Authority 
+(CEA).
+Set up by the high level committee to look into estimates, which have
+resulted in delay in settling re-engineering cases.
+High Level Committee:
+ Secretaries or Chairman/Members of the Board from Power and 
+Telecommunication sectors.
+ Officers from the Railways are invited then. when there are issues
+involving
+CHAPTERII(Extracts of Telecom manual)
+ROLEOFPTCCANDPTCCCLEARANCES
+committeesconnectedwithPTCC
+
+Central PTCC:
+Consists of members from the CEA, DOT, Railways and the Army.
+
+
+To consider specific cases of route approval of power lines exceeding 33
+KVandtelecom lines.
+Central PTCC deals with cases of energization of power lines of
+above.
+
+
+Periodicity of meeting is Once in sixmonths.
+Director (Telecom) /RB willbe a member ofCentralPTCC.
+220KVand
+CHAPTERII(Extracts of Telecom manual)
+ROLEOFPTCCANDPTCCCLEARANCES
+committeesconnectedwithPTCC
+
+State Level PTCC:
+Consists of officers of Junior Administrative Grade from the concerned
+SEB, Telecom Circle, Railways and Defence.
+
+
+
+
+For cases of above 11KV up to 33KV Single circuit clearance is given by 
+State Level PTCC.
+Cases of energization of power lines up to 132KV DC are processed at 
+the state level.
+Periodicity of meeting is Once in three months.
+DSTEofzonalRailwaywillbe memberofState level PTCC.
+CHAPTERII(ExtractsofTelecommanual)
+ROLEOFPTCCANDPTCCCLEARANCES
+VariouslevelofPTCCmeeting
+Frequency/Periodicity PTCCmeeting S.No.
+Onceinsixmonths Central level 1
+Onceinthreemonths Statelevel 2
+Onceinthreemonths SSA/TelecomDistrict 3
+Onceintwomonths DivisionalLevel 4
+Onceinamonth Subdivisional level 5
+CHAPTERII(Extracts of Telecom manual)
+ROLEOFPTCCANDPTCCCLEARANCES
+Powerlineroutemap
+
+Copies of Power line route map drawn to a scale of 1 cm=0.5 km of the
+proposed electrical lines are to be submitted to the GM(S&T) of the
+concerned Railways.
+
+
+
+TheRouteMapshoulddepictalltopographical details Railways in 4 copies.
+The Route Map should depict all topographical details including Railway
+lines, Railway stations, Rivers, Canals and important roads and other land
+marks like towns, villages with names etc. at a radius of 8 Km around the
+proposed powerline.
+On receipt of the power line route maps, Railways shall check whether the
+proposed powerlinefalls within the jurisdiction of the Zonal Railway.
+CHAPTERII(ExtractsofTelecommanual)
+ROLEOFPTCCANDPTCCCLEARANCES
+DistancesoverwhichthedetailsaretobemarkedinPowerLineroutemap
+Telecom assets to be marked
+Capacity of Power Line
+HT (High Tension power line)
+3 Kms on either side of proposed power line 11 KV
+5 Kms on either side of proposed power line 22 KV
+5 Kms on either side of proposed power line 33 KV SC (Single Circuit)
+EHT (Extra High Tension power line)
+8 Kms on either side of proposed power line 33 KV DC (Double Circuit)
+8 Kms on either side of proposed power line 66 KV SC and above
+CHAPTERII (Extracts of Telecom manual)
+ROLEOFPTCCANDPTCCCLEARANCES
+
+
+
+
+
+Safe limit for induction due to Low Frequency Induction due to short circuit 
+fault is 430V.
+One of the measures commonly adopted for protection is the use of three 
+electrode Gas Discharge(GD) tubes
+PTCCMonitoringcellheaded byCCE/Dy.CSTE(Tele)
+For Central PTCC from Railway side Director(Telecom), Railway Board New
+Delhi is a member
+For State LevelPTCC fromRailwayside DSTEof ZonalRailwayis a member
+CHAPTERIII (Extracts of Telecom manual)
+ROLEOFWPCANDSACFACLEARANCES
+WIRELESS PLANNING & COORDINATION (WPC) Wing of the Ministry of  
+Communications, created in 1952.
+WPC is the national radio regulatory authority responsible for frequency 
+spectrum management, including licensing and caters for the needs of all  
+wireless users (government and private) in the country.
+WPCis divided into major sections like
+ Licensingand Receival (LR),
+ New TechnologyGroup(NTG) and
+ StandingAdvisory Committee on Radio FrequencyAllocation (SACFA)
+Links Touseful websites | Department of Telecommunications | Ministry of Communication | Government of India
+CHAPTERIII (Extracts of Telecom manual)
+ROLEOFWPCANDSACFACLEARANCES
+ SACFAmakestherecommendationson
+ majorfrequencyallocation issues,
+ formulation of thefrequencyallocation plan,
+ making recommendations on the various issues related to International Telecom 
+Union(ITU),
+ to sort out problems referred to the committee by various wireless users,
+ Sitingclearance of all wireless installations in the country etc.
+ SACFA is a high level committee chaired by Secretary (DOT)/Chairman, Telecom 
+Commission.
+ Executive Director-Telecom Development ( ED-TD), Railway Board is member of 
+SACFArepresenting Ministry of Railways.
+ SACFAMonitoringcellheadedbyCCEoftherailway
+CHAPTERIII (Extracts of Telecom manual)
+ROLEOFWPCANDSACFACLEARANCES
+ SACFAclearancesareissuedafterdoingthetechnicalevaluationfor
+ a)Aviationhazards.
+ b)Obstruction to lineofsight of existing/planned networks
+ c)Interference (Electro Magnetic Interference (EMI)/Electro Magnetic 
+Compatibility (EMC)) to existing and proposed networks.
+CHAPTERIII (Extracts of Telecom manual)
+ROLEOFWPCANDSACFACLEARANCES
+CLEARANCEOFSACFACASESFROMRAILWAYS
+ Onreceipt of the proposal for site clearance the following aspects have to be checked
+fromrailways activity point of view:
+ 1.FREQUENCY: The frequency of the proposal and the band at which it is proposed is to
+becross checked withthe allotted frequencies and frequency bands of Railways.
+ 2. SITE : The Longitude and Latitude of the proposed site has to be cross checked with
+the existing Longitude and Latitude of the railway communication site.
+ 3.TOWER HEIGHT : When the proposal is near to Longitude and Latitude for the railway
+site then the tower height proposed has to be cross checked for any interference in the
+path of the railway communication.
+ 4.TRANSMITTER POWER:The transmitter power of the proposal has to be cross checked
+whenever the proposal is nearer to the railway site and a conditional certificate should
+begiven for avoiding spurious signal from the transmitter.
+CHAPTERIV (Extracts of Telecom manual)
+COMMUNICATION REQUIREMENTS FORNEWSTATIONS/SECTIONS
+Opening of new stations whether in an already existing line or as part of a new section shall be
+governed by “Rules for opening of a Railway”.
+Communication systems for new sections shall be planned on underground OFC & Quad cable
+and/or on modern cellular communication duly suited for Train Traffic Control such as GSM
+R/LTE.
+Adequate capacity shall be built in to meet the safety requirements of block working, TAWD,
+BPAC, TCAS, emergency requirements for accident communication etc. and Data communication
+requirements of UTS,PRS,FOIS,COIS, Data logger,SCADA, Control, VSS, WiFi etc.
+Communication arrangements at anew station shallbe governedby:
+a)Controlled / Uncontrolled section.
+b) Electrified/Non-electrified section.
+c)Importance in terms of the variousdepartmental staff to be posted at the station.
+d)classification of station on commercial ground as per latest guidelines
+
+CHAPTERIV (Extracts of Telecom manual)
+COMMUNICATION REQUIREMENTS FORNEWSTATIONS/SECTIONS
+Controltelephone
+sections.
+(2-wire/4-wire/VoIP based)
+in
+Phone communication to all manned level crossing gates
+station preferably with voice logging facility.
+25WVHFsets with proper standby power supply.
+Communication arrangements with sidings.
+BSNLphonewherever feasible with Caller ID.
+Railwayauto phone facility.
+controlled
+controlled from the
+communication arrangements may be provided to Officer/SSE/JE/Technician 
+andASMoffice.
+communication arrangements for block working.
+In electrified territory, TPC phones shall be provided.
+CHAPTERV(Extracts of Telecom manual)
+TRAINTRAFFICCONTROL (indetail)
+TYPEOFCONTROLSYSTEM:
+ SectionControl / Train Control
+ DeputyControl
+ TractionPower Control
+ RemoteControl For Supervisory Control And Data Acquisition System
+ EmergencyControl
+
+ EmergencyWirelessControl Communication: MTRC, WalkieTalkie System Etc.
+Types of Control communications in Indian Railways.
+In one control section, only one type of equipment or make should be provided to ensure 
+ease of maintenance and inventory management.
+
+DUAL TONE MULTIFREQUENCY SYSTEM: In this system two frequencies are being
+transmitted simultaneously as per the standard DTMF Frequencies
+
+CCEO:Control Communication Equipment for OFC System (CCEO)
+VoIPBasedTrainControl Communication System
+CHAPTERV(Extracts of Telecom manual)
+TRAINTRAFFICCONTROL (indetail)
+DUAL TONEMULTIFREQUENCYSYSTEM(IRSTC:60/2007Amdt.1)
+CHAPTERV(Extracts of Telecom manual)
+TRAINTRAFFICCONTROL (indetail)
+Components of CCEO equipment (RDSO/SPN/TC/66/2007Ver.1.0)
+CHAPTERV(Extracts of Telecom manual)
+TRAINTRAFFICCONTROL (indetail)
+VoIPbased Train Control CommunicationSystem (TCCS)
+VoIP Based TCCS is the latest among the various control communication systems being
+used in Indian Railways as per RDSO specification RDSO/SPN/TC/99/2023 Ver.3.0.
+It leverages open standard IP technology to provide control communication thereby
+reducing dependence on railway specific equipment/ technology which limits market
+driven innovation.
+It provides the benefit of economy of scale and open market competition using common
+networkinfrastructure for voice, video and data
+The VoIP based TCCS has three major components: 1. Control Communication network
+(CCN). 2. HQ equipment/servers for control communication 3. Way station equipment
+including control phones.
+All Equipment of VoIP based TCCS shall be monitored through an NMS and it is desirable
+to monitor through mobile dash-boards also.
+It is important that the system is secure, easy to configure and maintain.
+Divisions may use either IP control phones or PSTN analog phones at way stations with
+suitable interface.
+CHAPTERV(Extracts of Telecom manual)
+TRAINTRAFFICCONTROL (indetail)
+Hereare the full forms of the networking protocols used inVoIP based TCCS
+TCP: TransmissionControl Protocol
+IP: Internet Protocol
+UDP:User DatagramProtocol 
+RTP: Real-time Transport Protocol
+RTCP: Real-time Transport Control Protocol 
+HTTP: Hypertext Transfer Protocol
+ARP:Address Resolution Protocol
+RARP:Reverse Address Resolution Protocol 
+NTP: NetworkTime Protocol
+ICMP:Internet Control Message Protocol
+ITJE Phase -II
+CHAPTERVI(Extracts of Telecom manual)
+VIDEOSURVEILLANCE SYSTEM
+All Video Surveillance system equipment shall be STQC certified.
+ VideoSurveillance System over Indian Railways:
+i. IP based VSS (Stations& Railway Establishments).
+ii. IP based VSS for Rolling Stock (coaches and Locomotives etc.)
+ Day to day operation of CCTV system shall be under control of RPF.
+ IPbasedVSS (Stations&RailwayEstablishments):
+
+
+
+Provided at all entry/exit, Platforms, Waiting hall, Reservation counter, Parking
+area, Railway yards, Foot over bridges etc. of Railway stations and other Railway
+establishments to capture images and tocarry out analysis.
+For Stations, IP cameras complying to RDSO specs tobe followed.
+For other non critical Rly. locations Railway may install CCTV cameras after taking
+approval of competent authority either as per Railways own specification or as per RDSO
+specification
+CHAPTER VI   VIDEO SURVEILLANCE SYSTEM 
+(Extracts of Telecom manual)
+IP based VideoSurveillanceSystem (Stations & RailwayEstablishments)
+(System Description of VSS)
+
+
+
+
+
+
+VSS shall be end to end IP based with IP Cameras as per site requirements, 
+jointly surveyed with Security Department.
+In IP based VSS, IP Cameras shall be provided at different locations so that
+the output is available as Ethernet and connected to the Servers/NVRs.
+It shall be possible to integrate the surveillance system using the existing 
+LAN/WAN infrastructure on Optical Fibre network of Railways.
+Thesystemshall be able to work on bothwired as well as wirelessnetworks.
+The wireless network is envisaged for extreme areas like, yards, foot over
+bridges and any other area in the station where cable is difficult to lay.
+The system shall have a diagnostic facility through NMS for Video &
+Network interfaces .
+:
+CHAPTER VI   VIDEO SURVEILLANCE SYSTEM 
+(Extracts of Telecom manual)
+IP based VSS (Stations & Railway Establishments)
+Parking area, entry/exit points, platforms, yards etc.
+• Fixed Box type IP Color Camera
+• Bullet type IP Color Cameras
+:
+For indoor locations viz. W/Hall, ticket counters, offices etc.
+• Fixed Dome type IP colour Cameras 
+For circulating area, platforms, FOBs etc
+• PTZIPCameras
+Wireless systems: normally be used for far away locations, where
+cabling is difficult to be installed & maintained like yards, extreme
+corners of stations etc. Camera with Solar Powered Battery and Long
+Range Wi-Fi Antennamaybeusedforsuchlocations.
+CHAPTER VI   VIDEO SURVEILLANCE SYSTEM 
+(Extracts of Telecom manual)
+IP based VSS for Rolling  Stock  of Indian Railways
+System Description of VSS
+ EachCoachshall be installed with tentatively 8 nos. of Cameras. 4 nos. of Cameras
+shall be installed in doorways, 1 no. of camera facing each Vestibule portion and
+2 nos. of Camerasshall be installed in the aisle area.
+ Each Coach shall be provided with a Mobile Network Video Recorder (Mobile
+NVR) along withSystemSoftware.
+ Each Coach shall be provided with Wi-Fi Access Point and LTE/GSM for
+connecting the Mobile NVR totheDataCentre /Centralized location / Cloud.
+ TheCameras and Mobile NVR of running trains shall be accessible on a real time
+basis through available Wi-Fi and LTE/GSM network.
+ There shall be provision of Panic Button / Buttons in each Coach. Pressing Panic
+Button shall provide local buzzer as well as alarm to the Data Centre/
+Centralized location through available network for CCTV application.
+CHAPTERVII (Extracts of Telecom manual)
+LINE PLANT SYSTEMS–UNDERGROUNDCOPPERCABLE(indetail)
+TYPES OFCABLES
+a) Quad Cable 0.9 or 1.4-mm conductor dia as per IRS specification No. IRS:TC 30/05 or
+RDSO/SPN/TC/72/07 respectively. These are 6 quad polythene insulated jelly filled cable
+suitable for underground laying and are used for control circuits and block interfaces.
+b) Itis desirable to provide 1.4 mmQuad cable in block sections longer than 12 kms.
+c) Multi pair (from 10 pairs to 200) Multi Dia (0.5mm/0.63mm/0.9mm) PIJF (Polythene
+insulated Jelly Filled) Cable as per IRS specification No. IRS:TC 41/97. This is suitable for
+underground laying and is generally used for exchange subscriber lines or branch cables
+branching off from the main Quad cable.
+d) Twisted Pair Switch Board Cable of sizes 0.5 mm / 0.6 mm copper conductor dia as per
+IRS/TEC specification. These are not designed for underground laying and are generally
+used for indoor applications such as distribution to various telephone subscribers in a
+building, MDF to exchange wiring etc.
+e) If RE cable containing paper as well as polythene insulated copper quads is still available,
+it should be planned to replace the same at the earliest.
+Circuitforuse Sizesofconductor Indoor/Outdoor 
+applications
+S.No
+Subscriber'sconnectionupto5 
+kms.
+0.5mmcondDiatwistedPairPIJFor1.83 
+kg/km(6.5lb/mile)
+Outdoor 
+underground
+1
+Subscriber'sconnectionsupto10 
+km.
+0.63mmcond.Dia.twistedPairPIJFor2.81 
+kg/km(10 lb/mile)
+2
+subscriber'sconnectionina 
+building,exchangetoMDFwiring 
+etc.
+0.5mmAnnealedTinnedCopper(ATC)Switch
+Boardcable1.76kg/km
+Indoor 3
+Trunkconnectionsetc. 0.6mmATCSwitchBoardcable2.52kg/km 4
+(i) 50pair, 0.63mmcond. diaarmouredpolythene insulatedpolythenesheathed jelly filledarmoured
+telephonecableasperIRS:TC41/1997.
+(ii) Inundergroundlaying,onlyJellyfilledarmouredcablestobeused.
+(iii)Beforethecableislaid, itshallbetestedforinsulationandcontinuityofthecores.Continuityofarmour 
+andscreenofthecableneedtobecheckedbeforelaying.
+CHAPTERVII(ExtractsofTelecommanual)
+LINEPLANTSYSTEMS–UNDERGROUNDCOPPERCABLE(indetail)
+SizesOFCABLE
+CHAPTERVII (Extracts of Telecom manual)
+LINE PLANT SYSTEMS–UNDERGROUNDCOPPERCABLE(indetail)
+LAYINGOUTTHECABLE
+a) Forlaying out cables, the cable drums shall be mounted on cable-wheels
+b) The drum on the wheel shall be brought to one end of the trench and the 
+end ofthe cable freedand put into the trench.
+c) Thecable-wheels shall then be drawn along the road or track.
+d) A party of labours shall follow the drum and guide the cable from the road 
+into the trench carefully so that the cable is not damaged or bent unduly.
+e) In case where the wheels are not available, the drum shall be mounted on 
+an axle at one end ofthe trench and cablelaid out and carried by labourers.
+f) In no case, shall the drum be rolled off on to the road for laying the cable 
+and thecabledraggedon thegroundforlayingpurposes.
+CHAPTERVII (Extracts of Telecom manual)
+LINE PLANT SYSTEMS–UNDERGROUNDCOPPERCABLE(indetail)
+GENERAL
+a) While excavating earth for trenches or making other pits necessary for
+installation of cable junction boxes in between the tracks or in close vicinity of
+the track the Permanent Way Inspector or his representative shall be present. In
+'Quad' type of cables, conductors diagonally opposite shall form one circuit.
+b) In telephone cables, electro-static and electro-magnetic induction between
+different pairs of conductors shall be minimized by a lead or aluminium sheath
+andbytheprovision of twisted pairs.
+c) Whenever a road-crossing or rail-crossing is encountered in busy areas, HDD
+(Horizontal Directional Drilling) method should be used to lay all types of cables
+in DWCpipes
+d) Where concrete large size duct is provided in the station section for laying
+signalling cables, the same may be utilized for telecom cables also following due
+precautions.
+CHAPTERVII (Extracts of Telecom manual)
+LINE PLANT SYSTEMS–UNDERGROUNDCOPPERCABLE(indetail)
+CABLETERMINATION
+a) Cables can be terminated in any of the following
+methods:
+(i) DPBox(Distribution Point Box)ofapprovedtype.
+(ii) Direct termination.
+b) PIJF cable of various sizes shall be terminated through DP
+Boxofapproved type.
+CHAPTERVII (Extracts of Telecom manual)
+LINE PLANT SYSTEMS–UNDERGROUNDCOPPERCABLE(indetail)
+JOINTING OF PIJF CABLE
+(i)
+Jointing should be done by a skilled and experienced person using the correct RDSO 
+specified jointing kit to ensure quality.
+Jointing kits are of 2 types:
+TSF : Thermo Shrink Filled jointing kits are meant for U/G paired cables under spec. no: 
+IRS : TC: 57 / 2006
+RTSF: Reinforced Thermo Shrink Filled jointing kits for jointing of U/G Quad cables under
+spec. no: IRS:TC:77-2012
+(ii) Thermo shrinkable jointing material shall be used for jointing armoured PIJF cable
+with thermoshrinkable jointingtechnique using RDSO's code ofpractice.
+(iii)
+The jointing material is readily available in the form of a jointing kit. For different sizes of
+cable (No. of pairs and cond. dia.) the kits are different e.g. TSF-1, TSF-2 etc as per latest
+RDSO specification. For quad cable, only Reinforced Thermo Shrink Jelly Filled kit (RTSF)
+type jointing kit to be used as per latest RDSO specification
+.
+CHAPTERVII (Extracts of Telecom manual)
+LINE PLANT SYSTEMS–UNDERGROUNDCOPPERCABLE(indetail)
+JOINTING OF PIJF CABLE
+(iv) Quad cable joint may normally be kept underground or it may be housed
+inside a location box of proper size avoiding sharp bends as per local
+requirement of Railways. Wherever joint is kept inside the Location Box, EC
+Socket also should be fixed on that location box itself and that location box
+should be painted with black &yellowstripes.
+(v) The screen and armour of copper cables to be jointed shall be made
+through with suitable wires. This is essential to get the specified screening
+factor in association with its earthing at stations. This should be done first
+to avoid any electric shock due to induction.
+(vi)The copper cable screen and armour shall be earthed with a low value
+earth (<1Ω) at stations to achievethe specified screening factor.
+CHAPTERVII (Extracts of Telecom manual)
+LINE PLANT SYSTEMS–UNDERGROUNDCOPPERCABLE(indetail)
+SYSTEM REQUIREMENTS(PLANNING)
+(a) While planning for cabling on a route, the number of conductors and sizes and type of
+cable (quad/PIJF) required should be first determined and type of cable (quad/PIJF)
+required should be first determined depending upon the type of circuits desired.
+(b) It will be generally desirable to leave 25% or more conductors spare for all cables
+carrying 5 or more pairs of conductors for future expansions as codal life of these cables
+are very high.
+(c) Thenactualroute for takingthe cables should be decided upon.
+(d) Thetelecom cables should normally be laid within 1 meter inside the Railway boundary.
+For this the reference should be taken from boundary pillars. Further it should be laid at
+least 2 m away from the nearest track and beyond embankment. It shall also be
+ensured that it is separated by at least 1 m from the nearest electrical power cable.
+(e) Cable markers shall be provided all along the route at a nominal interval of 50 m. The
+Quad cable RCC route marker should be painted with red colour and for Quad joint,
+yellow enameled painting tobe provided on all sides of RCCcable marker.
+CHAPTERVII (Extracts of Telecom manual)
+LINE PLANT SYSTEMS–UNDERGROUNDCOPPERCABLE(indetail)
+SYSTEM REQUIREMENTS(PLANNING)
+f) The cable shall be at least 1 m below the surface of the ground.
+g) In exceptional cases, such as in yards and when the depth of the cable
+trench is limited to 0.5 m. due to local conditions a minimum distance of one
+meter shall be maintained between the cable and the OHE mast supporting
+the catenary or any other structure likely to come in contact with the high
+tension conductors. When the observance of this rule creates difficulty, the
+cable shall be laid in concrete pipes and in that case the distance to be
+maintained as specified above can be brought down to0.5m.
+h) When the depth of the cable trench exceeds 0.5 m. near the OHE masts, it
+shall be ensured that the nearest edge of the cable trench is at least 3m
+awayfromtheOHEmast.
+CHAPTERVII (Extracts of Telecom manual)
+LINE PLANT SYSTEMS–UNDERGROUNDCOPPERCABLE(indetail)
+SYSTEM REQUIREMENTS(PLANNING)
+i) Laying of cables in the vicinity of SP/SSP/TSS:
+i. In the vicinity of traction sub-stations, the cable shall be laid at least one meter away
+from any metallic body of the sub-stations, which is fixed in the ground, and at least one
+meter away from the sub station earthing. The cables shall, further, be laid in concrete
+pipes or enclosed brick channels for a length of 300 m. on either side of the sub-station.
+As far as possible, the cable should be laid on the side of the track opposite the sub
+station side.
+ii. In the vicinity of the OHE switching stations (feeding posts, sectioning and sub-stationing
+posts), the cable shall be laid at least one meter away from any metallic body of the
+station which is fixed in the ground and at least 5 m. Away from stationearthing.
+iii. Where an independent earth is provided for an OHE structure, the cables shall be laid at
+least one meter awayfromsuch earthing.
+CHAPTERVII (Extracts of Telecom manual)
+LINE PLANT SYSTEMS–UNDERGROUNDCOPPERCABLE(indetail)
+SYSTEM REQUIREMENTS(PLANNING)
+j) Outside station limits, the cable shall generally be laid at a standard distance from 10m.
+from the centre of the nearest track.
+k) When signalling and telecommunication cables are laid in the same trench, a distance of
+about 100 mm. is to be maintained between them by placing bricks between them, at
+intervals of two metres.
+l) HT and LT power cables and telecommunication cables shall not be laid in the same
+trench.
+m) The cable laid parallel to the track shall normally be buried at the depth of 1.0 m. While
+those laid across the track must be one metre below the rail flanges.
+n) While laying, the cables shall not be subjected to sharp bends. The bending radius for the
+cable shall in no case be less than 40 times the diameter of the cable in case of
+aluminiumsheathed armouredcables.
+o) Normally OFC and quad cables are laid in the same trenches.
+CHAPTERVII (Extracts of Telecom manual)
+LINE PLANT SYSTEMS–UNDERGROUNDCOPPERCABLE(indetail)
+METHODSOFLAYINGCABLE
+Direct- In- The- Trench Method
+a) For direct laying, the bottom surface of the trench is made free of corrosive elements 
+and the cable is laid on the bedding of the soft earth of the trench.
+b) Where the bottom surface is rough, a 10 cm layer of fine sieved earth/sand shall be
+used as bedding.
+Drawing The Cables Through RCC Ducts / Pipes
+a)RCCducts/GIPipesor DWC/HDPEpipesmaybeused for layingthecable.
+b) Whenever the cable is laid in the duct, there shall be sufficient holes at the bottom of 
+the ductfor draining awayof any waterthatmaycollect.
+CHAPTERVII (Extracts of Telecom manual)
+LINE PLANT SYSTEMS–UNDERGROUNDCOPPERCABLE(indetail)
+METHODSOFLAYINGCABLE
+Laying Solid
+a) For laying solid, a trough is made in an excavatedtrench and the cable is laid in the trough.
+b) Molten bituminous compoundorasphalt is poured in to fill the trough completely.
+c) It is then lined with bricks on the top after the compound is set.
+d) Care is taken to hold the cable in the trough on wooden pieces, so that the cable is 
+entirely surrounded by the molten material.
+e) This type of laying is can be justified only in cases where the soil is chemically detrimental
+duetoelectrolytic corrosion, or at critical bridges and theft prone areas.
+CHAPTERVII (Extracts of Telecom manual)
+LINE PLANT SYSTEMS–UNDERGROUNDCOPPERCABLE (indetail)
+TESTINGOF CABLES
+a) During cable laying work Cables section shall be tested after each joint is made to facilitate
+tracing of a fault during the course of jointing.
+b) The conductor must be tested just before laying and after laying and jointing and alsoregularly
+on the laid cable for the following:
+(iv)
+(i) Continuity
+(ii) Absence of crossed pair/quad
+(iii) Absence of conductor cores contacts
+Insulation resistance
+(v) Absence of contacts between wires forminga pair(shortcircuit)
+Transmission loss & cross-talk
+(vi)
+(vii)
+Continuityof armour andscreen of the cableneed to be checkedbefore laying
+ d) Quad pairs used for signalling purposes are required to be tested carefully and taking 
+assistance of signalling staff who will arrange for disconnection of signalling gears.
+CHAPTERVII (Extracts of Telecom manual)
+LINE PLANT SYSTEMS–UNDERGROUNDCOPPERCABLE(indetail)
+ROUTINETESTSSCHEDULE
+a) Underground cables shall be tested once every year for continuity,
+transmission loss, cross-talk, loop resistance, armour continuity, insulation
+resistance and tracing & updation of cable route diagram and the results of tests
+shall be submitted to DSTE/ADSTE.
+b) In routine test schedule, the Insulation test should be carried out limb to earth
+and Limbtolimb.
+c) Each Emergency socket provided through quad cable shall be inspected once in
+15 daysbythesectional technician/JE/Tele
+CHAPTERVIII (Extracts of Telecom manual)
+IP-MPLS (in detail)
+
+
+
+Multiprotocol label switching (MPLS) also known as IP-MPLS is a routing
+mechanism within a telecommunicationnetwork (IP MPLS is one typeof
+MPLSwhichprimarily uses IP-routers)
+The routers direct data from one node to another based on the short
+path labels instead of the relatively longer network addresses.
+It avoids the need for complex lookups in the routing table, so 
+communications tend tobe faster.
+
+
+Since it also encapsulates the protocols of the individual streams which
+are diverse, into the packets with its own protocol, it is called the 
+“multiprotocol” routingtechnique.
+MPLSbelongstothefamily of packetswitching networksand wasdesigned
+to 
+overcomethe limitations of IP based forwarding for VPN.
+CHAPTERVIII (Extracts of
+Telecom manual) IP-MPLS
+(in detail)
+In a traditional IP network, each router performs an IP lookup, determines the
+next hop based on its routing table and forwards the packet to the next hop
+thereby creating a lot of overhead at each routers interface.
+However, MPLS on the other hand makes packet forwarding decisions which
+are based entirely on the label of the packet without the need to examine the
+packet itself.
+MPLSworks in betweenOSI data link layer and network layer and is summarised
+as Layer2.5 networkingprotocol.
+MPLSisaninnovative approachthat usesa label basedforwarding model.
+Out of the three major technologies viz. IP-MPLS, MPLS-TP and Carrier Ethernet, 
+IP-MPLS has been chosen as the choice of future transport technology for
+Indian Railways.
+Advantageof IP MPLS: support for L2 andL3 servicesand
+IP routing.
+CHAPTER VIII (Extracts of Telecom manual) IP-MPLS (in detail)
+Technology & Terminology
+ When a packet enters the MPLS network, a forwarding equivalence class (FEC) value is 
+assigned to it by adding a small label to the packet.
+ Every router within the network knows how to handle different FEC labels, so there is no 
+need to doaheader analysis each time.
+ Instead,every router uses thelabel asan index to identify a new FECfor thatpacket.
+ MPLS creates a predetermined path to route traffic in the most efficient way possible
+based on the FEClabel.
+ Thismechanism gives routers the option to choose low-latency routes for certain
+applications like live video streaming so it is delivered faster to the destination when 
+comparedtothetraditional routing mechanism.
+ Forwarding equivalence class (FEC) is a group of IP packets that are forwarded.
+ Packets within an FEC are equivalent in terms of forwarding, such as same destination,
+same pathand same class of service. A LSP is assigned to each FEC that is defined
+using IP interior routing protocols.
+CHAPTERVIII (Extracts of Telecom manual) IP-MPLS (in detail)
+Label
+
+
+
+
+The label is a part of MPLS header.
+It is placed between the data-link and IP headers.
+It identifies the path a packet should traverse.
+The MPLS header is composed of 32 bits out of which 20 bits are allocated
+to the label also called label stack, 3-bits are experimental bits often
+used for specifying class of service. One bit is reserved for the bottom of
+the stack bit
+and is set if no label follows. 8-bits are used for time-to-live
+(TTL) used in the
+samewaylikeIPheaders.
+CHAPTER VIII (Extracts of Telecom manual) IP-MPLS (in detail)
+Label
+
+
+
+
+
+Label Forwarding Information Base: A table is created by a label switch
+capable device that indicates where and how to forward frames with
+specific label values.
+Label Switched Path (LSP): It is a unidirectional tunnel between a pair
+of routers routedacross MPLSnetwork.
+Label Edge Router/Ingress router (LER): It is a router that first
+encapsulates the packet inside an MPLS LSP and also makes initialpath
+selection.
+Label Switched Router (LSR): A router which only does MPLS switching in
+the middle of an LSP.
+Egress Router: The final router at the end of LSP which removes the label.
+CHAPTERVIII (Extracts of Telecom manual (in detail)
+IP-MPLS
+ Circuitswitchingmakes useofdedicatedpathsandsuffers from inefficiencyandlackof scalability.
+ Packetswitching is more efficient and suited to digital data, using techniques like
+datagram and virtual circuits.
+ ATM (Asynchronous Transfer Mode (ATM) is a layer 2 virtual circuit-based approach,
+is fast but complex and costly.
+ MPLS combines IP routing’s scalability with ATM’s speed. It avoids the need for
+complex lookupsin the routingtable, so communications tend to be faster.
+ MPLS operates at Layer 2.5 using 32 bit labels for efficient forwarding i.e. MPLS works
+in betweenOSI datalinklayer andnetwork layerandsummarisedas Layer 2.5networking
+protocol.
+ MPLSusesLSR,LER,LSP.
+ Control and data packets are managed using RIB, FIB, LIB and LFIB.
+ MPLSusesPush,pop,swapandPHPoperationsfor label handling.
+ VPNsprovidesecure communicationover shared/public networks. MPLS VPNs
+offer superior scalability, security, and flexibility
+Routing Information Base (RIB)
+ForwardingInformationBase (FIB)
+Label ForwardingInformation Base (LFIB)
+CHAPTERVIII (Extracts of Telecom manual (in detail)
+IP-MPLS
+Multiprotocol label switching (MPLS) also known as IP-MPLS (IP- MPLS is one type of MPLS which
+primarily uses IP-routers) is a routing mechanism within a telecommunications network.
+The routers direct data from one node to another based on the short path labels instead of the 
+relatively longer network addresses.
+Since it also encapsulates the protocols of the individual streams which are diverse, into the packets 
+with its own protocol, it is called the “multiprotocol” routing technique.
+L3 VPNs use Virtual Routing and Forwarding (VRF) to isolate customer routes on Provider
+Edge (PE) routers.
+ MP-BGP (Multiprotocol BGP) is used for distributing VPNv4/VPNv6 routes using Route
+Distinguisher (RD) for uniqueness and Route Target(RT)for import/export control.
+MPLSTE(TrafficEngineering) aims to distribute traffic efficiently across the network rather 
+than just relying on shortest path routing. IP routing often causes congestion due to unequal 
+bandwidth usage.
+MPLS-TEallowssource-based routing, uses RSVP-TE (Resource Reservation Protocol) to
+reserve resources along LSPs.
+CHAPTERVIII (Extracts of Telecom manual) IP-MPLS
+(in detail)
+CHAPTERIX (Extracts of Telecom manual)
+TELEPHONEEXCHANGE (indetail)
+ Indian Railways uses automatic, electronic, digital, and Stored Programme Controlled
+(SPC) telephoneexchanges.
+ These exchanges operate on either conventional PCM-TDM digital technology or modern
+IP technology, with all new exchanges mandated to adopt IP-based systems.
+ IPtelephonyfollowsthe SIPprotocol andis compatiblewithstandardoff-the-shelf servers.
+ IP exchanges with “open standards” only shall be used in the Railway
+Telecommunication Network for the sakeof interoperability.
+ voiceVLANframesshallhavepriorityoverthegeneraldataframes.
+ FXS gateways shall be used for interfacing FAX, analog telephones and other analog
+telephony equipmentif any.
+ IPphonesusedinthenetworkshallbePoE enabledandshalldrawpowerfrom thePoE
+switches andensuring UPS backup forthe PoE switches.
+ IPphoneshouldhavetwoGigabitEthernet ports oneportforconnectingtheIPphone with
+LAN onPoE,andotherporttoconnectPC throughIPphone.
+CHAPTER IX (Extracts of Telecom manual) TELEPHONE EXCHANGE (in detail)
+ SIP Trunk/ PRI gateway shall be used to connect to NGN or PSTN. In cases where
+availability of PRI from PSTN is a challenge, FXO can be used.
+ Telephones used in the VoIP exchanges shall also be open standard. Thus, these phones
+shall work with third party exchanges/ SIP servers as well. It must also be possible to
+use third party SIP clients loaded on mobile phones using Wi-Fi.
+ Separate trunk Exchanges are normally not required as trunk exchange function is handled
+by NGN(Next Generation Network) network. NGN uses MPLS network of RCIL to provide a
+distributed trunk exchange with which all zonal and divisional exchanges are
+connected using E1 links and all trunk calls are routed through this network.
+ A back up for trunk connectivity at Zonal and divisional level may be done using direct
+E1/ SIP/PRI connectivity.
+ Provision for remote maintenance of the exchange from a remotely located operation &
+maintenance center shall be available in the system. Remote maintenance devices /
+Interface should be built within the system. All access should be through a secure method
+like Secure Shell (SSH) and Hypertext Transfer Protocol Secure (HTTPS) etc
+
+CHAPTERIX (Extracts of Telecom manual) (in detail)
+TELEPHONEEXCHANGE
+Thevarious components of the exchange systemshallbe
+a) Exchangehardware
+b) Exchangesoftware
+c) FXS/FXO/PRIgateway
+d) Man,MachineInteraction Terminal PC with Printer
+e) Test andmeasuringinstruments
+f)
+Power supplyArrangement consistingof Batteries, Charger,
+Changeoverpanelandstand-by system.
+g) Intermediate DistributionFrame(IDF)
+h) MainDistributionFrame(MDF)
+i) Protection arrangement
+j) Attendantconsoles
+k) Cable(underground andswitchboard)
+l) Subscribertelephone sets- Analog, digitaland VoIP based
+m)Maintenancetools
+n) Documentation
+o) Lightningprotection and Earthing arrangement
+CHAPTERIX (Extracts of Telecom manual)
+TELEPHONEEXCHANGE (indetail)
+Periodical Inspection:
+i) All exchanges and related installations shall be inspected by
+ADSTE/DSTE/Sr. DSTE at least once in a year. Maintenance records and
+fault registers shall be checked for their properupkeep.
+ii) Sr. Section Engineer/Telecom should carry out detailed and effective
+inspection and testing once in a quarter year and Junior Engineer/Tele
+once in amonth.
+CHAPTERX(Extracts of Telecom manual)
+QUADCABLEBASEDCONTROLCOMMUNICATIONSYSTEM
+ In electrified as well as non-electrified sections of Indian Railways, on important 
+routes, OFC cable as well as six quad jelly filled cables are being laid, but on non
+important non-electrified routes, only quad cables are being laid.
+ Wherever OFC and quad cables are laid, control communication is provided on
+OFC by providing STM-1/IP-MPLS router and P.D.MUX equipment at every stn.
+ Block circuits, emergency sockets and level crossing gate communication are
+provided on quad cable.
+ Wherever OFC cable work is not completed yet and only quad cable is laid,
+control as well as block communication are provided on the quad cable itself.
+ Control circuits typically operate through an amplifier equaliser system to maintain 
+signal quality.
+ Wherever Amplifier-Equaliser system is used, quad cable is not required to be loaded. Every 
+station shall be provided with Amplifier-Equaliser equipment to provide communication at 
+that station and to equalize the losses in the VF band.
+CHAPTERXI(ExtractsofTelecommanual)
+RADIOCOMMUNICATION(Analog/DigitalVHF)
+Wavelength Freq.Range Class
+30,000-10,000m 10-30kHz VLF
+10,000-1,000m 30-300kHz LF
+1,000-100m 300-3000kHz MF
+100-10m 3-30MHz HF
+10-1m 30-300MHz VHF
+100-10cm 300-3000MHz UHF
+10-1cm 3to30GHZ MW
+“CommunicationbyRadio”means the transfer of intelligence fromone
+point toanotherthroughspaceusingradiatedelectromagneticenergy(Radio
+Waves)(intheFREQspectrumoffromabout10KHztoabout30,000KHz.)
+CHAPTERXI(Extracts of Telecom manual)
+RADIOCOMMUNICATION(Analog/DigitalVHF)
+ The objective of any communication is to pass information from one place
+to another.
+ Radio Communication consists of generation, propagation and reception of
+electromagnetic waves.
+ Modesused in Indian Railways are- VHF Communication, UHF Communication
+& M/WCommunication
+ Thefrequency band of VHF Communication is 30 MHz to300 MHz.
+ Thefrequencyallotted by WPC in VHF forIndian Railways are in the band 146.2
+MHzto167.95 MHz.
+ Communication in this range of frequencies  is mainly due to line of sight,
+reflection and scattering of waves.
+ VHFsetRDSO specification no. RDSO/SPN/TC/107/2018 or latest ,
+CHAPTERXI(Extracts of Telecom manual)
+RADIOCOMMUNICATION(Analog/DigitalVHF)
+CHAPTERXI(Extracts of Telecom manual) RADIO COMMUNICATION
+(Analog/Digital VHF)
+ LIMITATIONSOFVHF COMMUNICATION- Rangelimited up to 25 Km maximum due torequirement of line of sight.- Dark Zones occur due to terrain, high rise buildings & other structures.- VHF sets consume more power, hence the set may require more than one battery set for long 
+duration usage.- Interference due to other users operating at the same frequency.- Effect of prevailing noise in the surrounding.
+ Digital Walkie-Talkie sets are preferred over Analog sets and Analog sets to be phased out
+gradually.
+ Procurement of VHF sets and their condemnation shall be done by the S&T department.as per
+RDSOprocedures and Railway Board guidelines.
+ The S&T department of the divisions shall be responsible for obtaining frequency authorization
+and obtaining license from Wireless Planning Commission. It shall also be responsible for
+payment of spectrum charges and license renewal of the entire population of the VHF sets being
+used in the division.
+CHAPTERXI(Extracts of Telecom manual) RADIO
+COMMUNICATION(Analog/Digital VHF)
+
+Uses of VHF Communication:
+• Traffic Control
+• PoliceDuties
+• MobileCommunication
+• PointtoPointCommunication
+• PointtoMultipoint (Group)Communication
+• DisasterManagement
+• CommunicationduringMaintenance andConstructionBlocks
+• Yardcommunication
+
+• Communicationinthe trainbetween Guard&Driver
+Fixed VHF installation must be inspected every month by JE, by SSE once in six months
+and byADSTE/DSTE once inayear.
+CHAPTERXII (Extracts of Telecom manual) ETHERNET RADIO
+ Point-to-point wireless digital links should be used between two locations when it is 
+difficult to use OFC/CAT cable between the locations or the sites are to be connected
+in an expeditious manner or other administrative reasons like backup purpose, solving
+the miscreantactivities etc.
+ Tomaximize the performance of the wireless  link, line of sight is required between the
+two locations and hence the antennas may have to be provided at a certain height. At 2.4
+GHz, line of sight (LOS) operations provide a much more reliablewirelesslink.
+ Point to point wireless link at frequencies around 900 MHz or in the UHF band (400
+MHz)can work reliably in near line of sight (NLOS) or in non-line of sight conditions (NLOS
+point to point wireless links)
+ Point to Point Ethernet radio equipment normally operates in 2.4 or 5.8 GHz License
+Free Frequency Band
+ These radios typically deliver a throughput from 25 Mbps to 750 Mbps. They can work
+as short range as well as long range links which can go up to 50 Kms or even more in
+somecases.
+CHAPTERXII (Extracts of Telecom manual) ETHERNET RADIO
+ Thepayload canbevoice, data orvideo signals and can carry any type of signaling as per
+the requirements. The output signal can be framed or unframed, synchronous or
+asynchronous.
+ Each side of the link comprises an Indoor Unit (IDU), an Outdoor Unit (ODU), an
+External Antenna, a CAT-5e (or better) UV (Ultraviolet radiation) Protected Outdoor
+Cable fromIndoor Unit to Outdoor Unit (which provides both Data and Power). In
+some models, the outdoorunitandantenna are integrated.
+ TheEthernet Radios can meet a variety of communication needs of Indian Railways
+including Building-to-building and campus connectivity, High-speed Internet
+access, T1/E1 leased-line replacement, traffic backhaul, Video surveillance 
+connectivity, Voice-over-IP and multimedia communications as required.
+ The Ethernet Radio (Wireless Tx and Rx Unit) can be Point to Point (PtP) or Point
+to Multi Point (PtMP) type.
+ LinkLock mechanismis being used based on MAC Authentication preferably to use two
+way locking to prevent the situation where an outdoor unit is stolen and used as a pirate
+link .
+CHAPTER XIII (Extracts of Telecom manual) OPTICAL FIBRE COMMUNICATION SYSTEM  
+(in detail)
+ Optical Fibre Communication System is the backbone system for all types of
+communication needs of Indian railways such as;
+ ControlCommunicationwithemergency communication
+ Administrative voice and datacommunication.
+ MobileTrainRadioCommunication.
+ VariousIPnetworks carrying IT applications and internet/intranetservices
+ Modernsignalling applications
+ The Optical Fibre System on Indian Railways mandates the use of 24/48 fibre OFC along 
+with six quad jelly-filled cables, laid through HDPE pipes using the blowing method.
+ Onefibre pair is used for communication, with another reserved as backup, while the rest 
+are transferred to RailTel.
+ Future projects will employ IP-MPLS networks for both short and long-haul needs, 
+replacing the current STM-1 system.
+ Theend to end loss of OFC should not exceed 0.25db/Km at 1550 nm and 0.40 db/Km at 
+1310nm
+CHAPTERXIII (Extracts of Telecom manual) OPTICALFIBRECOMMUNICATIONSYSTEM
+ Thecable length shall be worked out on the following basis
+(a) Routelength asper actual measurement plus contour allowance of
+2.5%.
+(b) Extra length for track crossing including 2.5 meters loop on each
+side.
+(c) 10meters extralength on approach/crossing of the bridges and
+culverts on each side as per measurement in the detailed survey.
+(d) 5metersofcable tobe kepton either sideof majorsteel bridges
+and2.5meters of cable onshort bridges.
+(e) Atevery joint, a loop of 10meters on either side shall be kept.
+(f)
+In cable huts, a loop of 10 meters in the cable pit shall be kept.
+ Bending of a fiber optic cable can damage the cable if the radius
+of the bend is too
+small. Bending radius under tension
+during pulling should always be greater than 30 times
+diameter of the OFC.
+the
+CHAPTERXIII (Extracts of Telecom manual) OPTICALFIBRECOMMUNICATIONSYSTEM
+CHAPTER XIV (Extracts of Telecom manual) DIGITAL MULTIPLEXING EQUIPMENT
+ Theexisting digital multiplexing equipment are based on 2048 Kbps SDH–(STM •1, STM •4,
+STM– 16orhigher)10Mbps,100Mbps,1Gbps (Ethernet) based hierarchy.
+ In future, it has been decided that all new work shall be based on IP-MPLS technology.
+ Primarymultiplexing equipment
+This equipment shall multiplex 30 analogue and/or data channel to 2048kbps ITU
+compatible digital stream on transmit side and on receive side, it shall demultiplex ITU
+compatible 2048 Kbps digital stream to 30 analogue voice /data channels.
+Following type of primary multiplexers are in use:
+• TerminalMux
+• DropInsert Mux
+• DropInsert Muxwith conference facility
+ InRailways, SDH onlyupto level 16 are used.
+ VariousSDHsignal levelsalong with the bit rates are
+SDH:Synchronous Digital Hierarchy : STM: SynchronousTransportModule
+SDHLEVEL
+STM•1
+STM•4
+BITRATEMbps
+155.520
+622.080
+STM•16
+2488.320
+CHAPTERXIV(Extracts of Telecom manual)
+DIGITAL MULTIPLEXINGEQUIPMENT 
+FRAMESTRUCTURE
+2048KbpsTRIBUTARY:
+ Theframestructureshall conform toITU•T Rec.G.704/G.732.
+Theframeshall consist of 32 time slots numbering from time slot 0 to time slot 31.
+Timeslot 0shall be used for transmission of frame synchronization word and alarms, etc.
+ Times slot 16 shall be used for transmission of signalling of channels 1 to 15 and 16 to 31. 
+Remainingslots shall be used for speech data/channels.
+
+
+
+INSPECTION, RECORDANDREPORT
+Three monthly and six monthly test shall be carried out by the JE/SSE of the section and he shall 
+maintain all the records.
+Yearly schedule of maintenance shall be carried out by the JE/SSE In charge.
+The critical yearly schedule/tests/adjustments shall be carried out under the supervision of 
+ADSTE/DSTE.
+CHAPTERXV(Extracts of Telecom manual)
+DATA NETWORK
+ The interconnection of a large number of data processing devices through suitable
+communication links enabling data transfer between the data processing devices
+constitutes a DATANETWORK.
+ Indian Railways has three major data networks viz. Railnet, Unified Ticketing network
+(UTN) and FOISnetwork.
+ Special purpose data networks are also being established by the Railways like the network
+for monitoring the CCTV network, VoIP control communication network, etc. Several
+applications are already operating over the networks and many new applications are
+contemplated.
+ UTNandFOISareusedOSPFroutingprotocol.
+ Thevariousapplications are:
+ Passenger Reservation System (PRS)&Unreserved Ticketing System (UTS)
+ Freight Operations Information System (FOIS), Coaching operations Information System
+(COIS), Control Office Automation (COA) &Crew ManagementSystem(CMS)
+CHAPTERXV(Extracts of Telecom manual)
+DATA NETWORK
+various applications of Railnet
+ MaterialManagement InformationSystem (MMIS);
+ Integrated Coaching Management System (ICMS)
+ Parcel managementsystem (PMS);
+ E-procurement System
+ Integrated Material Management System (iMMS);
+ e-Office
+ TrackManagementSystem (TMS);
+ Traction Distribution Management System (Pilot project) (TDMS)
+ Signaling Maintenance Management System (SMMS);
+ Real-timeTrain Information System (RTIS)
+ Integrated Payroll and Accounting System (IPAS)
+ HumanResourceManagementSystem (HRMS)
+CHAPTERXV(Extracts of Telecom manual)
+DATA NETWORK
+
+
+
+Railway applications are normally transported by Railway network, The general
+purpose Indian Railways wide area intranet of IR is known as Railnet.
+
+
+
+Railnet is also being used for accessing the Internet.
+Railnet is built up by Railways own transport network, utilising bandwidth from
+RailTel Corporation of India (RCIL) or leasing bandwidth from BSNL or other service
+providers.
+For Internet access, Railnet is connected to Internet at specific locations duly
+ensuring network security by means of suitable firewalls along with other devices
+to circumvent cyber threats.
+CommunicationMedia:
+The communication links making up the data network are a combination of media
+like OFC, GSM-R/LTE, IP Radio links, VSAT, Twisted pair copper for last mile
+connectivity. For Local Area Network (LAN) in the same building Optic Fibre Cable/Cat 6
+cables are used.
+CHAPTERXV(Extracts of Telecom manual)
+DATA NETWORK
+
+Network Devices: The various devices used in the data network other than the nodes on
+which the applications reside, along with their interface specifications are given below:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+Modemsa.G.703/V.35 b. G.703/G.703
+Switches a. L2 PoE switch b. L2 non-PoE switch c. L3switches
+Routers
+UTM/Firewalls
+LANextenders
+WiFi Access Points and Controllers
+Interface Converters
+Media converters
+DSLAM,ADSL
+GPON/, EPON
+CHAPTERXV(Extracts of Telecom manual)
+DATA NETWORK
+
+Maintenance Schedule:
+i. The datacom equipment shall be kept clean and tidy without dust and shall be
+cleaned regularly and to be inspected once in a year by SSE/JE incharge.
+ii.
+iii.
+The diversity channels shall be checked at least once a month by switching off
+main channels and ensure thatautomaticswitchover/routing is takingplace.
+Condition of underground cables to be checked by carrying out routine checks
+done for U/Gcables.
+iv. OFC cablesandconnectors tobe checked asper routinechecks doneon OFC.
+v.
+The Antivirus patches to be updated in NMS system timetotime.
+vi. Inaddition to the above, anyother checks suggested by manufacturers
+CHAPTERXVI(Extracts of Telecom manual)
+POWERPLANTSYSTEMSFORTELECOMINSTALLATIONS(indetail)
+ TelecomSystem/EquipmentslikePublic Address System, Passenger Information Display 
+System, Wifi equipment, Video Surveillance System (Close Circuit TeleVision), 
+Centralised Clock System, Voice Logging Equipments, Railnet, Video conference 
+equipment, Datacom Equipment of PRS, FOIS, UTS etc operates on 230 V AC Power
+Supply.
+ Telecom System/Equipments like Train Radio System, Optic Fibre Equipment,
+Multiplexing Equipments, Telephone Exchanges etc operates on 48 V DC Power
+Supply.
+ Train Traffic Control Equipment operates on 12/24/48 V DC. VOIP based TTC may 
+work on standard AC power supply ( 230 V AC) too. Datacom Equipment of SCADA 
+operates on 48/110 VDC or230VAC.
+ Most reliable 230V AC shall be provisioned in the network server center. Here, the 
+UPS system shall be provided with N+1 redundancy. DG supply is also to be extended 
+to the network server center.
+CHAPTERXVI(Extracts of Telecom manual)
+POWERPLANTSYSTEMSFORTELECOMINSTALLATIONS(indetail)
+SOURCEOFACPOWERSUPPLY:
+(a) In RE area, traction supply from both up and down catenary will be
+provided
+through AT Transformer with auto changeover arrangement at
+all wayside stations
+and other critical locations. Separate fuse/Circuit breaker
+arrangement tobe provided for telecom equipment when common source of
+supply is used.
+(b)
+(c)
+(d)
+Local supply shall be single phase or 3 phase depending upon the load
+requirement.
+Three independent sources of power supply should be arranged for all
+critical telecom installations. Diesel generator/Solar power back up shall
+be installed wherever local supply is unreliable and both AT supply ( up and
+down) are notprovided.
+PROVISION OF SOLAR BASED POWER SUPPLY SYSTEMS: Solar based power
+supply systemcan be planned where reliable powersupply is not available
+CHAPTERXVII(Extracts of Telecom manual)
+ACCIDENT COMMUNICATION (indetail)
+Communication from the site of accident is to be established as soon as an accident takes
+place.
+ Forthis purpose, Loco Pilots (drivers) and guards of all trains shall be provided with 
+portable control telephones, 5 WattWalkie Talkie set and CUG mobile SIM.
+ Incase of anaccident, these personnel must contact the control office and nearby
+stations without delay.
+ Additional communication means like mobile phones, BSNL/railway telephones, and Wi-Fi
+enabled dataandvideo transmission are arranged at the site.
+ Accident Relief Trains (ART) are equipped with megaphones, PA systems, walkie-talkies,
+satellite phones, and other tools to support communication.
+ All available CUG phones and internet-based messaging services like WhatsApp are used
+to transmit updates and visuals.
+ Public information is managed via designated accident helpline numbers like 1072,
+activated and manned promptly.
+CHAPTERXVII(Extracts of Telecom manual)
+ACCIDENT COMMUNICATION (indetail)
+ CompletetestingbyARTSSE/JE withnominatedstaff:oncein15days.
+ Inspectionby ADSTE/DSTE: once in 3 months.
+ Inspectionby Sr.DSTE:once in 6 months.
+ EveryARTshallhavenominatedtelecomstaff. The inchargeshallgenerally be SSE/JE and shall
+be assisted by 3 telecom technicians and 2helpers.
+ ARRANGEMENTS ATDISASTER MANAGEMENTCONTROLROOMSATHEADQUARTERS/
+DIVISIONS
+ BSNLPhones–2NoswithISDfacility.
+ RailwayTelephones–3NoswithSTDfacility.
+ AllinonePrinter– 1No.connectedto BSNL lineand1No.connected torailwayline.
+ Facilityto extendsection control to the disaster management control.
+ Hot line between Headquarters and divisional disaster management control rooms shall
+beprovided.
+ Importanttelephone numbers ofhospitals /doctors /officials of state and district
+administration and other important functionaries bekept ready.
+CHAPTERXVIII(Extracts of Telecom manual)
+MOBILETRAIN RADIO COMMUNICATIONS-GSM-R
+CHAPTERXVIII(Extracts of Telecom manual) 
+MOBILETRAIN RADIO COMMUNICATIONS-GSM-R
+ Mobile Train Radio communication is a digital wireless network based
+on GSM-R(Global System for Mobile Communication-Railway) designed on 
+EIRENE(European IntegratedRailway Radio Enhanced Network)
+
+The system consists of following subsystems :
+
+
+
+
+
+
+
+Mobile Station (MS)
+Base Station Sub system (BSS)
+Networkandswitchingsubsystem (NSS)
+Operating sub system (OSS)
+Dispatcher
+Cab Radio
+PowerSupplyArrangement
+CHAPTERXVIII(ExtractsofTelecommanual) 
+MOBILETRAINRADIOCOMMUNICATIONS-GSM-R
+TheBasicfeaturesofGSM-Rare
+Allowsusertomakeadistinctcall. PointtoPointcall
+Allowsgroupsofusertoreceivecommoninformation. VoiceBroadcastcall
+Allowsgroupsofusertomakecallswithin/amongthegroups. VoiceGroupcall
+Allowsusertocallcontrollerbyshortcodeorbuttonduring 
+emergency.
+Emergencycall
+Allowsauseroranapplicationtobe reachedbymeansof a 
+number,whichidentifiesthe relevantfunctionandnotthe 
+physical terminal.
+Functionaladdressing
+Providestheroutingofmobileoriginatedcallstothecorrect 
+controllere.g.relativetothegeographicarea.
+Locationdependent 
+addressing
+Allowsresourcepreemptionforprioritycalls eMLPP(enhancedMulti-Level
+PrecedenceandPreemption)
+RadiointerfaceandfrequencyusedinGSM-R:
+TheRadiolinkusesbothFDMA(Frequency DivisionMultipleAccess)andTDMA(TimeDivision
+multipleAccess).
+The900MHzfrequencybandsforuplinkanddownlinksignalare890-915MHzand935-960 
+MHzrespectively.
+CHAPTERXIX(Extracts of Telecom manual)
+MOBILETRAIN RADIO COMMUNICATION-LTE
+
+
+
+Long Term Evolution (LTE) is the latest family of mobile
+communication standards (4G) developed by 3rd Generation Partnership
+Project (3GPP).
+The main requirements for the new access network are high
+spectral efficiency, high peak data rates, Short round trip time as well as
+flexibility in frequency and bandwidth.
+Adaptation of LTE on Indian Railways:- Indian Railway is migrating
+from GSM-R to LTE for Railway Automation System and Broadband
+Services. It is proposed that the future projects
+of Railway
+Automation System and Broadband Services may be designed with LTE.
+It is also required that LTE system proposed for Indian Railways should
+be fit for bearer network for TCAS/ETCSLevel 2/3 for desired speed.
+CHAPTERXIX(Extracts of Telecom manual)
+MOBILETRAIN RADIO COMMUNICATION-LTE
+CHAPTERXIX(Extracts of Telecom manual)
+MOBILETRAIN RADIO COMMUNICATION-LTE
+ For the downlink, OFDMA (Orthogonal Frequency Division Multiple Access) is used and
+for the uplink SC-FDMA (Single Carrier- Frequency Division Multiple Access) is used.
+ E-UTRAshall operate in spectrum allocations of different sizes, including 1.4, 3, 5, 10, 15 
+and20MHzasper3GPP/ETSI inboththeuplink and downlink.
+ The time taken for data to travel in the air interface between UEs (mobile) to eNodeB
+(base station) is achieved to be less than 5 ms (User Plane) and time taken for a UE to 
+switch from standby IDLE state to ACTIVE state is less than 100 ms (Control Plane).
+ At least 200 users per cell should be supported in the active state for spectrum 
+allocations up to 5 MHz.
+ Mobility across the cellular network shall be maintained upto 350km/h.
+ 5 MHz (paired) Spectrum in 700 MHz band (703-748 MHz Uplink & 758-803 MHz 
+Downlink, also specified as Band 28 in 3GPP/ETSI standards) has been allocated to Indian
+Railways for implementing above services.
+CHAPTERXIX(Extracts of Telecom manual)
+MOBILETRAIN RADIO COMMUNICATION-LTE
+Whatarethemainapplications planned tobeimplemented on LTEinIndian Railways?
+The following main applications/solutions are to be implemented on LTE in Indian 
+Railways:
+1. Indian Railway Automatic Train Protection System (IRATP) through Train Collision 
+Avoidance System (TCAS) or anyother similar systems as specified by Indian Railways
+2. MissionCritical Services (MCX) as per FRMCS standards
+3. VideoSurveillance System in locomotives for Level Crossing Gate/ Tunnels/ Bridges
+4. Onboard Passenger Information System (PIS) consisting of passenger information
+display and passenger announcement system
+5. Internet of Things (IoT) based Asset reliability monitoring
+6. OnboardVideoSurveillance System(VSS) for Passenger Security
+7. BroadbandInternet on Running Train (Onboard Wi-Fi facility through LTE).
+CHAPTERXX(Extracts of Telecom manual)
+SOUNDDISTRIBUTIONSYSTEM
+1. Sound distribution system on the railways include transmission of:
+a) Announcement to passengers and other railway users at Railway 
+station areas, inside coaches, information regarding arrival, departure 
+and late running of trains and also important information pertaining to
+railway traffic.
+b) Speeches and musical programmes for railway men and guests in
+closed auditoriums or open grounds.
+c) Announcements and musical programmes for workshop staff in shops,
+halls and hospitals.
+d) Public address system during VVIP public functions
+2. Types of services- There are two types of services:
+a)
+b)
+"A" Category- desirable where high quality sound reproduction (both
+intelligibility and fidelity) is aimed at.
+"B" Category- employed where prime consideration is intelligibility.
+CHAPTERXX(Extracts of Telecom manual)
+SOUNDDISTRIBUTIONSYSTEM
+ MICROPHONES:
+a. MovingCoil Microphone- These are commonly used and have robust construction.
+Normally low impedance microphones are used as these permit the use of
+long microphone lines. These should have uni-directional characteristics which
+help in reducing acoustic feedback/howling specially in indoor sound systems.
+b. Condenser Microphone- Due to smaller size condenser microphones are
+commonly used for lavallier application either as Tie Pin Type or as Neck Type.
+These microphones have higher sensitivity compared to moving coil microphones.
+ LOUDSPEAKERS
+a. Columnloudspeakers are ideal for obtaining the vertical directivity pattern and
+should be installed in all important stations/locations.
+b. Conetypeloudspeakers: covered areas like waiting rooms, retiring rooms,etc.
+c. Horn type loudspeakers: Horn type loudspeakers are suited to open platform
+andlarge halls with high roofs.
+CHAPTERXXI(Extracts of Telecom manual)
+PASSENGERINFORMATIONSYSTEM
+ Integrated Passenger Information System is used for giving train arrival/departure
+information and any other video/image/alert information to passengers, which
+includes different type of display i.e. Single Line, Multiline, True colour indoor and
+outdoor video display, At a glance, coach guidance and PC based announcement system
+ Passenger Information Systems including IVRS, auto-announcement, train indicators,
+coach guidance, and GPS-based master-slave clocks.
+ The Integrated Passenger Information System (IPIS) provides real-time train data via
+displays and announcements, integratedwith NTES/COIS forauto updates.
+ IP-based IPIS uses optical fiber and IP-enabled devices for remote monitoring and
+operation. Trainindicator boards, coach guidance displays, and platform clocks must
+meetRDSOspecifications, ensure visibility, and include surge protection.
+ Masterclocks based on GPS ensure ±5sec/week accuracy and drive multiple slave
+clocks at stations for synchronized time
+CHAPTERXXI(Extracts of Telecom manual)
+PASSENGERINFORMATIONSYSTEM
+CHAPTERXXII(Extracts of Telecom manual)
+SATELLITECOMMUNICATIONSYSTEM
+ VSATprovidesPointtoPointor Pointto MultiPointdata connectivity using 
+Geostationary Satellite as repeater location. As satellite is being used as repeating 
+stations, the data originating and terminating point can be anywhere on the earth.
+ VSATnetwork in Indian Railways is typically used for UTS/PRS & FOIS connectivity and 
+as AccidentSite Communicationfor voice, data andvideo transmission.
+ Railway is using them to provide connectivity between various Railwaydata networks 
+and remote locations where the normal data connectivity is not available or provision
+of the same is not feasible.
+ IR Satellite network operates in Ku Band and operates on up link frequency of 13.75 to
+14.5 GHz and downlinkFrequencyof 10.70 to12.75GHz.
+ Railwayhashired 12Mhzfrequency space onGSAT18fortheirVSATNetwork.
+ Thetransmissionofa signal up tothesatellite andbackdown is calleda hop. Transmissiondelay
+for one hopisbetween 240msec.and 270msec.
+
+CHAPTERXXIII(Extracts of Telecom manual)
+PROTECTIONOFTELECOMEQUIPMENTSAGAINST LIGHTNING(indetail)
+ Suitable protection arrangements shall be provided in telecom installations to protect
+the equipments from lightning and ensure safety of operational & maintenance staff.
+ Theprotection system shall provide a very low impedance parallel path to the ground
+in such a manner that discharge current due to lightning is transmitted to the earth
+through this path, instead of passing through the equipment.
+ The lightning conductors shall be drawn in most direct possible path avoiding bends,
+upturn or kinks.
+ Thetelecominstallations shall use single earth system in which the different earth
+connections from equipments, towers, DC power supply, metallic structures etc. shall
+be interconnected toeach other through low resistance earthing conductors.
+ Thismethodis recommended to keep all the points to be earthed at approximately
+samepotential level in order to reduce the possibility of side flash & subsequent
+damages.
+ Theprotective earth of telecom system shall not be connected to the earth of mains
+powersupply system.A minimumdistance of 10Misdesirable.
+CHAPTERXXIII(Extracts of Telecom manual)
+PROTECTIONOFTELECOMEQUIPMENTSAGAINST LIGHTNING
+The lightening protection system designed to divert lightning and surge currents safely to
+earth using low impedance paths.
+Earth electrodes must be at least 2.5 meters deep and may be of G.I. pipe (≥38mm
+Internal Diameter), G.I. angle (Cross section: 50x50x5mm), or 16mm Dia copper rods,
+spaced 4meters apart if multiple are needed.
+Soil may be treated using 600mm dia pits with alternate 2.5cm layers of salt and
+charcoal.
+Tower, internal, and external ground rings with 38 sq.mm tinned copper conductors
+provide grounding for telecom towers and equipment.
+Earth resistance should be tested twice annually, and corrective measures taken before
+monsoon.
+CHAPTERXXIII(ExtractsofTelecommanual)
+PROTECTIONOFTELECOMEQUIPMENTSAGAINSTLIGHTNING
+CHAPTERXXIV(Extracts of Telecom manual) 
+INSTRUCTIONSFORPROTECTIONTOSTAFF
+ In order to ensure safe working environment for the Telecom staff working on track 
+and also keeping in  view the hardship faced by them during extreme weather conditions, 
+provision of special protective gears has been made for the Technicians/Maintainers and
+Helpers of Telecom;
+A. RainCoatwithWaterproof coat andtrouser.
+B. WinterJacket
+C. Clothingfor Subzeroclimate
+i. Jacket, ii. Trouser, iii. Gloves, iv. Snow boots, v. Cap.
+D. Safety Shoes(with Steel Toes)
+E. Luminousvest
+F. LEDrechargeabletorch
+The colour scheme of uniform for Technicians/Maintainers and Helpers of Telecom
+Department for both men/women- Shirt/Kurta shall be of Sky Blue and Trouser/Salwar
+shall be Navy Blue.
+CHAPTERXXIV(Extracts of Telecom manual) 
+INSTRUCTIONSFORPROTECTIONTOSTAFF
+FIRSTAID:First aid box shall be kept in major telecom installations having more than 6 staff.
+Acid: Battery rooms shall be provided with good ventilation and Acid-proof tiles shall be
+provided on the flooring where acid is handled.
+FIRE:Automatic Fire Detection & Alarm System linked with data logger as per latest RDSO 
+specification at Telecom installations.
+Fire Extinguishers:
+AClass:Wood,charcoal, jute, cloth, etc.– water is sufficient to extinguish the fire.
+BClass:Oil, petrol, grease, paints etc.– foam is sufficient to extinguish the fire.
+CClass:electrical fire– water is not used, only CO2 is used.
+ELECTRICITY
+Removal of fuses- Fuses shall be removed or replaced only after the circuit has been 
+completely de-energised.
+Anon-conductive fuse extractor shall be used to remove knife or cartridge type of fuses from
+their holders.
+Fusesshould bereplaced with the correct rated fuses.
+CHAPTERXXIV(Extracts of Telecom manual) 
+INSTRUCTIONSFORPROTECTIONTOSTAFF
+Instructions for Railway staff working on tracks equipped with 25KV single
+phase, 50 Hz ac traction overhead equipment and on or adjacent to such
+requirement:
+No work shall be done within a distance of 2 meters from the live parts of the overhead
+equipment without a on ‘permit to work’
+Nofallen wire or wires shall be touched unless power is switched off and the wire or wires
+suitably earthed.
+During maintenance or renewal of track, continuity of the rails serving electrified tracks
+shall be maintained by provision of temporary metallic jumpers of approved design for
+bridging the gap which would be caused during removal of fishplates or rails.
+Useofrails as foot path, a seat or for such other purposes is strictly prohibited.
+In electrified tracks the use of steel measuring tape or long metallic wires shall be
+avoided.
+CHAPTERXXV(Extracts of Telecommanual) 
+FAULTCONTROLPROCEDURES
+Inatypical RailwayTelecom Networkscenario, following types of Telecom Network co
+exist
+● Transmission- Optical Fibre Cable Network- TelecomQuadCableNetwork- LocalAreaNetworks- PIS Networksin a station- CCTVNetwork
+● Switching- Electronic Telephone Exchanges- IPTelephone Exchanges
+● DataNetworks/Others- MobileTrainRadio Communication system- VHF/UHFSimplex Trans-receivers- FOIS, UTN, Railnet, Datalogger Network- WiFisystem
+CHAPTERXXV(Extracts of Telecommanual) 
+FAULTCONTROLPROCEDURES
+It is indeed very necessary to establish well defined Fault Control Procedures for
+satisfactory maintenance of such diverse Railway Telecommunication Networks so as to
+meetthedemandingrequirements of Indian Railways .
+Typical telecom fault control set-up on a Railway shall consist of the following:
+ ZONAL S&T CONTROL SET-UP: The Zonal S&T Control Set-up shall be one for the entire
+Zonal Railway. It shall be manned by SSE/JE (Telecom) in a general shift. Three SSE/JE
+(Telecom) shall be earmarked and should man the Zonal S&T Control set-up round-the
+clock in case of emergencies.
+ DIVISIONAL TELECOM FAULT CONTROL SET-UP: The Divisional Telecom Fault Control
+Set-up shall be established in each Division of the Zonal Railway. The Divisional Telecom
+Fault Control Set-up shall monitor all telecom networks over the Division and shall be
+headed by a Senior Section Engineer (Telecom) in a general shift. Adequate number of
+Senior Section Engineers (Telecom)/ Jr. Engineers (Telecom) and Technicians assisted
+with helpers shall monitor the Fault Control Roomround-the-clock.
+CHAPTERXXV(Extracts of Telecommanual) 
+FAULTCONTROLPROCEDURES
+The roles and responsibilities of Zonal and Divisional S&T Control Rooms, including 
+24x7telecom fault monitoring, emergency coordination, and performance reporting.
+These control rooms must be equipped with modern communication tools, NMS, 
+hotlines, and disaster management plans.
+Faults and emergencies are reported through approved channels ensuring rapid 
+restoration and coordination with service providers.
+CHAPTERXXVI(Extracts of Telecom manual) 
+INSPECTION
+At the start of the Financial Year, JEs/SSEs shall prepare the inspection programme
+calendar of their respective jurisdiction and shall submit to ADSTE/DSTE for approval as
+per the mandatedInspection Requirements.
+ADSTE/DSTE should visit all the telecom installations under their jurisdiction at least
+once in a year.
+The annual inspection schedule should be strictly adhered to. Any deviation should be
+reported to the higher authority explaining the circumstances which necessitated the
+deviation.
+Eachinspection conducted bythe officials shall be followed by aninspection report.
+The report should indicate the state of working of the installation, efficiency of the
+services rendered including performance of AMC/ARC, any specific problems along with
+suggestions for the improvement of services.
+The inspection report should be submitted to the next higher authority within one month
+time.
+During the inspection by Officers, they should check the availability and maintenance of
+documents andequipment manuals required forproper maintenance of equipment.
+CHAPTERXXVI(Extracts of Telecom manual) 
+INSPECTION
+
+ANNUALINSPECTIONSCHEDULE OFOFFICERS
+CHAPTERXXVII(Extracts of Telecom manual) PAINTING
+Antenna towers.
+The following are the main items of telecommunication equipment that need regular
+painting:
+i.
+ii.
+Emergency telephone socket posts and socket box.
+Marking on OHE masts for the position of telecommunicationcable joints. (
+Normally Electrical department provides marking on OHE masts for the position of
+Emergency Socket post where available)
+iv. Battery stands.
+v. Telephonestands.
+vi. Train control telephone apparatus.
+vii. Modem stands.
+viii.
+Outdoortelecom itemsmadeofmetallic case exposedto rains anddirectheat.
+ix. Cable route marker
+x. Poles & Boardsof passenger amenities boards
+CHAPTERXXVII(Extracts of Telecom manual) 
+PAINTING
+Coloring Scheme and Schedule of painting:
+(a) All wood workshall be finished with natural colourvarnish.
+(b) As far as possible the original colour scheme adopted by the manufacturers may be
+followed in repainting. Where the same colours are not available, the repainting
+must bedonewithpaintshaving colours near about the original.
+(c) Emergency telephone socket posts shall be painted with alternatively black and
+white paints for 15cms length each strip.
+(d) Marking on OHE masts for the position of telecommunication cable joints and
+Emergency Socketpost where available is to be of Red paint
+CHAPTERXXVII(Extracts of Telecom manual) 
+PAINTING
+Coloring Scheme and Schedule of painting:
+(e) The general principle for fixing intervals has been based on the following:
+i. All wood workis polished once in 2 years.
+ii. All outdoor equipment painted once in 3 years.
+iii. All indoor equipment is painted once in 4 years.
+(f) The paintings on the emergency telephone socket posts and on OHE masts for cable 
+joints and emergency socket where available shall be done once in a year
+(g) The above intervals may be suitably modified for any particular area after taking into
+account the corrosive effect of atmosphere and weather conditions.
+CHAPTERXXVIII(Extracts of Telecom manual) 
+DRAWINGSAND SPECIFICATIONS
+ Indian Railway Standard Drawings designated by the code word IRS
+have been issued by Director General, Research Designs and Standards 
+Organisation, Lucknow.
+ The telecommunications drawings are marked IRS (TC)- 'TC' stands
+for 'Telecommunication’.
+ Theparticulars of the drawings and their reference numbers are detailed
+in an Index of Indian Railway Standard Signal and Telecommunication
+Drawings including advanced drawings IRS (TC) issued by Research
+Designs and Standards Organisation.
+ This index shows all the IRS (TC) drawings arranged alphabetically as well
+as serially in the order of their numbers.
+CHAPTERXXVIII(Extracts of Telecom manual) 
+DRAWINGSAND SPECIFICATIONS
+ Eachdrawing number is either prefixed withthe letters 'TCA' or letters 'TC'.
+(Note- 'TCA' stands for a telecommunication equipment assembly and 'TC' 
+stands for a part of a telecommunication equipment assembly.)
+ Newdesigns and drawings which are accepted for adoption as standards have
+the word 'Advance' suffixed to their number, e.g. TC.50 (Advance) pending their
+final adoption as Indian Railway Standard Drawing.
+ For such drawings the manufacturers shall have a sample approved by the
+purchaser before undertaking thebulkmanufacture.
+CHAPTERXXIX(Extracts of Telecom manual) 
+BOOKSOFREFERENCE
+Each Senior Divisional Signal & Telecommunication Engineer should arrange to have the under
+mentioned technical literature in his office library:
+a) All IRS and SPN Specifications pertaining to Telecommunication, relevant BSS, ISS & DOT 
+(TEC) specifications.
+b) Reports of Telecommunication Standards Committee Meetings.
+c) Proceedings & Technical papers issued by Institutionof Telecom Engineers, India  Institute of 
+Electronics and Telecommunication Engineers, of Railway Institution Signal and 
+Telecommunication Engineers.
+d) Technical Bulletin and other technical papers on telecommunication matters published by the 
+RailwayBoard.
+e) Technical books and journals of interest on telecommunications.
+f) Copies of technical instructions and reports, Technical Advisory Notes issued by RDSO on 
+different items of work relating to Telecom.
+g) Equipment manuals of all telecom equipment of division.
+TEC: TelecommunicationEngineering Center
+CHAPTERXXIX(Extracts of Telecom manual) 
+BOOKSOFREFERENCE
+CHAPTERXXX(Extracts of Telecom manual) 
+Wi-Fi
+
+
+
+
+A wireless network or Wireless Local Area Network (WLAN) serves
+the
+same purpose as a wired one- to link a group of
+computers/IP enabled devices like mobiles, Smart TV, IP
+Telephone, IP Camera etc. It is used to augment Railnet to connect
+manydevices supporting Wi-Fi wireless connectivity
+Railnet is the general purpose Enterprise Wide Area network of Indian
+Railways. Wi-Fi network is allowed to be established as a part of
+Railnet
+Wi-Fi is also provided by Railways at Railway stations through Railtel
+and other private agencies for extending the internet to Passengers.
+Wi-Fi networks operate using radio frequency (RF) technology, in the
+free band mostly at 2.4 GHz and5GHz in public band.
+CHAPTERXXX(Extracts of Telecom manual) 
+Wi-Fi
+An access point (AP) is used for providing a wireless network. The access point
+is connected to the wired network (Railnet) to provide Railnet/Internet services to
+its clients. An access point works as a combination of Router, switch and
+Wireless Radio in one device.
+Nowadays most of the devices like computersand laptopsare provided with built
+in Wi-Fi feature for connecting to access points
+Railnet has been made available in many Railway quarters. Currently it has been
+extended using DSLAM and DSL modems. Wi-Fi access with Fibre at Home may
+be provided in the residences as well.
+CHAPTERXXX(Extracts of Telecom manual) 
+Wi-Fi
+FortheWi-Fi as aservice in the office areas the following shall be followed:
+a. Wi-Fi shall be provided through access points that should be configured as extended
+service sets whenever possible. Wireless controllers shall also be provided in the
+network to manage and control all the access points centrally using NMS and to
+automatically adjust the RF band/power of the access point to reduce the interference
+andincrease the throughput.
+b. In a typical office environment (data use) 20-25 users per access point is a good
+number when designing. In view of the increased use of net and Wi-Fi, the system should
+be upgraded to ensure that each user gets sufficient bandwidth for satisfactory use of
+the facility provided.
+c.All access points should be powered through UPS toensure uninterrupted working.
+CHAPTERXXX(Extracts of Telecom manual) 
+Wi-Fi
+FortheWi-Fi as aservice in the office areas the following shall be followed:
+d.Theaccess pointsmay preferablybe powered using PoE from the switch port.
+e. To ensure smooth roaming, the same SSID should be used on all the access points
+within the same campus/building. The Wi-Fi access point shall be configured to
+authenticate users using IEEE 802.1x MAC authentication through a radius server. Such
+a system shall allow only authorized Wi-Fi users to roam across the Wi-Fi zone and
+access Railnet securely. WPA-2 access keys must also be configured and it must be kept
+the same for all the access points in this scenario.
+f. Wireless controllers should be planned in redundancy so that in case of failure of one,
+the other is able to manage all the access points centrally usingNMS.
+SSID: Service Set Identifier
+CHAPTERXXXI(Extracts of Telecom manual) 
+IP ADDRESSING-IPV4/IPV6
+An Internet Protocol address (IP address) is essential to each device connected
+to a computer network that uses the Internet Protocol for communication. It serves
+both network interface identification and location addressing.
+The IP address space is managed globally by the Internet Assigned Numbers
+Authority (IANA), and by five regional Internet registries (RIRs) responsible in their
+designated territories for assignment to local Internet registries, such as Internet
+service providers, and other end users.
+Two versions of IP addressing are in common use in the Internet today. The
+original version of the Internet Protocol is Internet Protocol version 4 (IPv4) which
+majority of users are familiar with. The next version of IP addresses is called IPv6.
+32
+An IPv4 address has a size of 32 bits, which limits the address space to around
+4.29 billion (2
+) addresses. Of this number, some addresses are reserved for
+special purposes such as private networks (~18 million addresses) and
+multicast addressing (~270 million addresses).
+CHAPTERXXXI(Extracts of Telecom manual) 
+IP ADDRESSING-IPV4/IPV6
+ IPv4 addresses are represented in dot-decimal notation, consisting of four
+decimal numbers, each ranging from 0 to 255, separated by dots, e.g.,
+172.16.254.1
+Subnet mask is a number that identifies the number of bits used for the network
+part of the IP address
+The IANA (Internet Assigned Numbers Authority) reserves the following IP 
+address blocks for use as private IP addresses:10.0.0.0 to 10.255.255.255
+172.16.0.0 to 172.31.255.255 192.168.0.0 to 192.168.255.255
+The above ranges of the IP addresses can be used by anyone for an 
+Intranet network.
+128
+In IPv6, the address size was increased from 32 bits in IPv4 to 128 bits, thus
+providing up to 2
+(approximately 3.403×10
+unlimited unique addresses for future use.
+38
+) addresses. This gives virtually
+CHAPTERXXXII(Extracts of Telecom manual) 
+TUNNELCOMMUNICATION
+Tunnel Communication system in tunnels where ever provided on Indian Railway
+shall be able to provide communication need to the following:
+(i) Tunnels less than 500 meters length.
+(ii)Tunnels more than 500 meters to 5 Km length.
+(iii)Tunnels more than 5 Km length.
+CHAPTERXXXII(Extracts of Telecom manual) 
+TUNNELCOMMUNICATION
+ Following communications are to be extended as per Railway Requirement in 
+Tunnels for communication during maintenance and constructional blocks, 
+communication in the train in between Guard & Driver, Emergency radio 
+communication between driver, guard, station master & Cabin, Train 
+Control etc:
+(i) VHF Simplex: The frequency Bands 146-163MHz for VHF Simplex
+communication are allotted in Indian Railways.
+(ii) LocoTrol: The present frequency Bands 424- 430 MHz for LocoTrol are
+allotted in Indian Railways.
+(iii)
+(iv)
+GSM-R/LTE: The frequency Bands 876-915 MHz (Uplink) & 921-960 MHz
+(Downlink) for GSM-R are allotted and 700 MHz band are recommended to
+be allotted for LTE in Indian Railways.
+TCAS: The frequency Bands 405-512 MHz for TCAS are allotted in Indian 
+Railways.
+(v) TETRA:The frequency Bands 370-430 MHz for TETRAare allotted for
+Railways.
+CHAPTERXXXII(Extracts of Telecom manual) 
+TUNNELCOMMUNICATION
+ Systemdetails for Tunnel communication:
+1. Master unit:
+ The Master Unit is used to convert signals from RF to light when fibre
+fed repeaters is used at the remote end of the optical link.
+ MasterUnit shall be used in more than 500 meters lengths tunnels.
+2. Optical Remote unit :
+ Optical Remote unit is used at the remote end to convert Optical Signal
+to RF Signal and then transmit it into Leaky cable in the particular area to
+cover the tunnel for the wireless communication.
+ Itis connected to Master Unit.
+ Optical Remote unit shall be used to provide coverage in more than 500
+meters lengths tunnels.
+CHAPTERXXXII(Extracts of Telecom manual) 
+TUNNELCOMMUNICATION
+ Systemdetails for Tunnel communication:
+3. Off-Air Channelized Repeater:
+ For less than 500 meters Tunnels are to be covered with High Gain
+Off-Air Channelized Repeaters feeding Dual Radiating Cable Systems.
+4. LeakyCable:
+ Two7/8”LeakyCable shall runs per tunnel tube length
+ 7/8" Leaky Cable is a type of RF coaxial cable which has gaps or slots in
+its outer conductor to allow the radio signal to leak into or out of the cable
+along its entire length so the cable functioning as extended antennas.
+CHAPTERXXXII(Extracts of Telecom manual) 
+TUNNELCOMMUNICATION
+ Systemdetails for Tunnel communication:
+5. Antenna for system:
+ ForTunnels less than 500 meters,Antenna shall be installed at tunnel site.
+ ForTunnels morethan 500 meters,Antennas shall be installed on a Tower.
+ Thewireless system and tower with antenna to be installed should have
+the SACFAclearance as applicable.
+6. Optic Fibre cable:
+ Master Unit at Base station shall be connected to the tunnel optical remote
+unit through Fibre Junction Box.
+ Video Surveillance System and PA Systems shall also be connected
+through same Optic Fibre system.
+CHAPTERXXXII(Extracts of Telecom manual) 
+TUNNELCOMMUNICATION
+ Systemdetails for Tunnel communication:
+7. Power supply unit for Master unit, Optical Remote unit/Repeater in Tunnels:
+ For Tunnel Communication, power supply unit with battery backup
+(230VAC 50Hz or-48 VDC) for Master Unit, Optical Remote
+unit/Repeaters should be required.
+8. Fibre Junction Box:
+ FibreJunction box is required for more than 500 meters tunnel lengths.
+9. Optic Fibre & Copper Cable:
+ Optic Fibre & Copper Cable ring should be provided in the tunnel to
+connect various facilities like PA system, CCTV cameras, etc. Cables
+(OFC,Quad etc) should be laid in PVC/DWCpipes.
+CHAPTERXXXII(Extracts of Telecom manual) 
+TUNNELCOMMUNICATION
+Miscellaneous
+
+Registers/Documentationto be maintained at Telecom Installations:
+Exchange Indoor:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+
+1.
+2.
+3.
+4.
+Exchange layout plan
+Rack layout plan for each rack withconnection details
+MDF and IDF termination plan
+Installation manual for equipment
+Software documentation
+Operation and maintenance manual
+Wiring diagram for power panel
+Manual for battery chargers
+Battery maintenance register
+Exchange Outdoor:
+Telephone No. wise subscriber’s details
+Subscriber wise Telephone Directory
+Cable/Overhead layout plan
+Subscriber premises wiring plan typical.
+Miscellaneous
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+OFC system:
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+KM wise diagram (soft & hard copy)
+Channel planning chart
+E1 allocations chart
+STM 1 equipment Test register
+PD MUX test register
+SMPSbattery charger test register
+Maintenance register
+Earth measurement register
+Fibre joint test register with RCIL
+Installation Manuals of STM1 equipment
+Operation Manuals of STM1 equipment
+Maintenance manuals of STM1 equipment
+Installation Manuals of PD MUX
+Operation Manuals of PD MUX
+Maintenance manuals of PD MUX
+SMPSbattery charger.
+Miscellaneous
+
+Registers/Documentationto be maintained at Telecom Installations:
+Quad Cable :
+1.
+2.
+3.
+4.
+Km wise Cable route diagram (soft & hard copy) A4 size and A3 size of integrated cable route plan
+Quad cable allocation chart
+Quad cable testing register
+Earth resistance test register
+Data Networks (UTS/ PRS / FOIS/ Railnet / MIS)
+• Approved network diagram
+• Actual network diagram
+• E1 allocation for RCIL channels and channel details for BSNLchannels
+• E1Ringprotection for RCIL / BSNL channel details
+Accident communication:
+Details of EC socket
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+Zonal Railway Telephone directory
+Zonal CUG mobile directory
+Satellite phone directory
+Railway Board telephone directory
+Disaster management telephone directory
+OFC/ Quad Cable route diagram
+Train Time Table
+Miscellaneous
+Registers/Documentationto be maintained at Telecom Installations:
+
+
+
+Drawings/Specifications & Circulars/JPOs (Available at Divisional HQs/section SSE
+level): 1. Set of all IRS (TC) drawings, 2. Set of all RDSO drawings , 3. Set of all IRS (TC)
+Specifications, 4. Set of all RDSO Specifications, 5. Railway Board Circulars, 6. Railway
+Board JPOs. 7. Set of all Zonal Circulars, 8. Set of all Zonal JPOs. 9. Jurisdiction chart of
+Quadcable/OFC maintenance staff & telecommunication equipment maintenance staff
+Passenger Amenities (at Stations): a) Approved Installation network diagram, b) Actual
+network diagram, c) AMC/ARC particulars d) Inspection registers. e) Earthing and Power
+Supply maintenance register
+Equipment Register: a) At stations for all equipments b) At LC gates c) At TSS/SSP/SP
+locations.
+Miscellaneous
+AMCandARC
+Guidelines for preparing AMC proposal
+1.Administrative approval of the competent authority
+2.Justification for AMC with referenceto:
+a. Dateofprocurement of machine/equipment and original cost
+b. Whetherthemachine/equipment wasunder warrantyperiod/AMC?
+c. Ifso, the details of repairs carried out so far.
+d. Whetheritcanbemaintained departmentally? If not, reasons thereof.
+e. WhetherAMCiscomprehensive ornon-comprehensive? If comprehensive, list of items 
+covered;
+f.
+List of machines/equipments with specifications;
+g. Life of machine/equipment asper codebook/Railway Boardguidelines.
+Miscellaneous
+AMCandARC
+Guidelines for preparing AMC proposal
+1. If AMC is proposed on Single Tender/OEM, it needs to be certified by PHOD/HOD that
+the machine is of sophisticated nature and needs to be undertaken by
+OEM/Authorized Dealer.
+2. ForAMCproposedbydispensation oftenders, the checklist for Quotations is ensured
+3. The rates should be adequately supported with budgetary quotations/LAR and
+reasonableness certified.
+4. Feasibility of entering into Rate Contract rather than AMC needs to be worked out, as
+newmachinesaregenerally notsusceptible to faults/repairs.
+5. Competencyofsanction withreferenceto SOPitem.
+Miscellaneous
+AMCandARC
+AnnualRepairContract (ARC):
+ Repairsandpartreplacement ofdefective equipments comesunder ARC.
+ The defective equipments will be supplied by Railways and contractor is required
+to repair/replace the defective parts and make functional Whereas for some
+of the Telecomsystems, repairs and part replacement has to be carried out at site.
+
+ ThePassenger Amenities, VHF sets andChargers etc.may becovered underARC.
+Generally, the proposals and terms and conditions of ARC will be same as that ofAMC.
+Miscellaneous
+TelecomDirectorate
+ TheTelecom Directorate of Ministry of Railways, Government of India, oversees the complete 
+working of Telecom in Indian Railways. It takes care of all the telecommunication requirement 
+of Indian Railways.
+ Organization: Member Infrastructure; Addl. Member (Telecom); Executive Director (Tele Dev.);
+Director(Telecom)
+ Telecom Policy: All the Telecom policy decisions are taken in the Railway Board. The 
+information about various Telecom policy decision taken in the Railway Board will be made
+available in Telecom Directorate and circulated to all zonal Railways and various Railway
+organisations for implementation.
+ PolicyDecisions will betaken by SubjectWise:
+a) Operational andadministrative 
+communication system
+b) Railtel
+c) Disaster Management
+d) Railnet
+e) Public Amenities
+f) Broadband
+g) Telephones
+h) CUGPhones
+i)
+VHF
+Miscellaneous
+DOT/TECStandards/Documents
+ Mandatory Testing and Certification of Telecom Equipment (MTCTE) scheme: It
+introduces revised document types, numberingformats, and timelines for drafting, reviewing,
+andapproving telecom standardsinIndia.
+
+The documentguidesthe formulation,adoption,revision,and withdrawalof:
+• TECStandards(GRs,IRs, SRs)
+• TECTestGuide(formerly TSTP)
+• EssentialRequirements (ERs)
+• StandardAdoptionProcesses
+
+ TEC:TECisthetechnical wingof theDepartment of Telecommunications(DoT), responsible
+for developing Indiantelecom standards.Itissues:
+TypeApproval(TAC)
+• InterfaceApproval(IAC)
+• Certificate of Approval(CoA)
+• TechnologyApproval
+
+TECisalso the designated authority for accrediting Conformity Assessment Bodies(CABs).
+Miscellaneous
+GeographicInformation Systems(GIS)
+
+Geographic Information Systems (GIS) is a powerful technology that merges spatial
+and non spatial data, offering deep insights into the geographic context of
+various phenomena.
+ Utilizing GIS allows users to gather, manage, analyse, and visualize
+geographic information, uncovering patterns, relationships, and trends not easily
+seen through traditionaldata analysis.
+ GISis essential in fields like urban planning, environmental management,
+transportation, and public health, providing vital support for decision-making and
+strategic planning.
+ The core functions of GIS—data acquisition, data management, spatial analysis,
+and visualization— collaborate to enable precise and detailed spatial analyses.
+ As GIS technology continues to advance, its range of applications is set to
+grow, reinforcing its status as an indispensable tool in scientific research and
+practical applications across various domains.
+Miscellaneous
+GeographicInformation Systems(GIS)
+Indian Railway assets mapped onGIS
+Fixed (Distributed) Assets: Tracks, Bridges, 
+Tunnel, Overhead Electrified lines, Signaling 
+andcommunicationnetwork
+Fixed (Location Specific ) Assets : 
+Workshops, Sub stations, Level Crossings, 
+Yards etc
+Miscellaneous
+GeographicInformation Systems(GIS)
+GIS Layers in Indian Railways
+THANKYOU
