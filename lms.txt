@@ -1,0 +1,4944 @@
+Status
+Finished
+Started
+Wednesday, 24 June 2026, 9:04 PM
+Completed
+Wednesday, 24 June 2026, 9:04 PM
+Duration
+14 secs
+Marks
+0.00/115.00
+Grade
+0.00 out of 100.00
+English
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 1/74
+Question 1
+Not answered Marked out of 1.00
+Flag question
+Question 2
+Not answered Marked out of 1.00
+Flag question
+OFC Cable markers are normally
+provided at every ------------- meter on the
+cable route.
+a. 50
+b. 150
+c. 100
+d. 75
+The correct answer is: 50
+-------------- is the width of the range of
+wavelengths emitted by the light source
+a. Chromatic Dispersion
+b. Bandwidth
+c. Beam width
+d. Spectral width
+The correct answer is: Spectral width
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 2/74
+Question 3
+Not answered Marked out of 1.00
+Flag question
+Question 4
+Not answered Marked out of 1.00
+Flag question
+---------------- refers to the abrupt of change
+in refractive index from core to clad
+a. Step index
+b. Half step index
+c. Graded index
+d. Semi-graded index
+The correct answer is: Step index
+---------------type of fiber has the zerodispersion point is shifted to the
+wavelength region 1550nm.
+a. G.653
+b. G.652
+c. G.655
+d. G.652 &amp; G.655
+The correct answer is: G.653
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 3/74
+Question 5
+Not answered Marked out of 1.00
+Flag question
+Question 6
+Not answered Marked out of 1.00
+Flag question
+------------fibers have high dispersion at
+1550 nm.
+a. G.653
+b. G.652
+c. G.655
+d. G.657
+The correct answer is: G.652
+12-fiber armored optic fiber cable can be
+used for --------------- laying
+a. Only aerial
+b. Underground as well as for
+aerial
+c. Only Underground
+The correct answer is: Underground as
+well as for aerial
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 4/74
+Question 7
+Not answered Marked out of 1.00
+Flag question
+Question 8
+Not answered Marked out of 1.00
+Flag question
+A device which converts electrical energy
+in the form of a current into optical
+energy is called as ___________
+a. Circulator
+b. Optical coupler
+c. Optical isolator
+d. Optical source
+The correct answer is: Optical source
+A Loss of 10 dB implies -----------
+a. 90 watts’ power lost
+b. 90% of power has been lost
+c. 10 watts’ power lost
+d. 10% of power has been lost
+The correct answer is: 90% of power has
+been lost
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 5/74
+Question 9
+Not answered Marked out of 1.00
+Flag question
+Question 10
+Not answered Marked out of 1.00
+Flag question
+A Loss of 3 dB implies------------
+a. 90% of power has been lost
+b. 50% of power has been lost
+c. 3% of power has been lost
+d. 10% power lost
+The correct answer is: 90% of power has
+been lost
+A mode for which the field components
+in the direction of propagation are small
+compared to components perpendicular
+to that direction is called
+a. Linearly polarized mode
+b. Circularly polarized mode
+c. TEM mode
+d. TM mode (0%)
+The correct answer is: Linearly polarized
+mode
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 6/74
+Question 11
+Not answered Marked out of 1.00
+Flag question
+Question 12
+Not answered Marked out of 1.00
+Flag question
+After laying the optic fiber cable at least -
+----------- mm from the surface of the cable
+should be covered with riddle earth.
+a. 1120
+b. 120
+c. 1200
+d. 12000
+The correct answer is: 120
+An attenuation of 3dB corresponds to -----
+-------- % reduction in original power
+a. 30
+b. 3
+c. 10
+d. 50
+The correct answer is: 50
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 7/74
+Question 13
+Not answered Marked out of 1.00
+Flag question
+Question 14
+Not answered Marked out of 1.00
+Flag question
+An optical transmitter is emitting power
+at 0 dBm which is equivalent to ------------
+a. 1 mW
+b. 0 watt
+c. 1 Watt
+d. 1 micro watt
+The correct answer is: 1 mW
+Biconic connectors are generally used in
+---------------- applications in optic fiber
+communication.
+a. LAN, MAN and WAN
+b. LAN
+c. MAN
+d. WAN
+The correct answer is: LAN, MAN and
+WAN
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 8/74
+Question 15
+Not answered Marked out of 1.00
+Flag question
+Question 16
+Not answered Marked out of 1.00
+Flag question
+Brick protection to be provided in OFC
+trench during OFC cable laying at ------------
+a. Bridges
+b. Station/yards
+c. Culverts
+d. Track crossings
+The correct answer is: Station/yards
+Cleaving of the fibre is performed to
+obtain ------------------ on end face of the
+fiber.
+a. 90 degrees
+b. 30 degrees
+c. 60 degrees
+d. 40 degrees
+The correct answer is: 90 degrees
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 9/74
+Question 17
+Not answered Marked out of 1.00
+Flag question
+Cut-off wavelength of a SM fiber is
+greater than ------------------nm
+a. 1550
+b. 1310
+c. 1260
+d. 1450
+The correct answer is: 1260
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 10/74
+Question 18
+Not answered Marked out of 1.00
+Flag question
+Dark current ( Id ) of an optical detector
+is defined as----------------
+a. It is the ratio of rate of
+recombination and Electron -
+hole pair generation
+b. It is the ratio of photon
+generation rate and electron
+incidence rate
+c. It is the ratio of electron
+generation rate and photon
+incidence rate
+d. Dark current is the current
+generated in a photo detector
+in the absence of any optical
+signal.
+The correct answer is: Dark current is the
+current generated in a photo detector in
+the absence of any optical signal.
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 11/74
+Question 19
+Not answered Marked out of 1.00
+Flag question
+Question 20
+Not answered Marked out of 1.00
+Flag question
+Dispersion is maximum in ---------- type of
+optical fibers
+a. Multimode graded-index
+b. Single-mode step-index
+c. Single-mode graded-index
+d. Multimode step-index
+The correct answer is: Multimode stepindex
+During installation a minimum of -------------
+---------- meter of optic fiber cable on each
+end is coiled in the jointing pit.
+a. 15
+b. 20
+c. 10
+d. 5
+The correct answer is: 10
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 12/74
+Question 21
+Not answered Marked out of 1.00
+Flag question
+Question 22
+Not answered Marked out of 1.00
+Flag question
+During OFC cable laying maximum speed
+of cable laying must be ----------------
+a. 200mtrs/minute
+b. 100mtrs/minute
+c. 20mtrs/minute
+d. 10mtrs/minute
+The correct answer is: 10mtrs/minute
+Excessive pulse width in OTDR causes ----
+------------ .
+a. Ghost refection occurs
+b. Decrease in Dead zone
+length
+c. Increase in Dead zone length
+d. Dead zone length is
+unaffected
+The correct answer is: Increase in Dead
+zone length
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 13/74
+Question 23
+Not answered Marked out of 1.00
+Flag question
+Ferules of optic fiber connectors are
+made of ---------------- materials.
+a. Only plastic
+b. Only metal
+c. Metal or ceramic or plastic
+d. Only ceramic
+The correct answer is: Metal or ceramic
+or plastic
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 14/74
+Question 24
+Not answered Marked out of 1.00
+Flag question
+For best results of measurements with
+OTDR ------------- .
+a. LSA averaging method to be
+used
+b. Knowledge of Cable plant is
+required
+c. Auto-mode of settings
+should not be used
+d. Knowledge of Cable plant is
+required, Auto-mode of
+settings should not be used
+&amp; LSA averaging method
+to be used
+The correct answer is: Knowledge of
+Cable plant is required, Auto-mode of
+settings should not be used &amp; LSA
+averaging method to be used
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 15/74
+Question 25
+Not answered Marked out of 1.00
+Flag question
+Question 26
+Not answered Marked out of 1.00
+Flag question
+Generally Light sources are provided to
+emit light at ------------ power levels.
+a. 0dBM or -3dBm
+b. 3dBM or -7dBm
+c. 0dBM or -6dBm
+d. 0dBM or -7dBm
+The correct answer is: 0dBM or -7dBm
+Generally Light sources are provided to
+emit light at ------------- nm wave lengths
+a. 850, 1310, 1550
+b. 800, 1200, 1460
+c. 850, 1200, 1460
+d. 850, 1410, 1350
+The correct answer is: 850, 1310, 1550
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 16/74
+Question 27
+Not answered Marked out of 1.00
+Flag question
+Identify the correct statement ----------------
+a. External and internal
+quantum efficiencies are
+always same
+b. Cannot be concluded &amp;
+depends on other factors
+c. The external quantum
+efficiency is always less than
+the internal quantum
+efficiency
+d. The internal quantum
+efficiency always less than
+the external quantum
+efficiency
+The correct answer is: The external
+quantum efficiency is always less than
+the internal quantum efficiency
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 17/74
+Question 28
+Not answered Marked out of 1.00
+Flag question
+Question 29
+Not answered Marked out of 1.00
+Flag question
+Impurities and irregularities in the
+physical construction of optical fiber
+causes
+a. Total internal reflection
+b. Scattering
+c. Four wave mixing
+d. Absorption
+The correct answer is: Scattering
+In graded index fiber dispersion is
+reduced due to variation of refractive
+index in the ----------------- fiber
+a. Core
+b. Cladding
+c. Tube
+d. Buffer
+The correct answer is: Core
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 18/74
+Question 30
+Not answered Marked out of 1.00
+Flag question
+In graded index fiber the refractive index
+of the core varies following the parabolic
+rule up to the core cladding interface and
+then remains constant throughout the
+cladding.
+a. The statement is False
+b. Insufficient data to conclude
+True or False
+c. The statement is True
+The correct answer is: The statement is
+True
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 19/74
+Question 31
+Not answered Marked out of 1.00
+Flag question
+In optical link design the reason for
+keeping system margin is/are ---------------
+a. Future cable cuts and
+subsequent losses
+b. Aging effects
+c. Environmental degradations
+d. Future cable cuts and
+subsequent losses, Aging
+effects, &amp; Environmental
+degradations
+The correct answer is: Future cable cuts
+and subsequent losses, Aging effects,
+&amp; Environmental degradations
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 20/74
+Question 32
+Not answered Marked out of 1.00
+Flag question
+Question 33
+Not answered Marked out of 1.00
+Flag question
+In order to prevent theft of OFC , steel
+troughs with optic fiber cable should be
+filled up by...
+a. Bitumen compound
+b. Petroleum Jelly
+c. Cadmium compound
+d. Graphite grease
+The correct answer is: Bitumen
+compound
+In Rise time budget analysis Rise time of
+fiber can be found using ----------------- .
+a. DATA Sheet of OEM
+b. From Dispersion coefficient
+and Bandwidth
+c. Can be assumed reasonably
+d. Suitable measurement
+technique
+The correct answer is: From Dispersion
+coefficient and Bandwidth
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 21/74
+Question 34
+Not answered Marked out of 1.00
+Flag question
+In steel troughs to prevent theft of OFC
+cable bitumen compound should be filled
+up to a height of approximate ---------mm.
+a. 30
+b. 60
+c. 20
+d. 10
+The correct answer is: 60
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 22/74
+Question 35
+Not answered Marked out of 1.00
+Flag question
+In step index fiber ----------------------
+a. Refractive index decreases to
+some value at the core
+cladding interface
+b. Refractive index remains
+constant throughout the
+cladding
+c. Refractive index remains
+constant throughout the core
+d. Refractive index remains
+constant throughout the core
+&amp; decreases suddenly to
+some value at the core
+cladding interface
+The correct answer is: Refractive index
+remains constant throughout the core
+&amp; decreases suddenly to some
+value at the core cladding interface
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 23/74
+Question 36
+Not answered Marked out of 1.00
+Flag question
+Question 37
+Not answered Marked out of 1.00
+Flag question
+Infrared range for fiber optics-------------------
+a. 400 – 7000 nm
+b. 300 – 2000 nm
+c. 700 – 1675 nm
+d. 400 – 700 nm
+The correct answer is: 700 – 1675 nm
+ITU-T Recommendation G.652 of optical
+fibre describes the properties of
+a. Non-zero dispersion-shifted
+fiber
+b. Non dispersion-shifted fiber
+c. Dispersion-shifted fiber
+d. Zero dispersion-shifted fiber
+The correct answer is: Non dispersionshifted fiber
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 24/74
+Question 38
+Not answered Marked out of 1.00
+Flag question
+Question 39
+Not answered Marked out of 1.00
+Flag question
+ITU-T Recommendation G.653 describes
+the properties of
+a. Non dispersion-shifted fiber
+b. Dispersion-shifted fiber
+c. Attenuation-shifted fiber
+d. Non-zero dispersion-shifted
+fiber
+The correct answer is: Dispersion-shifted
+fiber
+ITU-T Recommendation G.655 describes
+the properties of ----------------------
+a. Non dispersion-shifted fiber
+b. Dispersion-shifted fiber
+c. Attenuation shifted fiber
+d. Non-zero dispersion-shifted
+fiber
+The correct answer is: Non-zero
+dispersion-shifted fiber
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 25/74
+Question 40
+Not answered Marked out of 1.00
+Flag question
+Question 41
+Not answered Marked out of 1.00
+Flag question
+Laser light is -------------------------- emission.
+a. Coherent
+b. Spontaneous
+c. Coherent and stimulated
+d. Stimulated
+The correct answer is: Coherent and
+stimulated
+Light emission can occur through -----------
+----
+a. Neither spontaneous &amp;
+stimulated emissions
+b. Both Stimulated and
+Spontaneous emissions
+c. Stimulated emission
+d. Spontaneous emission
+The correct answer is: Both Stimulated
+and Spontaneous emissions
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 26/74
+Question 42
+Not answered Marked out of 1.00
+Flag question
+Question 43
+Not answered Marked out of 1.00
+Flag question
+Light traveling in optical fiber follows
+which of the following principles.
+a. Snell’s law
+b. Huygen’s principle
+c. Reflection theory
+d. Light theory
+The correct answer is: Snell’s law
+LSPM (Light source Power meter)
+method is superior to OTDR for
+Measuring --------------
+a. Power only
+b. Optical return Loss only
+c. Distance only
+d. Power and distance
+The correct answer is: Power only
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 27/74
+Question 44
+Not answered Marked out of 1.00
+Flag question
+LSZH(Low Smoke zero Halogen) cables
+are preferred for indoor applications
+because
+a. They are halogen free
+b. They are less toxic and
+slower to ignite as well as
+halogen free
+c. They are not preferred for
+indoor applications
+d. Less toxic and slower to
+ignite
+The correct answer is: They are less
+toxic and slower to ignite as well as
+halogen free
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 28/74
+Question 45
+Not answered Marked out of 1.00
+Flag question
+Question 46
+Not answered Marked out of 1.00
+Flag question
+Mode is an available distribution of
+electromagnetic field in to the direction
+of light propagation.
+a. A plane transverse
+b. A plane longitudinal
+c. Neither Transverse nor
+longitudinal planes
+d. Both transverse and
+longitudinal planes
+The correct answer is: A plane
+transverse
+Multimode fiber is best designed for -------
+------- transmission distances.
+a. Shorter
+b. Medium
+c. Longer
+The correct answer is: Shorter
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 29/74
+Question 47
+Not answered Marked out of 1.00
+Flag question
+Question 48
+Not answered Marked out of 1.00
+Flag question
+OFC Cable attenuation is usually
+expressed in terms of-------------------------
+a. Intensity per mile
+b. Voltage drop per inch
+c. dB/km
+d. Loss per foot
+The correct answer is: dB/km
+On OTDR trace horizontal axis represents
+-------------
+a. Return Power level
+b. Distance from source
+c. Launch Power level
+d. Time
+The correct answer is: Distance from
+source
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 30/74
+Question 49
+Not answered Marked out of 1.00
+Flag question
+Question 50
+Not answered Marked out of 1.00
+Flag question
+On OTDR trace Vertical axis represents ---
+-----------
+a. Time
+b. Launch Power Level
+c. Distance from source
+d. Return Power level
+The correct answer is: Return Power
+level
+Optical fibers accept ------------- signals
+only.
+a. Bipolar
+b. Neither unipolar nor Bi polar
+c. unipolar
+d. Accepts any signal without
+restriction on polarity
+The correct answer is: unipolar
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 31/74
+Question 51
+Not answered Marked out of 1.00
+Flag question
+Question 52
+Not answered Marked out of 1.00
+Flag question
+Optical power meter has got the option
+for displaying optical power in -----------------
+-------
+a. dBm only
+b. μW only
+c. dBm or μW
+d. dBm or pW
+The correct answer is: dBm or μW
+Optical sources include -------------
+a. LASERs, LEDs and APDs
+b. LEDs and LASERs only
+c. LEDs only
+d. LASER only
+The correct answer is: LEDs and LASERs
+only
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 32/74
+Question 53
+Not answered Marked out of 1.00
+Flag question
+Question 54
+Not answered Marked out of 1.00
+Flag question
+Optical time domain reflectometer
+(OTDR) is also called a backscatter
+measurement method
+a. FALSE
+b. TRUE
+The correct answer is: TRUE
+OTDR stands for--------------------------
+a. Optical Timing Delay
+Requirement
+b. Optical Time-Division Relay
+c. Optical Time-Delay Response
+d. Optical Time-Domain
+Reflectometer
+The correct answer is: Optical TimeDomain Reflectometer
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 33/74
+Question 55
+Not answered Marked out of 1.00
+Flag question
+OTDR trace to be obtained and analyzed
+in OFC installation. Identify the correct
+statement
+a. Before laying at 1550nm, and
+after laying at 1310nm
+b. At both wave lengths before
+laying only
+c. At both wave lengths before
+as well as after laying
+d. Before laying at 1310nm, and
+after laying at 1550nm
+The correct answer is: At both wave
+lengths before as well as after laying
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 34/74
+Question 56
+Not answered Marked out of 1.00
+Flag question
+Question 57
+Not answered Marked out of 1.00
+Flag question
+OTDR works on the principle of ---------- of
+light.
+a. Refraction
+b. Reflection
+c. Absorption
+d. Back scattering
+The correct answer is: Back scattering
+Photo detectors include
+a. APDs, PIN diodes &amp;
+MSMs
+b. PIN diode and APDs
+c. MSMs and APDs
+d. APDs and MSMs
+The correct answer is: APDs, PIN diodes
+&amp; MSMs
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 35/74
+Question 58
+Not answered Marked out of 1.00
+Flag question
+Question 59
+Not answered Marked out of 1.00
+Flag question
+Photodiodes operate in Forward bias
+a. FALSE
+b. TRUE
+The correct answer is: FALSE
+Principle involved in optical detector
+operation is ------------
+a. Photo electric effect
+b. Stocky effect
+c. Faraday Effect
+d. Seebeck effect
+The correct answer is: Photo electric
+effect
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 36/74
+Question 60
+Not answered Marked out of 1.00
+Flag question
+Pulling tension/force on the cable during
+OFC laying should not exceed --------------
+a. 2670 KN
+b. 2670 Kg
+c. 267 N
+d. 267 Kg
+The correct answer is: 267 Kg
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 37/74
+Question 61
+Not answered Marked out of 1.00
+Flag question
+Quantum efficiency w.r.t Optical
+detectors is defined as ---------------------
+a. It can be defined as fraction
+of photons which contribute
+to the external photocurrent
+b. It is the ratio of electron
+generation rate and photon
+incidence rate
+c. It can be defined as fraction
+of photons which contribute
+to the external photocurrent
+or It is the ratio of electron
+generation rate and photon
+incidence rate
+d. It can be defined as fraction
+of electrons which contribute
+to the external photocurrent
+The correct answer is: It can be defined
+as fraction of photons which contribute
+to the external photocurrent or It is the
+ratio of electron generation rate and
+photon incidence rate
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 38/74
+Question 62
+Not answered Marked out of 1.00
+Flag question
+Question 63
+Not answered Marked out of 1.00
+Flag question
+Reduction in acquisition time in OTDR
+causes
+a. Ghost refection occurs
+b. Smooth trace is obtained
+c. Noisy trace is obtained
+d. Dead zone length is extended
+The correct answer is: Noisy trace is
+obtained
+Refractive index of glass-----------------
+a. 1.2
+b. 1.4
+c. 1.5
+d. 1.0
+The correct answer is: 1.5
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 39/74
+Question 64
+Not answered Marked out of 1.00
+Flag question
+Responsivity of a Photo detector defined
+as ---------------
+a. A measure of how much
+output current is obtained for
+each watt of input light
+b. A measure of how much
+output current is obtained for
+each Amp of input current
+c. A measure of how much
+output light is obtained for
+each amp of input current
+d. A measure of how much
+output light is obtained for
+each watt of input light
+The correct answer is: A measure of how
+much output current is obtained for each
+watt of input light
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 40/74
+Question 65
+Not answered Marked out of 1.00
+Flag question
+Scattering limits, the use of wavelengths
+below nm in optical fiber.
+a. 1550
+b. 650
+c. 800
+d. 1310
+The correct answer is: 800
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 41/74
+Question 66
+Not answered Marked out of 1.00
+Flag question
+The --------------------- fiber is very much
+suitable for single wavelength 1550 nm
+but is unsuitable for DWDM systems.
+a. NZ-DSF G.655 and NDSF
+G.652
+b. Non dispersion-shifted fiber
+(NDSF) G.652
+c. Non zero-dispersion-shifted
+fibers (NZ-DSF) G.655
+d. DSF Dispersion-shifted fiber
+G.653
+The correct answer is: DSF Dispersionshifted fiber G.653
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 42/74
+Question 67
+Not answered Marked out of 1.00
+Flag question
+Question 68
+Not answered Marked out of 1.00
+Flag question
+The 24-fiber armored optic fiber cable
+contains ----------------
+a. 3 loose tubes
+b. 24 single loose tubes
+c. 2 loose tubes
+d. 6 loose tubes
+The correct answer is: 6 loose tubes
+The band of light wavelengths that is too
+long to be seen by the human eye
+a. XRAY
+b. Visible
+c. Ultraviolet
+d. Infrared
+The correct answer is: Infrared
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 43/74
+Question 69
+Not answered Marked out of 1.00
+Flag question
+Question 70
+Not answered Marked out of 1.00
+Flag question
+The bandwidth of a fiber is limited by-------
+---------
+a. Frequency
+b. Dispersion
+c. Wavelength
+d. Mode
+The correct answer is: Dispersion
+The core of an optical fiber has a-------------
+------
+a. Similar refractive index with
+the cladding
+b. Lower refractive index than
+the cladding
+c. Higher refractive index than
+the cladding
+d. Lower refracted index than
+air
+The correct answer is: Higher refractive
+index than the cladding
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 44/74
+Question 71
+Not answered Marked out of 1.00
+Flag question
+Question 72
+Not answered Marked out of 1.00
+Flag question
+The Dead zone in OTDR is caused by ------
+-----
+a. Fresnel reflection only
+b. Amplifier recovery time only
+c. Fresnel reflection and the
+amplifier recovery time
+d. Rayleigh backscatter (RBS)
+coefficient
+The correct answer is: Fresnel reflection
+and the amplifier recovery time
+The disparity between the arrival times of
+different light rays at the output of a fiber
+while traveling through the fiber is known
+as
+a. Dispersion
+b. Wave Mixing
+c. Scattering
+d. Attenuation
+The correct answer is: Dispersion
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 45/74
+Question 73
+Not answered Marked out of 1.00
+Flag question
+The following are the cause of light
+attenuation in fiber optics except-------------
+--
+a. Refraction
+b. Backscattering
+c. Micro bends
+d. Absorption
+The correct answer is: Refraction
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 46/74
+Question 74
+Not answered Marked out of 1.00
+Flag question
+The internal quantum efficiency of an
+optical source is defined as ------------
+a. It is the ratio of number of
+carriers crossing the junction
+&amp; number of photons
+generated
+b. It is the product of number of
+photons generated &amp; no
+of carriers crossing the
+junction
+c. It is the ratio of number of
+photons generated &amp; no
+of carriers crossing the
+junction
+d. It is the ratio of number of
+carriers generated &amp;
+number of photons crossing
+the junction
+The correct answer is: It is the ratio of
+number of photons generated &amp; no
+of carriers crossing the junction
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 47/74
+Question 75
+Not answered Marked out of 1.00
+Flag question
+Question 76
+Not answered Marked out of 1.00
+Flag question
+The light output from a light source can
+be switched between a test tone of ---------
+------------- --and a CW wave.
+a. 270Hz or 2 KHz or 1 KHz
+b. 270 Hz or 2 Hz or 10 Hz
+c. 270 Hz or 2 KHz or 10 KHz
+d. 270 KHz or 2 MHz or 10 MHz
+The correct answer is: 270Hz or 2 KHz or
+1 KHz
+The loss offered by a fusion splice of
+optic fibers shall not exceed ---------------dB
+a. 0.2
+b. 0.005
+c. 0.05
+d. 1.5
+The correct answer is: 0.2
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 48/74
+Question 77
+Not answered Marked out of 1.00
+Flag question
+Question 78
+Not answered Marked out of 1.00
+Flag question
+The loss offered by a mechanical
+splicing of optic fibers should be less
+than ---------dB.
+a. 0.5
+b. 0.005
+c. 1.5
+d. 0.05
+The correct answer is: 0.5
+The main drawback of optical fiber as a
+communication medium is that ---------------
+-----
+a. Tapping is difficult
+b. High cost
+c. High EMI/EMC
+d. Low attenuation
+The correct answer is: Tapping is difficult
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 49/74
+Question 79
+Not answered Marked out of 1.00
+Flag question
+The main Requirements of Optical
+sources include --------------
+a. Spectral width &amp;
+Directivity
+b. Output Power &amp; Output
+wave length
+c. Linearity and Reliability
+d. Spectral width &amp;
+Directivity, Linearity and
+Reliability, Output Power
+&amp; Output wave length
+The correct answer is: Spectral width
+&amp; Directivity, Linearity and Reliability,
+Output Power &amp; Output wave length
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 50/74
+Question 80
+Not answered Marked out of 1.00
+Flag question
+Question 81
+Not answered Marked out of 1.00
+Flag question
+The mechanical splice is best suited for -
+----------------------
+a. field service conditions
+b. situations in which cost of
+equipment is not a factor
+c. minimum attenuation losses
+d. Quicker installation under
+ideal conditions
+The correct answer is: field service
+conditions
+The normal optic fiber cable drum length
+is ------------------- .
+a. 1 Km
+b. 2 Km
+c. 3 Km
+d. 4 Km
+The correct answer is: 3 Km
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 51/74
+Question 82
+Not answered Marked out of 1.00
+Flag question
+Question 83
+Not answered Marked out of 1.00
+Flag question
+The number of modes that can
+propagate in fiber is a function of
+numerical aperture, core diameter and
+wavelength of light.
+a. The statement is True
+b. The statement is False
+c. Insufficient data to conclude
+True or False
+The correct answer is: The statement is
+True
+The Numerical aperture is ----------------------
+a. Light rejecting capacity
+b. Light amplification capacity
+c. Light gathering capacity
+d. Light emitting capacity
+The correct answer is: Light gathering
+capacity
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 52/74
+Question 84
+Not answered Marked out of 1.00
+Flag question
+Question 85
+Not answered Marked out of 1.00
+Flag question
+The numerical aperture of a SM fiber is
+about ----------------
+a. 1.1 to 2.1
+b. 0.95 to 1.2
+c. 2.0 to 3.1
+d. 0.10 to 0.17.
+The correct answer is: 0.10 to 0.17.
+The ratio of speed of light in air to the
+speed of light in another substance is
+called the-------------
+a. Index of reflection
+b. Speed factor
+c. Dielectric constant
+d. Index of refraction
+The correct answer is: Index of refraction
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 53/74
+Question 86
+Not answered Marked out of 1.00
+Flag question
+Question 87
+Not answered Marked out of 1.00
+Flag question
+The speed of light is----------------
+a. 186,000 miles/h
+b. 300,000 m/s
+c. 300 miles/h
+d. 300,000,000 m/s
+The Tensile strength of the fiber is of the
+order of
+a. 44000 to 60000 kg per
+sq.cm.
+b. 4400 to 6000 kg per sq.cm.
+c. 440000 to 600000 kg per
+sq.cm.
+d. 440000 to 600000 kg per
+sq.mm.
+The correct answer is: 44000 to 60000
+kg per sq.cm.
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 54/74
+Question 88
+Not answered Marked out of 1.00
+Flag question
+The term critical angle describes--------------
+----------
+a. the point at which light is
+refracted
+b. the point at which light has
+crossed the boundary layers
+from one index to another
+c. the point at which light
+becomes invisible
+d. the point at which light has
+gone from the refractive
+mode to the reflective mode
+The correct answer is: the point at which
+light has gone from the refractive mode
+to the reflective mode
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 55/74
+Question 89
+Not answered Marked out of 1.00
+Flag question
+The term dispersion describes the
+process of ------------------
+a. Separating light into its
+component frequencies
+b. reflecting light from a
+smooth surface
+c. the process by which light is
+absorbed by an uneven rough
+surface
+d. light scattering
+The correct answer is: Separating light
+into its component frequencies
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 56/74
+Question 90
+Not answered Marked out of 1.00
+Flag question
+The term power budgeting in optical fiber
+communication refers to -----------------
+a. the loss of power due to
+defective components
+b. the comparative costs of
+fiber and copper installations
+c. the total power available
+minus the attenuation losses
+d. The cost of cables,
+connectors, equipment, and
+installation
+The correct answer is: the total power
+available minus the attenuation losses
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 57/74
+Question 91
+Not answered Marked out of 1.00
+Flag question
+Question 92
+Not answered Marked out of 1.00
+Flag question
+The wavelength of a visible extends
+from--------------------
+a. 200 to 660 nm
+b. 0.8 to 1.6 um
+c. 700 to 1200 nm
+d. 400 to 750 nm
+The correct answer is: 400 to 750 nm
+Total internal reflection takes place if the
+light ray strikes the interface at an angle -
+------critical angle
+a. Equal to
+b. Less than
+c. Zero
+d. Greater than
+The correct answer is: Greater than
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 58/74
+Question 93
+Not answered Marked out of 1.00
+Flag question
+Question 94
+Not answered Marked out of 1.00
+Flag question
+Transmission loss of optical fiber at a
+wavelength of 1310 nm is about --------------
+-dB/Km.
+a. 3.5
+b. 0.75
+c. 0.35
+d. 2.5
+The correct answer is: 0.35
+Transmission loss of optical fiber at a
+wavelength of 1550 nm is about --------------
+---dB/Km
+a. 0.25
+b. 0.025
+c. 2.5
+d. 25
+The correct answer is: 0.25
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 59/74
+Question 95
+Not answered Marked out of 1.00
+Flag question
+What is refractive index number
+a. a number which determines
+the core diameter
+b. a number which compares
+the transparency of a
+material with that of air
+c. a number assigned by the
+manufacturer to the fiber in
+question
+d. a term for describing core
+elasticity
+The correct answer is: a number which
+compares the transparency of a material
+with that of air
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 60/74
+Question 96
+Not answered Marked out of 1.00
+Flag question
+What is responsivity of a light detector
+a. The time required for the
+signal to go from 10 to 90
+percent of maximum
+amplitude
+b. the ratio of the diode output
+current to optical input power
+c. the ratio of output current to
+input current
+d. the ratio of output current to
+output power
+The correct answer is: the ratio of the
+diode output current to optical input
+power
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 61/74
+Question 97
+Not answered Marked out of 1.00
+Flag question
+Question 98
+Not answered Marked out of 1.00
+Flag question
+What is the unit of Responsivity?
+a. Ampere/volt
+b. Volts/ampere
+c. Ampere/watt
+d. Watt/ampere
+The correct answer is: Ampere/watt
+What type of fiber has the highest modal
+dispersion?
+a. Graded index multimode
+b. Step-index single mode
+c. Step-index multimode
+d. Graded index mode
+The correct answer is: Step-index
+multimode
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 62/74
+Question 99
+Not answered Marked out of 1.00
+Flag question
+Question 100
+Not answered Marked out of 1.00
+Flag question
+Which of the following is NOT a common
+light detector?
+a. Avalanche photodiode
+b. PIN photodiode
+c. Photovoltaic diode
+d. Photodiode
+The correct answer is: Photovoltaic
+diode
+Which of the following is the fastest light
+sensor?
+a. Photovoltaic diode
+b. Avalanche photodiode
+c. Phototransistor
+d. PIN photodiode
+The correct answer is: Avalanche
+photodiode
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 63/74
+Question 101
+Not answered Marked out of 1.00
+Flag question
+Question 102
+Not answered Marked out of 1.00
+Flag question
+Which process gives the laser its special
+properties as an optical source?
+a. Stimulated emission
+b. Dispersion
+c. Stimulated absorption
+d. Spontaneous emission
+The correct answer is: Stimulated
+emission
+Which type of fiber optic cable is most
+widely used?
+a. Multimode graded-index
+b. Multimode step-index
+c. Single-mode graded-index
+d. Single-mode step-index
+The correct answer is: Single-mode stepindex
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 64/74
+Question 103
+Not answered Marked out of 1.00
+Flag question
+Question 104
+Not answered Marked out of 1.00
+Flag question
+Which type of fiber-optic cable has the
+least modal dispersion?
+a. Multimode step-index
+b. Multimode graded-index
+c. Single-mode graded-index
+d. Single mode step-index
+The correct answer is: Single mode stepindex
+Which type of fiber-optic cable is the best
+for very high speed data?
+a. Single-mode graded-index
+b. Multimode graded-index
+c. Multimode step-index
+d. Single-mode step-index
+The correct answer is: Single-mode stepindex
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 65/74
+Question 105
+Not answered Marked out of 1.00
+Flag question
+Question 106
+Not answered Marked out of 1.00
+Flag question
+Why are visible-light LEDs not used for
+fiber optics?
+a. It has short wave
+b. It has weak signal
+c. It has low attenuation
+d. It has high losses
+The correct answer is: It has high losses
+With reference to fiber optic
+communication Rayleigh’s scattering is
+due to present in the silica matrix.
+a. H+ ions
+b. Metal ions
+c. OH- ions
+d. Water vapors
+The correct answer is: Metal ions
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 66/74
+Question 107
+Not answered Marked out of 1.00
+Flag question
+With reference to fiber optic
+communication, basic scenarios to be
+considered in PBA (Power budget
+analysis)
+a. Maximum receiver power
+under minimum loss
+conditions
+b. In existing system, how much
+we could lengthen the fiber
+without changing the
+transmitter, receiver and still
+meet the minimum power
+requirement of receiver
+c. The receiver and Optic fiber
+system is decided, and then
+what transmitter Minimum
+power would be needed?
+d. The receiver and Optic fiber
+system is decided; then what
+transmitter Minimum power
+would be needed? In existing
+system, how much we could
+lengthen the fiber without
+changing the transmitter,
+receiver and still meet the
+minimum power requirement
+of receiver, Maximum
+receiver power under
+minimum loss conditions.
+The correct answer is: The receiver and
+Optic fiber system is decided; then what
+transmitter Minimum power would be
+needed? In existing system, how much
+we could lengthen the fiber without
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 67/74
+Question 108
+Not answered Marked out of 1.00
+Flag question
+changing the transmitter, receiver and
+still meet the minimum power
+requirement of receiver, Maximum
+receiver power under minimum loss
+conditions.
+With reference to fiber optic
+communication, in Rise time budget
+analysis factors to be considered are ------
+-----
+a. Rise time of the fiber source
+and Receiver
+b. Rise time of the source only
+c. Rise time of the fiber only
+d. Rise time of the receiver only
+The correct answer is: Rise time of the
+fiber source and Receiver
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 68/74
+Question 109
+Not answered Marked out of 1.00
+Flag question
+With reference to fiber optic
+communication, In Rise time budget
+analysis Rise time of Source and
+detector can be found using ---------- .
+a. Suitable measurement
+technique
+b. DATA Sheet of OEM
+c. Can be assumed reasonably
+d. By making a logical guess
+The correct answer is: DATA Sheet of
+OEM
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 69/74
+Question 110
+Not answered Marked out of 1.00
+Flag question
+With reference to fiber optic
+communication, Inter modal dispersion
+present in
+a. Only in SM fibers
+b. Cannot be said with given
+data
+c. Both SM &amp; MM fibers
+d. Only in MM fibers
+The correct answer is: Only in MM fibers
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 70/74
+Question 111
+Not answered Marked out of 1.00
+Flag question
+With reference to fiber optic
+communication, Link power budget
+analysis is to be performed to ensure ------
+--- .
+a. Link operational feasibility
+b. Minimum power available at
+the receiver
+c. Sufficient system operation
+margin
+d. To ensure system margin,
+link feasibility and minimum
+power available at the
+receiver
+The correct answer is: To ensure system
+margin, link feasibility and minimum
+power available at the receiver
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 71/74
+Question 112
+Not answered Marked out of 1.00
+Flag question
+With reference to fiber optic
+communication, Polarization mode
+dispersion (PMD) is significant when-------
+------
+a. Data rates above 1Gbps
+b. Data rates below 1Gbps
+c. Data rates below 30Mbps
+d. Data rates above 2Mbps but
+less than 1Gbps
+The correct answer is: Data rates above
+1Gbps
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 72/74
+Question 113
+Not answered Marked out of 1.00
+Flag question
+Question 114
+Not answered Marked out of 1.00
+Flag question
+With reference to fiber optic
+communication, Scattering and
+absorption of light signal cause ---------------
+--------
+a. Attenuation
+b. Gain to the signal
+c. Total internal reflection
+d. Dispersion
+The correct answer is: Attenuation
+With reference to fiber optic
+communication, the hydroxyl ions and
+impurities present in the silica are the
+reasons for of light signals.
+a. Absorption
+b. Bending
+c. Dispersion
+d. Scattering
+The correct answer is: Absorption
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 73/74
+Question 115
+Not answered Marked out of 1.00
+Flag question
+With reference to OFC, Mode-Field
+Diameter (MFD) defined as the
+a. Diameter of the core
+b. Size of the buffer thickness
+c. Diameter of the cladding
+d. Size of the power distribution
+The correct answer is: Size of the power
+distribution
+Previous activity
+Announcements
+Jump to...
+6/24/26, 9:04 PM TCT4 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34249&cmid=344&showall=1 74/74
+Status
+Finished
+Started
+Wednesday, 24 June 2026, 9:03 PM
+Completed
+Wednesday, 24 June 2026, 9:03 PM
+Duration
+13 secs
+Marks
+0.00/52.00
+Grade
+0.00 out of 100.00
+English
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 1/33
+Question 1
+Not answered Marked out of 1.00
+Flag question
+Question 2
+Not answered Marked out of 1.00
+Flag question
+__________ will act as gateway for all the
+platform devices.
+a. PDC
+b. None of these
+c. CDS
+d. CDC
+The correct answer is: PDC
+_____________________ enables to extend
+the distance of the LAN without any loss
+of data in Electronic Reservation Chart
+system.
+a. Hub
+b. Router
+c. LAN Extender
+d. Modem
+The correct answer is: LAN Extender
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 2/33
+Question 3
+Not answered Marked out of 1.00
+Flag question
+Question 4
+Not answered Marked out of 1.00
+Flag question
+All the Electronic Reservation Chart
+displays are connected to the server via
+LAN with its
+_____________________________ .
+a. Multicast address
+b. Unique IP address
+c. Hard ware address
+d. Device address
+The correct answer is: Unique IP address
+Call centre is the system providing train
+related information to the passengers
+__________________ .
+a. both at Railway station and
+passenger end.
+b. No information will be given
+c. at Railway station
+d. at passenger end
+The correct answer is: at passenger end
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 3/33
+Question 5
+Not answered Marked out of 1.00
+Flag question
+Question 6
+Not answered Marked out of 1.00
+Flag question
+Charting server receives Chart data from
+______________________ via railway
+network.
+a. COIS
+b. Both PRS and NTES servers
+c. NTES server
+d. PRS server
+The correct answer is: PRS server
+Data communication between CDS to
+display boards in IPIS shall be on
+a. RS 485 on data cable
+b. Wireless
+c. Zigbee
+d. Ethernet on Cat-6 cable
+The correct answer is: Ethernet on Cat-6
+cable
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 4/33
+Question 7
+Not answered Marked out of 1.00
+Flag question
+Data synchronization between two
+control consoles is through
+_____________________________.
+a. Router
+b. by cross connecting the PCs
+c. by cross connecting the PCs
+or by using a LAN switch
+d. LAN switch
+The correct answer is: by cross
+connecting the PCs or by using a LAN
+switch
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 5/33
+Question 8
+Not answered Marked out of 1.00
+Flag question
+Digital video recorder (DVR) is used in
+______________________________ .
+a. both in Analog based CCTV
+surveillance system & IP
+based CCTV surveillance
+system
+b. IP based CCTV surveillance
+system
+c. Analog based CCTV
+surveillance system
+d. Integrated information
+system
+The correct answer is: Analog based
+CCTV surveillance system
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 6/33
+Question 9
+Not answered Marked out of 1.00
+Flag question
+Question 10
+Not answered Marked out of 1.00
+Flag question
+Digital video recorder can accommodate
+_____________ numbers of cameras.
+a. 32
+b. 64
+c. 8
+d. 16
+The correct answer is: 32
+Digital video recorder can accommodate
+_____________numbers of cameras.
+a. 8
+b. 64
+c. 16
+d. 32
+The correct answer is: 32
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 7/33
+Question 11
+Not answered Marked out of 1.00
+Flag question
+Electronic Reservation Chart is displayed
+through ______________________ .
+a. CRT monitors
+b. CCTVs
+c. LCD monitors
+d. LED boards
+The correct answer is: LCD monitors
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 8/33
+Question 12
+Not answered Marked out of 1.00
+Flag question
+Features such as increased availability of
+services, E-mail access, Fax on demand,
+Automatic announcing unit, Call back
+facility on reservation confirmation,
+Accident related queries and Registration
+of complaints are available in
+a. Call center based IVRS
+b. IVRS
+c. NTES
+d. In both IVRS & Call center
+based IVRS
+The correct answer is: Call center based
+IVRS
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 9/33
+Question 13
+Not answered Marked out of 1.00
+Flag question
+Question 14
+Not answered Marked out of 1.00
+Flag question
+In Call center based IVRS, connectivity
+between BSNL exchange and Call center
+is through ___________________________ .
+a. wI-fI
+b. Both analog and digital
+circuits
+c. Analog circuits
+d. Digital circuits
+The correct answer is: Digital circuits
+In IPIS 108 all display board will have
+_________ for data transfer
+a. two optical ethernet ports
+b. One electrical and one
+optical Ethernet port
+c. Two electrical ethernet port
+d. One electrical ethernet port
+The correct answer is: One electrical and
+one optical Ethernet port
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 10/33
+Question 15
+Not answered Marked out of 1.00
+Flag question
+Question 16
+Not answered Marked out of 1.00
+Flag question
+In IPIS 108 all optical ports of PDC will
+have standard ________ type connector.
+a. Euro 2000
+b. FC
+c. SC
+d. LC
+The correct answer is: SC
+In IPIS 108 capacity of UPS required for
+uninterrupted operation of CDC is
+a. 1 KVA
+b. 600 VA
+c. 0.5 KVA
+d. 5 KVA
+The correct answer is: 1 KVA
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 11/33
+Question 17
+Not answered Marked out of 1.00
+Flag question
+Question 18
+Not answered Marked out of 1.00
+Flag question
+In IPIS 108 PDC will have minimum
+______ optical ethernet ports.
+a. Six
+b. Five
+c. Seven
+d. Four
+The correct answer is: Six
+In IPIS Data speed in RS232 cable should
+be _______________.
+a. 57.6 kbps
+b. 9.6 kbps
+c. 4.8 kbps
+d. 100.0 kbps
+The correct answer is: 57.6 kbps
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 12/33
+Question 19
+Not answered Marked out of 1.00
+Flag question
+Question 20
+Not answered Marked out of 1.00
+Flag question
+In IPIS switching is done by
+_________________
+a. Control console unit.
+b. Platform data
+communication hub.
+c. Eight port LAN switch.
+d. Main data communication
+hub.
+The correct answer is: Main data
+communication hub.
+In IPIS the data speed in RS485 cable is
+_______________ .
+a. 57.6 kblps
+b. 4.8 kbps
+c. 9.6Kbps
+d. 35.0 mbps
+The correct answer is: 4.8 kbps
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 13/33
+Question 21
+Not answered Marked out of 1.00
+Flag question
+Question 22
+Not answered Marked out of 1.00
+Flag question
+In IPIS, from version-3 onwards colour of
+the LEDs used in PDBs and CGDBs
+should be __________ .
+a. blue
+b. white
+c. Red
+d. yellow
+The correct answer is: white
+In the Resistive touch screen location of
+the touch is determined by
+_______________ .
+a. Voltage change
+b. Frequency change
+c. Absorption of acoustic
+waves
+d. Capacitance change
+The correct answer is: Voltage change
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 14/33
+Question 23
+Not answered Marked out of 1.00
+Flag question
+In the Surface acoustic touch screen
+system, the location of the touch is
+determined by __________________ .
+a. voltage changes
+b. Absorption of acoustic
+waves
+c. frequency changes
+d. Resistance variations
+The correct answer is: Absorption of
+acoustic waves
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 15/33
+Question 24
+Not answered Marked out of 1.00
+Flag question
+In version-4 of the IPIS, the following
+changes have been made
+a. SMD LEDs to be used in the
+display boards.
+b. WI-FI connectivity between
+the system and the display
+boards.
+c. IP addresses to be assigned
+to the devices.
+d. All the option mentined are
+correct
+The correct answer is: All the option
+mentined are correct
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 16/33
+Question 25
+Not answered Marked out of 1.00
+Flag question
+LED based electronic Display boards are
+________________________ .
+a. Both interactive and Non
+interactive
+b. Neither non interactive nor
+interactive
+c. non interactive information
+systems
+d. interactive information
+systems
+The correct answer is: non interactive
+information systems
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 17/33
+Question 26
+Not answered Marked out of 1.00
+Flag question
+Question 27
+Not answered Marked out of 1.00
+Flag question
+MDCH routes the incoming signals from
+CCU to _____________________________.
+a. LED based electronic display
+boards
+b. Close circuit Televisions
+c. Surveillance system
+d. PA systems
+The correct answer is: LED based
+electronic display boards
+Minimum storage space required for
+Central data controller (CDC) in IPIS 108
+is
+a. 500 GB HDD
+b. 500 GB SSD
+c. 1 TB HDD
+d. 1TB SSD
+The correct answer is: 500 GB SSD
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 18/33
+Question 28
+Not answered Marked out of 1.00
+Flag question
+Network video recorders are used in
+_____________________________________ .
+a. Analog based CCTV
+surveillance system
+b. Integrated Passenger
+Information System
+c. IP based CCTV surveillance
+system
+d. both Analog and IP based
+CCTV surveillance system
+The correct answer is: IP based CCTV
+surveillance system
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 19/33
+Question 29
+Not answered Marked out of 1.00
+Flag question
+Question 30
+Not answered Marked out of 1.00
+Flag question
+One of the System that provide
+information at Passenger end is
+__________________________.
+a. Alpha numeric display
+b. CCTVs
+c. Internet
+d. POET
+The correct answer is: Internet
+One of the systems that provide
+information at station
+is_____________________ .
+a. PSTN
+b. Call centre
+c. IVRS
+d. CCTVs
+The correct answer is: CCTVs
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 20/33
+Question 31
+Not answered Marked out of 1.00
+Flag question
+Question 32
+Not answered Marked out of 1.00
+Flag question
+Passenger Amenities to be provided at
+stations are decided by
+________________________ .
+a. GM of Zonal Railways
+b. Chief Commercial Manager
+c. Railway Board
+d. DRM of Divisions
+The correct answer is: Railway Board
+PBX Switch in Call centre based IVRS is
+equipped with
+______________________________ .
+a. 24 port LAN switch
+b. Router
+c. 72 analogue extensions
+d. 8 port LAN switch
+The correct answer is: 72 analogue
+extensions
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 21/33
+Question 33
+Not answered Marked out of 1.00
+Flag question
+Platform display boards and Coach
+Guidance display boards in the platforms
+have the below said addresses.
+a. Multicast address
+b. Both Multicast and Device
+address
+c. No address
+d. Unique or Device address
+The correct answer is: Both Multicast
+and Device address
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 22/33
+Question 34
+Not answered Marked out of 1.00
+Flag question
+Question 35
+Not answered Marked out of 1.00
+Flag question
+Rail Radar is an application introduced by
+CRIS that enable commuters to know
+______________.
+a. Train schedule
+b. Location of the train
+c. Coach information
+d. Running status of the train
+The correct answer is: Coach
+information
+Redundant Array of independent disks
+used in IP based CCTV Surveillance
+system has the storage capacity in
+___________________ .
+a. Kilo Byte
+b. Tera Byte
+c. Giga Byte
+d. Mega Byte
+The correct answer is: Tera Byte
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 23/33
+Question 36
+Not answered Marked out of 1.00
+Flag question
+Question 37
+Not answered Marked out of 1.00
+Flag question
+Remote monitoring software for IPIS will
+be used for
+a. Remote monitoring purpose
+b. Remote monitoring and
+reporting purpose
+c. Remote programming
+purpose
+d. Remote control purpose
+The correct answer is: Remote
+monitoring and reporting purpose
+RMS server is connected with _________
+in IPIS 108 for remote monitoring
+a. PDC
+b. CDC
+c. Display boards
+d. CDS
+The correct answer is: CDC
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 24/33
+Question 38
+Not answered Marked out of 1.00
+Flag question
+Question 39
+Not answered Marked out of 1.00
+Flag question
+Slave clocks which cannot function
+without the master clock are called
+___________________.
+a. Real time clocks
+b. Stand alone clocks
+c. Impulse clocks
+d. Analogue clocks
+The correct answer is: Impulse clocks
+The backup for GPS clock is from
+______________________________.
+a. Master Clock
+b. Common reference time
+from GPS
+c. Real time clock
+d. Slave clock
+The correct answer is: Real time clock
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 25/33
+Question 40
+Not answered Marked out of 1.00
+Flag question
+Question 41
+Not answered Marked out of 1.00
+Flag question
+RDSO specification for GPS clocks is
+___________________.
+a. RDSO/SPN/TC/65/2008
+b. RDSO/SPN/TC/60/2015
+c. RDSO/SPN/TC/61/2001
+d. RDSO/SPN/TC/62/2008
+The correct answer is:
+RDSO/SPN/TC/62/2008
+The Call center fetches the dynamic data
+such as train arrival/departure
+information from ______________ .
+a. both from PRS & NTES server
+b. NTES server
+c. PRS server
+d. COIS
+The correct answer is: NTES server
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 26/33
+Question 42
+Not answered Marked out of 1.00
+Flag question
+Question 43
+Not answered Marked out of 1.00
+Flag question
+The earth value for IPIS system as
+specified in IPIS 108 should be
+a. Less than 2 om
+b. Less than 5 ohm
+c. Less than 1 ohm
+d. Less than 10 ohm
+The correct answer is: Less than 2 om
+The interface cable used for connecting
+PDCH output ports to display boards is
+_______________.
+a. Coaxial cable
+b. OFC.
+c. RS485.
+d. RS232.
+The correct answer is: RS485.
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 27/33
+Question 44
+Not answered Marked out of 1.00
+Flag question
+The IVRS is integrated with
+__________________________ .
+a. PRS & NTES data base
+through servers
+b. Surveillance system
+c. PRS & BSNL/RLY exchange
+d. BSNL/RLY exchange and PRS
+The correct answer is: PRS & NTES data
+base through servers
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 28/33
+Question 45
+Not answered Marked out of 1.00
+Flag question
+Question 46
+Not answered Marked out of 1.00
+Flag question
+The master-slave digital clocks obtain
+common reference time from the
+_______________.
+a. GPS satellite orbiting the
+earth
+b. Real time clock only
+c. Analogue clock
+d. Master clock only
+The correct answer is: GPS satellite
+orbiting the earth
+The maximum length of RS232 cable
+used in IPIS is______________________ .
+a. 90m
+b. 1200m
+c. 15m
+d. 1000m
+The correct answer is: 15m
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 29/33
+Question 47
+Not answered Marked out of 1.00
+Flag question
+Question 48
+Not answered Marked out of 1.00
+Flag question
+The maximum length of the RS485 cable
+used in IPIS should be ___________.
+a. 1000m
+b. 500m
+c. 1200m
+d. 15m
+The correct answer is: 1200m
+The numbers of LED based display
+boards, can be connected to one O/P
+port of PDCH are __________.
+a. Six boards
+b. Eight boards
+c. Four boards
+d. Two boards
+The correct answer is: Eight boards
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 30/33
+Question 49
+Not answered Marked out of 1.00
+Flag question
+Question 50
+Not answered Marked out of 1.00
+Flag question
+The oscillator in digital clocks is crystal
+controlled for want of
+____________________________ .
+a. Less space and high stability
+b. High power consumption
+c. The more space it occupies
+d. Poor stability of crystal
+oscillator
+The correct answer is: Less space and
+high stability
+Number of GPS satellites orbiting earth
+are _______________________ .
+a. 4
+b. 24
+c. 8
+d. 3
+The correct answer is: 24
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 31/33
+Question 51
+Not answered Marked out of 1.00
+Flag question
+Question 52
+Not answered Marked out of 1.00
+Flag question
+The serial port connection between
+Coach Guidance display boards along a
+line will be ______________.
+a. parallel connected
+b. series parallel
+c. daisy chained
+d. serially connected
+The correct answer is: daisy chained
+Touch screens are used as
+_________________________ .
+a. input device
+b. both input & output devices
+c. connecting device
+d. output device
+The correct answer is: input device
+Previous activity
+Announcements
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 32/33
+Jump to...
+6/24/26, 9:03 PM TC3 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34248&cmid=336&showall=1 33/33
+Status
+Finished
+Started
+Wednesday, 24 June 2026, 5:38 PM
+Completed
+Wednesday, 24 June 2026, 9:01 PM
+Duration
+3 hours 23 mins
+Marks
+0.00/110.00
+Grade
+0.00 out of 100.00
+English
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 1/57
+Question 1
+Not answered Marked out of 1.00
+Flag question
+Question 2
+Not answered Marked out of 1.00
+Flag question
+"Train passing signal at danger" comes
+under the category of
+a. None
+b. Consequential Train
+Accidents
+c. Non Consequential Train
+Accidents
+The correct answer is: Non
+Consequential Train Accidents
+A railway servant can be absent from
+duty only
+a. with ASM permission
+b. With permission from
+superiors
+c. Inform a co-worker
+d. Without information if ill
+The correct answer is: With permission
+from superiors
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 2/57
+Question 3
+Not answered Marked out of 1.00
+Flag question
+Question 4
+Not answered Marked out of 1.00
+Flag question
+A railway servant must be in attendance
+for duty
+a. When instructed by
+administration
+b. After availing Rest
+c. Only in day time
+d. Only in Emergencies
+The correct answer is: When instructed
+by administration
+A railway servant shall always
+a. Do not report failures
+b. Disobey special instructions
+c. Breach Railway Rules
+d. Prevent Loss of Railway
+property
+The correct answer is: Prevent Loss of
+Railway property
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 3/57
+Question 5
+Not answered Marked out of 1.00
+Flag question
+Question 6
+Not answered Marked out of 1.00
+Flag question
+All standard specifications must be
+accounted for like
+a. Inspection Reports
+b. Reports
+c. Tools and Plants
+d. Stationery
+The correct answer is: Tools and Plants
+Alterations to any installations require
+a. Approval
+b. Vendor
+c. passenger consent
+d. None
+The correct answer is: Approval
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 4/57
+Question 7
+Not answered Marked out of 1.00
+Flag question
+Question 8
+Not answered Marked out of 1.00
+Flag question
+As per citizen Charter public should be
+given
+a. Correct information
+b. No information
+c. Misleading information
+d. Partial Information
+The correct answer is: Correct
+information
+Books of reference should be updated
+a. Daily
+b. Yearly
+c. With each Corrigendum
+d. Never
+The correct answer is: With each
+Corrigendum
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 5/57
+Question 9
+Not answered Marked out of 1.00
+Flag question
+Question 10
+Not answered Marked out of 1.00
+Flag question
+Complete testing of equipments in ART
+by nominated staff is done in
+a. Half Yearly
+b. Monthly
+c. Weekly
+d. 15 Days
+The correct answer is: 15 Days
+CORE Stands for
+a. Central Organisation of
+Railway Engineering
+b. Central Organisation for
+Railway Electrification
+c. Center Of Railway
+Equipment
+d. Central Office of Railway
+Electrification
+The correct answer is: Central
+Organisation for Railway Electrification
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 6/57
+Question 11
+Not answered Marked out of 1.00
+Flag question
+Question 12
+Not answered Marked out of 1.00
+Flag question
+Cross talk level testing is scheduled is
+a. Daily
+b. Monthly
+c. Quarterly
+d. Yearly
+The correct answer is: Yearly
+DESU is used for manpower planning in
+a. Signal Only
+b. Signal and Telecom
+c. Telecom Only
+d. None
+The correct answer is: Signal Only
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 7/57
+Question 13
+Not answered Marked out of 1.00
+Flag question
+Question 14
+Not answered Marked out of 1.00
+Flag question
+Dimensions on drawings must be shown
+using
+a. Only Lines
+b. Rulers
+c. Circles
+d. Arrowheads
+The correct answer is: Arrowheads
+Disobeying orders and instructions
+results in
+a. Detention
+b. Praise
+c. Promotion
+d. Disciplinary action
+The correct answer is: Disciplinary action
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 8/57
+Question 15
+Not answered Marked out of 1.00
+Flag question
+Question 16
+Not answered Marked out of 1.00
+Flag question
+DISTU stands for
+a. Digital Integrated Signal and
+Telecom Units
+b. Divisional Integrated Signal
+and Telecom Units
+c. Detailed Integrated Signal
+and Telecom Units
+d. Divisional Internal Signal and
+Telecom Units
+The correct answer is: Divisional
+Integrated Signal and Telecom Units
+Divisional Head of S&T department is
+a. DSTE
+b. CSE
+c. DRM
+d. Sr DSTE
+The correct answer is: Sr DSTE
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 9/57
+Question 17
+Not answered Marked out of 1.00
+Flag question
+Question 18
+Not answered Marked out of 1.00
+Flag question
+DMTR should be updated
+a. During Inspections
+b. Monthly
+c. Never
+d. Daily
+The correct answer is: Daily
+DMTR stands for
+a. Daily Machinery Time Record
+b. Daily Material Transfer
+Report
+c. Daily Machine Time Reset
+d. Daily Material Transaction
+Register
+The correct answer is: Daily Material
+Transaction Register
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 10/57
+Question 19
+Not answered Marked out of 1.00
+Flag question
+Question 20
+Not answered Marked out of 1.00
+Flag question
+DTMF signaling code level shall be
+between
+a. 0 dBm to +7 dBm
+b. +7 dBm to -7 dBm
+c. +20 dBm to 0 dBm
+d. 0 dBm to -7 dBm
+The correct answer is: 0 dBm to -7 dBm
+DTMF stands for
+a. Daily Tone Monitoring
+Function
+b. Dual Tone Mono frequency
+c. Dual Tone Multi Frequency
+d. Dual Tone Many Frequency
+The correct answer is: Dual Tone Multi
+Frequency
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 11/57
+Question 21
+Not answered Marked out of 1.00
+Flag question
+Question 22
+Not answered Marked out of 1.00
+Flag question
+EC socket testing by supervisor is carried
+out
+a. Randomly
+b. yearly
+c. Weekly
+d. Monthly
+The correct answer is: Monthly
+EC sockets are placed at
+a. At each railway platform
+b. Every 1KM along railway
+track
+c. Every 915 meters
+d. Every 500 meters
+The correct answer is: Every 1KM along
+railway track
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 12/57
+Question 23
+Not answered Marked out of 1.00
+Flag question
+Question 24
+Not answered Marked out of 1.00
+Flag question
+EC sockets must be painted in
+a. Black or White
+b. Alternate Black and White
+Bands
+c. Silver
+d. Black and Yellow Band
+The correct answer is: Alternate Black
+and White Bands
+Exchange Subscriber circuit loop
+resistance is tested
+a. Never
+b. Quarterly
+c. Monthly
+d. Yearly
+The correct answer is: Yearly
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 13/57
+Question 25
+Not answered Marked out of 1.00
+Flag question
+Question 26
+Not answered Marked out of 1.00
+Flag question
+Facing of EC socket post is towards
+a. Nearest Station
+b. Control Office
+c. Railway Track
+d. Any Direction
+The correct answer is: Control Office
+Failure reports are submitted
+a. Monthly
+b. Yearly
+c. Daily
+d. Never
+The correct answer is: Monthly
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 14/57
+Question 27
+Not answered Marked out of 1.00
+Flag question
+Question 28
+Not answered Marked out of 1.00
+Flag question
+For securing security Signal defects must
+be
+a. Ignored
+b. Reported to GRP
+c. By passed to run traffic
+d. Reported to administration
+The correct answer is: Reported to
+administration
+Full form of RCIL is
+a. Railways Corporation of India
+Limited
+b. Roadways Corporation of
+India Limited
+c. Railtel Corporation of India
+Limited
+d. Railways Corporate India
+Limited
+The correct answer is: Railtel
+Corporation of India Limited
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 15/57
+Question 29
+Not answered Marked out of 1.00
+Flag question
+Question 30
+Not answered Marked out of 1.00
+Flag question
+Gauge of BG line is
+a. 5300 mm
+b. 1676 mm
+c. 1067 mm
+d. 1000 mm
+The correct answer is: 1676 mm
+Gauge of Meter Gauge line is
+a. 1067 mm
+b. 1676 mm
+c. 5300 mm
+d. 1000 mm
+The correct answer is: 1000 mm
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 16/57
+Question 31
+Not answered Marked out of 1.00
+Flag question
+Question 32
+Not answered Marked out of 1.00
+Flag question
+Group calling codes A, B, C, D are part of
+a. English Alphabets
+b. CCEO System
+c. SMS system
+d. DTMF signalling System
+The correct answer is: DTMF signalling
+System
+Head of Signal &Telecom Department at
+Zonal Railway level is
+a. PCSO
+b. CSTE
+c. Chief Signal Engineer
+d. PCSTE
+The correct answer is: PCSTE
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 17/57
+Question 33
+Not answered Marked out of 1.00
+Flag question
+Question 34
+Not answered Marked out of 1.00
+Flag question
+Head of the Telecom Department at
+Railway Board level is
+a. AM Tele
+b. AM Signal
+c. Director General
+d. Executive Director
+The correct answer is: AM Tele
+In case of train parting, what should not
+be done?
+a. Inform to Passengers
+b. Show a stop hand signal
+c. Inform to Loco pilot
+d. Inform to Guard
+The correct answer is: Show a stop hand
+signal
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 18/57
+Question 35
+Not answered Marked out of 1.00
+Flag question
+Question 36
+Not answered Marked out of 1.00
+Flag question
+In emergencies, the SSE must inform
+a. Station Master
+b. News Media
+c. Commercial Control
+d. Controlling Officer
+The correct answer is: Controlling Officer
+In works item supply how much
+percentage check is done by ADSTE
+a. 50%
+b. None
+c. 20%
+d. 100%
+The correct answer is: 20%
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 19/57
+Question 37
+Not answered Marked out of 1.00
+Flag question
+Question 38
+Not answered Marked out of 1.00
+Flag question
+Inspection compliance report should be
+submitted within
+a. One week
+b. Same Day
+c. One month
+d. Never
+The correct answer is: One month
+Inspection of ART is done by ADSTE is
+a. Monthly
+b. Yearly
+c. Half Yearly
+d. Quarterly
+The correct answer is: Quarterly
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 20/57
+Question 39
+Not answered Marked out of 1.00
+Flag question
+Question 40
+Not answered Marked out of 1.00
+Flag question
+Inspection of ART is done by Sr.DSTE
+a. once in six month
+b. Quarterly
+c. Yearly
+d. Monthly
+The correct answer is: once in six month
+Inspection Report should be submitted
+within
+a. Same Day
+b. One Week
+c. 15 Days
+d. One Month
+The correct answer is: 15 Days
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 21/57
+Question 41
+Not answered Marked out of 1.00
+Flag question
+Question 42
+Not answered Marked out of 1.00
+Flag question
+Inspection reports must be submitted to
+a. Station Managers
+b. Passengers
+c. Next higher authority
+d. Not required
+The correct answer is: Next higher
+authority
+Inspection Reports must be submitted
+within
+a. One month
+b. One year
+c. Six Months
+d. Two Days
+The correct answer is: One month
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 22/57
+Question 43
+Not answered Marked out of 1.00
+Flag question
+Question 44
+Not answered Marked out of 1.00
+Flag question
+Insulation resistance test is done:
+a. Quarterly
+b. Yearly
+c. Randomly
+d. Monthly
+The correct answer is: Yearly
+intoxication checks be enforced
+a. During duty and 8 hrs. before
+b. On Rest Day
+c. Never
+d. Weekly
+The correct answer is: During duty and 8
+hrs. before
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 23/57
+Question 45
+Not answered Marked out of 1.00
+Flag question
+Question 46
+Not answered Marked out of 1.00
+Flag question
+IRS specifications are required when
+a. Vendor Requests
+b. Equipment is Scraped
+c. Equipment is Imported
+d. No other Standards Exists
+The correct answer is: No other
+Standards Exists
+Joint inspection reports must be
+submitted to
+a. Control Office
+b. Station Manager
+c. Sr DSTE
+d. Office Clerk
+The correct answer is: Sr DSTE
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 24/57
+Question 47
+Not answered Marked out of 1.00
+Flag question
+Question 48
+Not answered Marked out of 1.00
+Flag question
+Joint inspection reports should be
+a. Separately signed
+b. Not signed
+c. Sent by e-mail
+d. Jointly signed
+The correct answer is: Jointly signed
+JPO is issued to
+a. Enhance Security
+b. Give promotions
+c. Issue privilege Passes
+d. Demarcate responsibilities
+across departments
+The correct answer is: Demarcate
+responsibilities across departments
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 25/57
+Question 49
+Not answered Marked out of 1.00
+Flag question
+Question 50
+Not answered Marked out of 1.00
+Flag question
+main purpose of maintenance and
+periodical testing is
+a. to carry out Maintenance
+Block
+b. Benefit to Vendor
+c. Optimum Equipment
+Availability
+d. Fill up Maintenance
+Registers
+The correct answer is: Optimum
+Equipment Availability
+Maintenance registers must be updated
+by
+a. Assistant
+b. Office Superintendent
+c. Technicians
+d. SSE In Charge
+The correct answer is: Technicians
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 26/57
+Question 51
+Not answered Marked out of 1.00
+Flag question
+Question 52
+Not answered Marked out of 1.00
+Flag question
+Media used for error-free data
+transmission in BPAC
+a. Co-axial Cable
+b. UHF Radio
+c. OFC and Quad Cable
+d. Satellite
+The correct answer is: OFC and Quad
+Cable
+MoU in telecom is signed between
+a. Driver and Guard
+b. Railway Employees
+c. Railways and Other service
+providers
+d. Railway Board and Zonal
+Railways
+The correct answer is: Railways and
+Other service providers
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 27/57
+Question 53
+Not answered Marked out of 1.00
+Flag question
+Question 54
+Not answered Marked out of 1.00
+Flag question
+MTBF stands for
+a. Maximum Time Between
+Failures
+b. Mean Time Before Failures
+c. Major Traffic Block Failure
+d. Mean Time Between Failures
+The correct answer is: Mean Time
+Between Failures
+MTTR stands for
+a. Mean Time To Repair
+b. Mean Time to Restore
+c. Mean Time To Response
+d. Mean Travel Time Ratio
+The correct answer is: Mean Time To
+Repair
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 28/57
+Question 55
+Not answered Marked out of 1.00
+Flag question
+Question 56
+Not answered Marked out of 1.00
+Flag question
+Muster sheets are checked and initialed
+by
+a. station Master
+b. Assistant
+c. In-charge SSE/JE
+d. Pay Clerk
+The correct answer is: In-charge SSE/JE
+New works affecting live systems must
+a. Not allowed
+b. Offer minimal interruption
+c. Done at any time
+d. Not be permitted
+The correct answer is: Offer minimal
+interruption
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 29/57
+Question 57
+Not answered Marked out of 1.00
+Flag question
+Question 58
+Not answered Marked out of 1.00
+Flag question
+OTDR Measurements of spare fibers are
+done
+a. Quarterly
+b. Monthly
+c. Yearly
+d. Weekly
+The correct answer is: Quarterly
+OTDR measurements on all Fibers &
+Optical power is done
+a. quarterly
+b. Yearly
+c. Monthly
+d. Randomly
+The correct answer is: Yearly
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 30/57
+Question 59
+Not answered Marked out of 1.00
+Flag question
+Question 60
+Not answered Marked out of 1.00
+Flag question
+Passenger and other Railway user's
+Amenities works are allocated in Plan
+Heada. 2900
+b. 5300
+c. 3300
+d. 1400
+The correct answer is: 5300
+PCDO must be submitted by
+a. 25th of the Month
+b. 1st of the Month
+c. Every Week
+d. Yearly
+The correct answer is: 25th of the Month
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 31/57
+Question 61
+Not answered Marked out of 1.00
+Flag question
+Question 62
+Not answered Marked out of 1.00
+Flag question
+Periodical testing means
+a. Emergency Repairs
+b. Regular Inspection Without
+Failure
+c. Random Inspections
+d. Parameter Recording only
+The correct answer is: Regular
+Inspection Without Failure
+Periodicity of EC socket testing by
+sectional supervisor is
+a. Self Intuition
+b. Monthly
+c. Quarterly
+d. Randomly
+The correct answer is: Monthly
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 32/57
+Question 63
+Not answered Marked out of 1.00
+Flag question
+Question 64
+Not answered Marked out of 1.00
+Flag question
+Periodicity of ADSTE inspection of all
+Exchanges
+a. Quarterly
+b. Monthly
+c. Once in a Year
+d. Six Monthly
+The correct answer is: Once in a Year
+Periodicity of ADSTE inspection of all
+passenger amenities
+a. Six Monthly
+b. Once in a Year
+c. Quarterly
+d. Monthly
+The correct answer is: Once in a Year
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 33/57
+Question 65
+Not answered Marked out of 1.00
+Flag question
+Question 66
+Not answered Marked out of 1.00
+Flag question
+Periodicity of ADSTE inspection of
+Control Office
+a. Half Yearly
+b. Quarterly
+c. Once in a Year
+d. Monthly
+The correct answer is: Monthly
+Periodicity of Sr DSTE inspection of
+Control Office
+a. Monthly
+b. Quarterly
+c. Once in a Year
+d. Six Monthly
+The correct answer is: Quarterly
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 34/57
+Question 67
+Not answered Marked out of 1.00
+Flag question
+Question 68
+Not answered Marked out of 1.00
+Flag question
+Periodicity of SSE In Charge Inspecting
+telecom assets is
+a. Yearly
+b. Half Yearly
+c. Quarterly
+d. Fortnightly
+The correct answer is: Quarterly
+Preventive maintenance is done
+a. During Failures
+b. Before Failure Occurs
+c. Randomly
+d. After Failure
+The correct answer is: Before Failure
+Occurs
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 35/57
+Question 69
+Not answered Marked out of 1.00
+Flag question
+Question 70
+Not answered Marked out of 1.00
+Flag question
+Primary duty of a telecom technician is
+a. Manage Stores
+b. Operating passenger trains
+c. Efficient maintenance of
+telecom equipment
+d. Selling tickets
+The correct answer is: Efficient
+maintenance of telecom equipment
+Proposals must follow and made as per
+a. Standard Drawings and Plans
+b. Verbal Instructions
+c. As per SSE In Charge
+The correct answer is: Standard
+Drawings and Plans
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 36/57
+Question 71
+Not answered Marked out of 1.00
+Flag question
+Question 72
+Not answered Marked out of 1.00
+Flag question
+Psophometric noise level testing is done
+a. Quarterly
+b. Monthly
+c. Yearly
+d. Six Monthly
+The correct answer is: Yearly
+PTCC refers to
+a. Power and Telephone
+Coordination Committee
+b. Power and Telecom
+Coordination Committee
+c. Passenger Train calling Code
+d. Public Telecom coordination
+Committee
+The correct answer is: Power and
+Telecom Coordination Committee
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 37/57
+Question 73
+Not answered Marked out of 1.00
+Flag question
+Question 74
+Not answered Marked out of 1.00
+Flag question
+Railway Manuals must be
+a. Kept accessible on duty
+b. Kept in Lock &amp; KEY
+c. Memorized
+d. Kept at home
+The correct answer is: Kept accessible
+on duty
+Railway servant must be conversant with
+a. Rules relating to their duties
+b. Marketing policies
+c. Drawing
+d. Traffic rules only
+The correct answer is: Rules relating to
+their duties
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 38/57
+Question 75
+Not answered Marked out of 1.00
+Flag question
+Question 76
+Not answered Marked out of 1.00
+Flag question
+RE Manual was issued by
+a. IRIEEN Nashik
+b. IRISET Secunderabad
+c. Electrical Department
+d. CORE Prayagraj
+The correct answer is: CORE Prayagraj
+Returned stores include
+a. Store Supplies
+b. Spare and Scrap Material
+c. Papers and Files
+d. Uniforms
+The correct answer is: Spare and Scrap
+Material
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 39/57
+Question 77
+Not answered Marked out of 1.00
+Flag question
+Question 78
+Not answered Marked out of 1.00
+Flag question
+Rules books and manuals supplied to
+railway servant must be
+a. None
+b. Discarded regardless of
+corrections
+c. Stored at home
+d. readily available and updated
+The correct answer is: readily available
+and updated
+Schedule of Dimensions ensures
+a. Safe Train Movement
+b. Installation Ease
+c. Ensures Similarity
+d. Passenger Satisfaction
+The correct answer is: Safe Train
+Movement
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 40/57
+Question 79
+Not answered Marked out of 1.00
+Flag question
+Question 80
+Not answered Marked out of 1.00
+Flag question
+SEM is issued by
+a. Signal Control
+b. Railway Board
+c. IRISET
+d. Sr DSTE
+The correct answer is: Railway Board
+SEM stands for
+a. Signal Engineering Manual
+b. Station Establish Manual
+c. Standard equipment Manual
+d. Single Engineering Manual
+The correct answer is: Signal
+Engineering Manual
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 41/57
+Question 81
+Not answered Marked out of 1.00
+Flag question
+Question 82
+Not answered Marked out of 1.00
+Flag question
+SEM stands for
+a. Small Equipment
+Manufacturer
+b. Sever Equipment Malfunction
+c. Secondary E- Mail
+d. Signal Engineering Manual
+The correct answer is: Signal
+Engineering Manual
+Signal & Telecom works are allocated in
+Plan Heada. 3300
+b. 1300
+c. 1100
+d. 1100
+The correct answer is: 3300
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 42/57
+Question 83
+Not answered Marked out of 1.00
+Flag question
+Question 84
+Not answered Marked out of 1.00
+Flag question
+Smoke detector sensors are tested by
+a. Creating Fire
+b. Exposing to Heat
+c. Visual inspection
+d. Creating Smoke
+The correct answer is: Creating Smoke
+SSE in-charge is overall responsible for
+a. All Telecom Assets
+b. Signal Assets
+c. Expenditure
+d. Station Earnings
+The correct answer is: All Telecom
+Assets
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 43/57
+Question 85
+Not answered Marked out of 1.00
+Flag question
+Question 86
+Not answered Marked out of 1.00
+Flag question
+Staff under in-charge must be conversant
+with
+a. Rules and Regulations
+b. Driving Skills
+c. Crowd Management
+d. Revenue Collection
+The correct answer is: Rules and
+Regulations
+Standard drawings can be modified by
+a. Drawing Staff
+b. Technician
+c. SSE In charge
+d. PCSTE Approval
+The correct answer is: PCSTE Approval
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 44/57
+Question 87
+Not answered Marked out of 1.00
+Flag question
+Question 88
+Not answered Marked out of 1.00
+Flag question
+Taking intoxicants is
+a. Allowed in some cases
+b. Allowed at way stations
+c. Allowed before duty
+d. Strictly prohibited
+The correct answer is: Strictly prohibited
+technicians must carry out maintenance
+as per
+a. Randomly
+b. Maintenance Schedule
+c. SSE Instruction
+d. Self Intuition
+The correct answer is: Maintenance
+Schedule
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 45/57
+Question 89
+Not answered Marked out of 1.00
+Flag question
+Question 90
+Not answered Marked out of 1.00
+Flag question
+Telecom Directorate is part of
+a. Zonal Railway
+b. Telecom Ministry
+c. Railway Board
+d. Private Vender
+The correct answer is: Railway Board
+Tentative plans should be signed by
+a. Senior Scale Officer
+b. Sectional Technician
+c. sectional JE
+d. Pay Clerk
+The correct answer is: Senior Scale
+Officer
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 46/57
+Question 91
+Not answered Marked out of 1.00
+Flag question
+Question 92
+Not answered Marked out of 1.00
+Flag question
+The Telecom Manual was last issued in
+a. Year 2021
+b. Year 2025
+c. Year 2014
+d. Year 2007
+The correct answer is: Year 2021
+The following books doesn’t require to
+kept in the personal possession of
+SSE/TELE as per TEM
+a. None
+b. G&amp;SR
+c. Telcom Manual
+d. Signal Engineering Manual
+The correct answer is: Signal
+Engineering Manual
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 47/57
+Question 93
+Not answered Marked out of 1.00
+Flag question
+Question 94
+Not answered Marked out of 1.00
+Flag question
+The inspection register should be
+a. Page numbered and
+permanent
+b. Without page numbers
+c. Optional
+d. As a File
+The correct answer is: Page numbered
+and permanent
+The Permanent Way Manual contains
+uniform procedures and practices of
+a. Technicians
+b. Engineering Department
+c. Way Side Station
+d. Permanent employee
+The correct answer is: Engineering
+Department
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 48/57
+Question 95
+Not answered Marked out of 1.00
+Flag question
+Question 96
+Not answered Marked out of 1.00
+Flag question
+The tool to measure optical fiber losses
+is
+a. Multimeter
+b. Oscilloscope
+c. OTDR
+d. Optical Power Meter
+The correct answer is: OTDR
+Tools and plants must be kept
+a. Sent to scrap
+b. In working condition
+c. In faulty condition
+d. Locked
+The correct answer is: In working
+condition
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 49/57
+Question 97
+Not answered Marked out of 1.00
+Flag question
+Question 98
+Not answered Marked out of 1.00
+Flag question
+Touch screens are used as
+a. Both input &amp; output
+devices
+b. Output devices
+c. Event Logger
+d. Input devices
+The correct answer is: Both input &amp;
+output devices
+Transmission Loss of a unloaded Quad
+cable pair is
+a. 56 Ohms per Km
+b. 0.63dB per Km
+c. 1.0 dB per Km
+d. 0.25dB per Km
+The correct answer is: 0.63dB per Km
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 50/57
+Question 99
+Not answered Marked out of 1.00
+Flag question
+Question 100
+Not answered Marked out of 1.00
+Flag question
+TRIAP stands for
+a. Training Reliability
+Improvement Action Plan
+b. Train Reliability Improvement
+Action Plan
+c. Tentative Reliability
+Improvement Action Plan
+d. Telecom Reliability
+Improvement Action Plan
+The correct answer is: Telecom
+Reliability Improvement Action Plan
+VHF frequency 161.150 MHz is allocated
+to
+a. Accident Relief Train
+b. Driver and Guard
+c. Maintenance Staff
+d. Signal and Telecom
+The correct answer is: Driver and Guard
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 51/57
+Question 101
+Not answered Marked out of 1.00
+Flag question
+What does BPAC stand for in railway
+telecom
+a. Block Paired Axel Counters
+Breakdown Prevention by
+Access Control
+b. Black Proven by Axel Counter
+c. Block Proving by Axle
+Counter
+d. Block Portion Automatic
+Control
+The correct answer is: Block Proving by
+Axle Counter
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 52/57
+Question 102
+Not answered Marked out of 1.00
+Flag question
+Question 103
+Not answered Marked out of 1.00
+Flag question
+What is the primary goal of inspections
+a. Visiting S&amp;T
+installations
+b. Assess efficiency and service
+condition
+c. Allocate Funds
+d. Make New Works Proposals
+The correct answer is: Assess efficiency
+and service condition
+What must be maintained at every
+telecom installation for inspections?
+a. Inspection Register
+b. Inspection File
+c. Inspection Manual
+d. Log Book
+The correct answer is: Inspection
+Register
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 53/57
+Question 104
+Not answered Marked out of 1.00
+Flag question
+Question 105
+Not answered Marked out of 1.00
+Flag question
+What must follow every officer’s
+inspection?
+a. Press Release
+b. Inspection Photographs
+c. Inspection Report
+d. Inspection Schedule
+The correct answer is: Inspection Report
+What should be done during Block and
+BPAC Quad cable testing
+a. Use Disconnection Memo
+b. Should Not Work
+c. Work without Memo
+d. Bypass Signals
+The correct answer is: Use
+Disconnection Memo
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 54/57
+Question 106
+Not answered Marked out of 1.00
+Flag question
+Question 107
+Not answered Marked out of 1.00
+Flag question
+Where to maintain the inspection
+registers
+a. At each telecom installations
+b. With each sectional
+Technician
+c. Important Stations
+d. At SSE In-charge office
+The correct answer is: At each telecom
+installations
+Which body allocates frequencies
+spectrum in India
+a. RDSO
+b. WPC
+c. ITU-T
+d. ISRO
+The correct answer is: WPC
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 55/57
+Question 108
+Not answered Marked out of 1.00
+Flag question
+Question 109
+Not answered Marked out of 1.00
+Flag question
+Which manual covers RE area telecom
+systems?
+a. Establishment Manual
+b. Engineering Manuals
+c. RE Telecom Manual
+d. Signal Engineering Manual
+The correct answer is: RE Telecom
+Manual
+Who provides materials to technician for
+telecom repair and maintenance
+a. Station Master
+b. Sr Material Manager
+c. SSE/JE (Tele)
+d. Store Clerk
+The correct answer is: SSE/JE (Tele)
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 56/57
+Question 110
+Not answered Marked out of 1.00
+Flag question
+ZISTU stands for
+a. Zonal Internet Server Testing
+Unit
+b. Zonal Integrated Signal and
+Telecom Units
+c. Zonal Integrated Safety and
+Technical Units
+d. Zonal Integral Signal and
+Telecom Units
+The correct answer is: Zonal Integrated
+Signal and Telecom Units
+Previous activity
+Announcements
+Jump to...
+6/24/26, 9:01 PM TB1 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=34222&cmid=331&showall=1 57/57
+Status
+Finished
+Started
+Saturday, 20 June 2026, 10:27 PM
+Completed
+Wednesday, 24 June 2026, 9:02 PM
+Duration
+3 days 22 hours
+Marks
+8.00/99.00
+Grade
+8.08 out of 100.00
+English
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 1/69
+Question 1
+Correct Mark 1.00 out of 1.00
+Flag question
+A CCTV technician at a railway platform
+wants to reduce storage space used by
+DVR recordings without compromising
+much on image quality. Which
+compression format should be
+preferred?
+a. H.264 
+b. Motion JPEG
+c. MPEG-4
+d. Bitmap (.bmp)
+The correct answer is: H.264
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 2/69
+Question 2
+Correct Mark 1.00 out of 1.00
+Flag question
+A major security risk in IP CCTV
+networks is:
+a. Malware and cyber
+attacks
+
+b. Power surges
+c. Short circuits
+d. Vibration
+The correct answer is: Malware and
+cyber attacks
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 3/69
+Question 3
+Correct Mark 1.00 out of 1.00
+Flag question
+A medium-sized railway station plans to
+upgrade its surveillance system from
+analog to IP-based, What is a necessary
+infrastructure upgrade needed for this
+transition?
+a. Adding analog multiplexers
+b. Installation of CRT monitors
+c. Increasing number of twisted
+pair cables
+d. Replacing digital video
+recorders with network
+video recorders
+
+The correct answer is: Replacing digital
+video recorders with network video
+recorders
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 4/69
+Question 4
+Correct Mark 1.00 out of 1.00
+Flag question
+Question 5
+Correct Mark 1.00 out of 1.00
+Flag question
+A new camera is not powering up via
+PoE. What is the most probable cause?
+a. Frame rate mismatch
+b. Insufficient PoE wattage 
+c. MAC address filtering
+d. DNS misconfiguration
+The correct answer is: Insufficient PoE
+wattage
+A recorded video has skipped frames.
+The issue is most likely with:
+a. NVR write speed 
+b. Static IP setting
+c. IR cut filter
+d. Lens focus
+The correct answer is: NVR write speed
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 5/69
+Question 6
+Correct Mark 1.00 out of 1.00
+Flag question
+A surveillance system is being installed
+in a station with existing Ethernet
+infrastructure. Which feature of the IPbased system makes it particularly costeffective in this scenario?
+a. Shares existing network
+infrastructure
+
+b. Uses fiber optic cable
+exclusively
+c. Requires new coaxial cables
+d. Supports analog cameras
+only
+The correct answer is: Shares existing
+network infrastructure
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 6/69
+Question 7
+Correct Mark 1.00 out of 1.00
+Flag question
+A surveillance team is experiencing
+image degradation in one camera
+located far from the DVR at the main
+entrance of a station. Which of the
+following could be a practical solution to
+minimize signal loss?
+a. Replace DVR with NVR
+b. Replace fixed camera with
+PTZ camera
+c. Use a video amplifier or
+signal booster on the
+coaxial line
+
+d. Shorten the keyboard cable
+The correct answer is: Use a video
+amplifier or signal booster on the coaxial
+line
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 7/69
+Question 8
+Correct Mark 1.00 out of 1.00
+Flag question
+A technician is tasked with
+troubleshooting a CCTV camera at a
+railway foot overbridge. The analog
+camera is receiving power but not
+transmitting video feeD) Which of the
+following should be checked FIRST?
+a. LCD monitor brightness
+settings
+b. PTZ motor functionality
+c. DVR firmware update
+d. Integrity of the video
+coaxial cable
+
+The correct answer is: Integrity of the
+video coaxial cable
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 8/69
+Question 9
+Not answered Marked out of 1.00
+Flag question
+Question 10
+Not answered Marked out of 1.00
+Flag question
+A user wants to view CCTV feeds
+remotely. What should be enabled on the
+router?
+a. Cable diagnostics
+b. Port forwarding
+c. Auto reboot
+d. HDMI output
+The correct answer is: Port forwarding
+An IP camera continuously receives
+interference due to nearby moving trees
+and rain. What built-in capability allows
+the system to prevent false alarms?
+a. Compression settings
+b. Motion masking capability
+c. Audio detection
+d. High TVL resolution
+The correct answer is: Motion masking
+capability
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 9/69
+Question 11
+Not answered Marked out of 1.00
+Flag question
+An operator at a railway station control
+room is unable to remotely pan, tilt, or
+zoom a camera installed near the foot
+over bridge. The video feed is visible.
+What is the most likely reason for the
+control issue?
+a. Keyboard or PTZ control
+interface issue
+b. Monitor malfunction
+c. Faulty coaxial video cable
+d. DVR hard disk failure
+The correct answer is: Keyboard or PTZ
+control interface issue
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 10/69
+Question 12
+Not answered Marked out of 1.00
+Flag question
+Color monitors in analog CCTV are
+primarily used for:
+a. Enhancing image sharpness
+b. Viewing live and recorded
+video
+c. Configuration of DVR
+d. Real-time analytics
+The correct answer is: Viewing live and
+recorded video
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 11/69
+Question 13
+Not answered Marked out of 1.00
+Flag question
+During inspection, a station's analog
+CCTV setup was found to allow
+unauthorized remote access to video
+feeds. Which of the following actions
+would most directly strengthen access
+control?
+a. Switch to black-and-white
+monitors
+b. Increase resolution to 540
+TVL
+c. Use twisted pair cables
+instead of coaxial
+d. Enable password protection
+on the DVR
+The correct answer is: Enable password
+protection on the DVR
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 12/69
+Question 14
+Not answered Marked out of 1.00
+Flag question
+Question 15
+Not answered Marked out of 1.00
+Flag question
+For how many cameras can a single
+large format monitor display
+simultaneously as per specifications?
+a. 8
+b. 16
+c. 24
+d. 32
+The correct answer is: 16
+How do IP systems avoid image
+degradation over long distances?
+a. Digital-only transmission
+b. High-gain antennas
+c. Signal boosters
+d. Fiber optic transmission
+The correct answer is: Digital-only
+transmission
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 13/69
+Question 16
+Not answered Marked out of 1.00
+Flag question
+Question 17
+Not answered Marked out of 1.00
+Flag question
+How does IP surveillance help in outdoor
+environments with high motion noise?
+a. Analog filters are installed
+b. PTZ is locked
+c. Infrared lights are disabled
+d. Motion masking is
+configured
+The correct answer is: Motion masking
+is configured
+How many days should video recordings
+typically be stored in IP CCTV systems as
+per RDSO guidelines?
+a. 30 days
+b. 20 days
+c. 15 days
+d. 60 days
+The correct answer is: 30 days
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 14/69
+Question 18
+Not answered Marked out of 1.00
+Flag question
+Question 19
+Not answered Marked out of 1.00
+Flag question
+If live feeds are lagging across all
+cameras, the most probable cause is:
+a. Dirty lens
+b. Network congestion
+c. Faulty power adapter
+d. Improper angle
+The correct answer is: Network
+congestion
+If the NVR shows "No HDD detected",
+what’s the recommended action?
+a. Increase resolution
+b. Reformat the monitor
+c. Replace the camera
+d. Check SATA and power
+cables
+The correct answer is: Check SATA and
+power cables
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 15/69
+Question 20
+Not answered Marked out of 1.00
+Flag question
+In a modern IP CCTV system, which of
+the following ensures data redundancy
+and reliability in storage?
+a. RAID 5 Hard Disk Array in
+NVR
+b. Analog-digital converters
+c. PoE switches
+d. Colour monitor with HDMI
+input
+The correct answer is: RAID 5 Hard Disk
+Array in NVR
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 16/69
+Question 21
+Not answered Marked out of 1.00
+Flag question
+In absence of MPLS/IP connectivity,
+which action is expected from the
+camera system?
+a. Stop recording
+b. Record on Edge storage and
+sync later
+c. Switch to analog mode
+d. Send SMS to central server
+The correct answer is: Record on Edge
+storage and sync later
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 17/69
+Question 22
+Not answered Marked out of 1.00
+Flag question
+In an analog CCTV surveillance system
+at a small railway station, which of the
+following components is responsible for
+storing and managing recorded footage?
+a. LCD Monitor
+b. Colour Monitor
+c. Digital Video Recorder (DVR)
+d. PTZ Dome Camera
+The correct answer is: Digital Video
+Recorder (DVR)
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 18/69
+Question 23
+Not answered Marked out of 1.00
+Flag question
+In an analog CCTV system installed at a
+platform, video signals degrade over long
+distances. What is a recommended
+solution to mitigate this issue?
+a. Use of fiber optic cables
+b. Installing additional PTZ
+cameras
+c. Increasing monitor resolution
+d. Replacing LCD monitor with
+LED
+The correct answer is: Use of fiber optic
+cables
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 19/69
+Question 24
+Not answered Marked out of 1.00
+Flag question
+Question 25
+Not answered Marked out of 1.00
+Flag question
+In an analog CCTV system, which cable
+is generally required to carry both power
+and video?
+a. HDMI cable
+b. Twisted pair cable
+c. Siamese cable
+d. RG 59 coaxial cable
+The correct answer is: Siamese cable
+In an IP CCTV system, which type of
+switch is recommended for managing
+high traffic and routing between VLANs?
+a. Layer 2 switch
+b. Passive splitter
+c. Layer 1 hub
+d. Layer 3 switch
+The correct answer is: Layer 3 switch
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 20/69
+Question 26
+Not answered Marked out of 1.00
+Flag question
+In an IP surveillance system, what
+technology enables network devices to
+receive power through the same cable as
+data?
+a. Fiber optic
+b. PoE
+c. CAT-5
+d. UPS
+The correct answer is: PoE
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 21/69
+Question 27
+Not answered Marked out of 1.00
+Flag question
+In an IP-based CCTV system, what is the
+primary function of a Network Video
+Recorder (NVR)?
+a. Converts analog signals to
+digital
+b. Controls pan/tilt/zoom of
+dome cameras
+c. Displays single-camera video
+on screen
+d. Centrally records video feeds
+over the network
+The correct answer is: Centrally records
+video feeds over the network
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 22/69
+Question 28
+Not answered Marked out of 1.00
+Flag question
+Question 29
+Not answered Marked out of 1.00
+Flag question
+In large networks, which device is used
+to segment and manage CCTV camera
+groups?
+a. Managed switch
+b. DVR
+c. UPS
+d. Patch panel
+The correct answer is: Managed switch
+In the event of a major disturbance, how
+is the alarm triggered to the central
+control?
+a. Face detection
+b. Panic button
+c. Noise detection
+d. Motion sensor
+The correct answer is: Panic button
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 23/69
+Question 30
+Not answered Marked out of 1.00
+Flag question
+IP cameras with megapixel capability
+offer
+a. Higher storage savings
+b. Higher resolution images
+c. Lower bandwidth
+consumption
+d. Infrared blocking
+The correct answer is: Higher resolution
+images
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 24/69
+Question 31
+Not answered Marked out of 1.00
+Flag question
+Power over Ethernet (PoE) is used in IPbased CCTV systems primarily to:
+a. Supply power and data
+through a single Ethernet
+cable
+b. Enable wireless control of
+PTZ cameras
+c. Reduce the need for digital
+storage
+d. Convert analog signal to
+digital
+The correct answer is: Supply power and
+data through a single Ethernet cable
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 25/69
+Question 32
+Not answered Marked out of 1.00
+Flag question
+Question 33
+Not answered Marked out of 1.00
+Flag question
+The panic button system at stations
+communicates with the control room
+using:
+a. Independent telephone line
+b. Wired intercom
+c. Mobile network
+d. Same network as CCTV
+The correct answer is: Same network as
+CCTV
+The provision of UPS systems for power
+stabilization is the responsibility of:
+a. Railway Purchaser
+b. RDSO
+c. OEM
+d. System Integrator
+The correct answer is: Railway Purchaser
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 26/69
+Question 34
+Not answered Marked out of 1.00
+Flag question
+Question 35
+Not answered Marked out of 1.00
+Flag question
+The RAID 5 configuration in CCTV
+systems is used for:
+a. Data redundancy and
+performance
+b. Optical zoom
+c. Reducing bandwidth
+d. Live streaming
+The correct answer is: Data redundancy
+and performance
+The system should support
+simultaneous video playback for how
+many channels minimum on a server?
+a. 12
+b. 32
+c. 8
+d. 16
+The correct answer is: 16
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 27/69
+Question 36
+Not answered Marked out of 1.00
+Flag question
+Question 37
+Not answered Marked out of 1.00
+Flag question
+To avoid single point of failure in CCTV
+networks, one must:
+a. Power down spare cameras
+b. Disable RAID
+c. Use unmanaged switches
+d. Implement redundancy
+The correct answer is: Implement
+redundancy
+To improve cybersecurity of IP CCTV, one
+should:
+a. Use coaxial cabling
+b. Disable encryption
+c. Enable anonymous access
+d. Implement firewalls and
+strong credentials
+The correct answer is: Implement
+firewalls and strong credentials
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 28/69
+Question 38
+Not answered Marked out of 1.00
+Flag question
+Question 39
+Not answered Marked out of 1.00
+Flag question
+What allows video cameras in an IP
+system to respond to predefined events?
+a. Time-lapse recording
+b. NDVR
+c. Heat sensors
+d. Event management software
+The correct answer is: Event
+management software
+What device encodes analog video
+signals into a digital stream in a hybrid IP
+setup?
+a. PoE injector
+b. Decoder
+c. Video encoder
+d. Monitor
+The correct answer is: Video encoder
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 29/69
+Question 40
+Not answered Marked out of 1.00
+Flag question
+Question 41
+Not answered Marked out of 1.00
+Flag question
+What device records video in an analog
+CCTV setup?
+a. Network Video Recorder
+(NVR)
+b. Video management software
+c. IP encoder
+d. Digital Video Recorder (DVR)
+The correct answer is: Digital Video
+Recorder (DVR)
+What does an IP camera use to transmit
+video data?
+a. USB cable
+b. Coaxial cable
+c. HDMI cable
+d. Ethernet network
+The correct answer is: Ethernet network
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 30/69
+Question 42
+Not answered Marked out of 1.00
+Flag question
+What feature allows a camera to store
+video locally when network fails and
+transmit it once restored?
+a. Edge Storage
+b. Local Loop Recording
+c. Stream Backup
+d. Smart Archive
+The correct answer is: Edge Storage
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 31/69
+Question 43
+Not answered Marked out of 1.00
+Flag question
+What feature of IP-based systems makes
+them more scalable than analog
+systems?
+a. Each camera requires a
+dedicated coaxial cable
+b. All cameras must connect
+directly to the monitor
+c. Network devices can share
+existing infrastructure
+d. PTZ cameras are not
+supported
+The correct answer is: Network devices
+can share existing infrastructure
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 32/69
+Question 44
+Not answered Marked out of 1.00
+Flag question
+Question 45
+Not answered Marked out of 1.00
+Flag question
+What helps reduce unnecessary video
+recordings in IP systems?
+a. Motion detection analytics
+b. Zoom lens
+c. Thermal shielding
+d. Audio filters
+The correct answer is: Motion detection
+analytics
+What is a drawback of analog video
+transmission over long distances?
+a. Increased power usage
+b. Image degradation
+c. Interference from infrared
+light
+d. Network congestion
+The correct answer is: Image
+degradation
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 33/69
+Question 46
+Not answered Marked out of 1.00
+Flag question
+Question 47
+Not answered Marked out of 1.00
+Flag question
+What is a key advantage of IP-based
+surveillance systems over analog?
+a. No recording capability
+b. Coaxial cabling
+c. Uses less power
+d. Remote accessibility
+The correct answer is: Remote
+accessibility
+What is a major limitation of analog
+CCTV systems regarding scalability?
+a. Dedicated cabling per
+camera
+b. Need for separate DVRs per
+camera
+c. Limited camera resolution
+d. No encryption
+The correct answer is: Dedicated cabling
+per camera
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 34/69
+Question 48
+Not answered Marked out of 1.00
+Flag question
+What is a major scalability benefit of IP
+CCTV systems?
+a. Needs individual power
+supply for each camera
+b. Only one camera can be
+added at a time
+c. Cameras can be added
+without major infrastructure
+changes
+d. Requires new cabling for
+every camera
+The correct answer is: Cameras can be
+added without major infrastructure
+changes
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 35/69
+Question 49
+Not answered Marked out of 1.00
+Flag question
+What is one limitation of analog CCTV
+systems when converting signals for
+remote access?
+a. Image quality improves
+b. No need for DVR
+c. Requires wireless network
+d. Signal weakens due to
+multiple conversions and
+cabling distance
+The correct answer is: Signal weakens
+due to multiple conversions and cabling
+distance
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 36/69
+Question 50
+Not answered Marked out of 1.00
+Flag question
+Question 51
+Not answered Marked out of 1.00
+Flag question
+What is the approximate storage
+requirement per camera per 30 days for
+Full HD with RAID 5/6?
+a. 1 TB
+b. 750 GB
+c. 250 GB
+d. 500 GB
+The correct answer is: 750 GB
+What is the function of a PoE injector in a
+CCTV system?
+a. Convert analog to digital
+b. Amplify camera audio
+c. Supply power over Ethernet
+d. Split network traffic
+The correct answer is: Supply power over
+Ethernet
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 37/69
+Question 52
+Not answered Marked out of 1.00
+Flag question
+Question 53
+Not answered Marked out of 1.00
+Flag question
+What is the minimum optical zoom
+required for CCTV lenses according to
+the specification?
+a. 36X
+b. 12X
+c. 10X
+d. 24X
+The correct answer is: 36X
+What is the nominal power supply
+specified for CCTV systems in railway
+stations?
+a. 440 V AC
+b. 220 V / 50 Hz AC
+c. 24 V DC
+d. 110 V DC
+The correct answer is: 220 V / 50 Hz AC
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 38/69
+Question 54
+Not answered Marked out of 1.00
+Flag question
+What is the primary role of a DVR in an
+analog CCTV system?
+a. To compress video signals
+for faster transmission
+b. To convert analog signals
+into digital and store video
+c. To display live video on
+monitors
+d. To control PTZ camera
+angles
+The correct answer is: To convert analog
+signals into digital and store video
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 39/69
+Question 55
+Not answered Marked out of 1.00
+Flag question
+Question 56
+Not answered Marked out of 1.00
+Flag question
+What is the primary use of a Layer 3
+switch in an IP CCTV system?
+a. Providing video storage
+b. Power backup
+c. Routing between networks
+d. Connecting local cameras
+The correct answer is: Routing between
+networks
+What is the role of RAID 5 in a Network
+Video Recorder (NVR)?
+a. Reduces camera bandwidth
+b. Increases analog signal
+strength
+c. Provides data redundancy
+and fault tolerance
+d. Enhances remote access
+The correct answer is: Provides data
+redundancy and fault tolerance
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 40/69
+Question 57
+Not answered Marked out of 1.00
+Flag question
+Question 58
+Not answered Marked out of 1.00
+Flag question
+What is the typical bandwidth
+requirement for a 2MP IP camera
+streaming at 30fps?
+a. 512 Kbps
+b. 100 Mbps
+c. 8–10 Mbps
+d. 1–2 Mbps
+The correct answer is: 1–2 Mbps
+What is the typical image resolution of an
+analog camera system?
+a. 720p
+b. 480p
+c. 1080p
+d. 4K
+The correct answer is: 480p
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 41/69
+Question 59
+Not answered Marked out of 1.00
+Flag question
+Question 60
+Not answered Marked out of 1.00
+Flag question
+What should be checked first when an IP
+camera is not showing on the VMS?
+a. IP address conflict
+b. Time zone settings
+c. Infrared mode
+d. Optical zoom level
+The correct answer is: IP address
+conflict
+What type of camera is preferably used
+for indoor locations like waiting halls and
+ticket counters?
+a. Bullet type
+b. Fixed Box type
+c. PTZ camera
+d. Fixed Dome type
+The correct answer is: Fixed Dome type
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 42/69
+Question 61
+Not answered Marked out of 1.00
+Flag question
+Question 62
+Not answered Marked out of 1.00
+Flag question
+What type of camera provides remote
+pan, tilt, and zoom functionality?
+a. Dome camera
+b. Fixed camera
+c. Bullet camera
+d. PTZ camera
+The correct answer is: PTZ camera
+Where would fixed cameras be most
+effectively installed in a railway station?
+a. At ticket counters to monitor
+fixed points
+b. On foot over bridges for
+panoramic views
+c. In waiting halls for wider
+coverage
+d. Along the railway track
+The correct answer is: At ticket counters
+to monitor fixed points
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 43/69
+Question 63
+Not answered Marked out of 1.00
+Flag question
+Question 64
+Not answered Marked out of 1.00
+Flag question
+Which benefit is exclusive to IP
+surveillance compared to analog CCTV?
+a. Black &amp; white night
+vision
+b. Video motion detection
+c. Color video recording
+d. Pan/Tilt/Zoom capabilities
+The correct answer is: Video motion
+detection
+Which cable is commonly used for data
+transmission in IP-based systems?
+a. RCA
+b. CAT-6
+c. Twinax
+d. RG 11
+The correct answer is: CAT-6
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 44/69
+Question 65
+Not answered Marked out of 1.00
+Flag question
+Question 66
+Not answered Marked out of 1.00
+Flag question
+Which cable is typically used for analog
+video connections up to 350 meters?
+a. HDMI
+b. CAT 6
+c. RG 11
+d. Optical fiber
+The correct answer is: RG 11
+Which camera is suitable for broad
+surveillance like parking or circulating
+areas?
+a. Box camera
+b. Fixed Dome Camera
+c. PTZ Camera
+d. Handheld thermal camera
+The correct answer is: PTZ Camera
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 45/69
+Question 67
+Not answered Marked out of 1.00
+Flag question
+Which component in an IP CCTV system
+is used to analyze inputs and trigger
+alerts automatically?
+a. Encoder
+b. Monitor
+c. Network camera with
+analytics
+d. RAID array
+The correct answer is: Network camera
+with analytics
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 46/69
+Question 68
+Not answered Marked out of 1.00
+Flag question
+Question 69
+Not answered Marked out of 1.00
+Flag question
+Which component is required to transmit
+IP video over long distances beyond
+100m?
+a. VGA splitter
+b. Passive coupler
+c. PoE extender or fiber media
+converter
+d. BNC connector
+The correct answer is: PoE extender or
+fiber media converter
+Which component stores footage in an
+IP-based CCTV system?
+a. POE switch
+b. Encoder
+c. DVR
+d. NVR
+The correct answer is: NVR
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 47/69
+Question 70
+Not answered Marked out of 1.00
+Flag question
+Question 71
+Not answered Marked out of 1.00
+Flag question
+Which compression format is commonly
+used in DVRs to optimize storage?
+a. MP3
+b. RAW
+c. H.264
+d. AVI
+The correct answer is: H.264
+Which compression format is commonly
+used in IP CCTV systems?
+a. BMP
+b. DOCX
+c. H.264 / H.265
+d. MP3
+The correct answer is: H.264 / H.265
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 48/69
+Question 72
+Not answered Marked out of 1.00
+Flag question
+Question 73
+Not answered Marked out of 1.00
+Flag question
+Which device allows analog cameras to
+be viewed remotely over a network?
+a. Decoder
+b. Multiplexer
+c. Encoder
+d. Signal booster
+The correct answer is: Encoder
+Which device is used for capturing
+vapors of explosive substances?
+a. Vapour trace detector
+b. X-ray scanner
+c. Bomb blanket
+d. Handheld detector
+The correct answer is: Vapour trace
+detector
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 49/69
+Question 74
+Not answered Marked out of 1.00
+Flag question
+Which feature allows IP cameras to
+continue delivering high image quality
+over long distances?
+a. PoE adapters
+b. Megapixel zoom lens
+c. Single digital conversion and
+transmission
+d. Analog-to-digital converters
+The correct answer is: Single digital
+conversion and transmission
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 50/69
+Question 75
+Not answered Marked out of 1.00
+Flag question
+Which of the following best describes
+Schematic Diagram-3 storage method?
+a. No storage at all
+b. Local NVR storage at
+stations only
+c. 30 days in cloud and 7+ days
+locally
+d. Local storage at RPF/GRP
+posts
+The correct answer is: 30 days in cloud
+and 7+ days locally
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 51/69
+Question 76
+Not answered Marked out of 1.00
+Flag question
+Which of the following best describes the
+main advantage of a PTZ camera over a
+fixed camera in analog CCTV systems?
+a. PTZ cameras allow remote
+control of pan, tilt, and zoom
+b. PTZ cameras are cheaper to
+install
+c. PTZ cameras offer higher
+resolution
+d. PTZ cameras require less
+power
+The correct answer is: PTZ cameras
+allow remote control of pan, tilt, and
+zoom
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 52/69
+Question 77
+Not answered Marked out of 1.00
+Flag question
+Which of the following components is
+essential in IP CCTV systems but not
+typically used in analog CCTV systems?
+a. Multi-channel
+encoder/decoder
+b. Video multiplexer
+c. CRT-based monitor
+d. Coaxial balun
+The correct answer is: Multi-channel
+encoder/decoder
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 53/69
+Question 78
+Not answered Marked out of 1.00
+Flag question
+Which of the following functionalities is
+not typically supported in analog CCTV
+systems but is available in IP-based
+systems?
+a. Event detection and alarm
+notifications
+b. Video storage on hard disk
+c. Displaying video on a monitor
+d. Using dome-type cameras
+The correct answer is: Event detection
+and alarm notifications
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 54/69
+Question 79
+Not answered Marked out of 1.00
+Flag question
+Which of the following functions is
+provided by Video Management Software
+(VMS)?
+a. IP address allocation
+b. Power supply to cameras
+c. Data compression only
+d. Live view, playback, and
+analytics
+The correct answer is: Live view,
+playback, and analytics
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 55/69
+Question 80
+Not answered Marked out of 1.00
+Flag question
+Which of the following helps reduce
+unnecessary recordings in an IP-based
+video surveillance system?
+a. Manual zoom and pan
+functions
+b. Longer coaxial cable lengths
+c. Video analytics and motion
+detection
+d. Optical zoom lenses
+The correct answer is: Video analytics
+and motion detection
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 56/69
+Question 81
+Not answered Marked out of 1.00
+Flag question
+
+
+Which of the following is a key advantage
+of IP-based surveillance systems over
+analog CCTV in terms of video quality?
+a. Supports CRT monitors for
+sharper image
+b. Uses progressive scan and
+megapixel technology
+c. Requires multiple
+conversions from analog
+to digital
+d. Better image over coaxial
+cables
+The correct answer is: Uses progressive
+scan and megapixel technology
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 57/69
+Question 82
+Not answered Marked out of 1.00
+Flag question
+Which of the following is a major
+limitation of analog-based CCTV
+systems compared to IP-based CCTV
+systems in railway surveillance?
+a. Limited resolution and
+scalability
+b. Incompatible with color
+monitors
+c. Low power consumption
+d. Requires complex IP address
+configuration
+The correct answer is: Limited resolution
+and scalability
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 58/69
+Question 83
+Not answered Marked out of 1.00
+Flag question
+
+
+Which of the following is NOT a
+component of the Integrated Security
+System in Indian Railways?
+a. Under Vehicle Scanning
+System
+b. Face Recognition
+Attendance System
+c. CCTV Surveillance system
+d. X-ray baggage screening
+system
+The correct answer is: Face Recognition
+Attendance System
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 59/69
+Question 84
+Not answered Marked out of 1.00
+Flag question
+Question 85
+Not answered Marked out of 1.00
+Flag question
+Which of the following is NOT generally a
+feature of video analytics in ISS?
+a. Crowd Counting
+b. Left Object Detection
+c. Intrusion Detection
+d. Train Speed Detection
+The correct answer is: Train Speed
+Detection
+Which of the following is typically used to
+transmit video signals in analog CCTV
+systems?
+a. HDMI cable
+b. RG 6 coaxial cable
+c. CAT 6 cable
+d. Optical fiber
+The correct answer is: RG 6 coaxial cable
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 60/69
+Question 86
+Not answered Marked out of 1.00
+Flag question
+Question 87
+Not answered Marked out of 1.00
+Flag question
+Which of the following subsystems is
+responsible for checking the
+undercarriage of vehicles at stations?
+a. FR Camera
+b. UVSS
+c. PTZ Camera
+d. X-ray baggage scanner
+The correct answer is: UVSS
+Which parameter should be adjusted in
+low-light conditions to improve image
+clarity?
+a. Bitrate
+b. Exposure settings
+c. Bandwidth
+d. Focal length
+The correct answer is: Exposure settings
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 61/69
+Question 88
+Not answered Marked out of 1.00
+Flag question
+Question 89
+Not answered Marked out of 1.00
+Flag question
+Which protocol allows IP cameras to
+stream live video over the internet?
+a. FTP
+b. RTSP
+c. DHCP
+d. SMTP
+The correct answer is: RTSP
+Which protocol or infrastructure is most
+commonly used for integrating IP CCTV
+systems with other IT systems?
+a. Modbus
+b. Closed circuit coaxial cable
+c. Serial Cable
+d. Ethernet/IP Network
+The correct answer is: Ethernet/IP
+Network
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 62/69
+Question 90
+Not answered Marked out of 1.00
+Flag question
+Question 91
+Not answered Marked out of 1.00
+Flag question
+Which storage system is ideal for largescale IP CCTV deployments?
+a. Flash drive
+b. SAN/NAS
+c. Pen drive
+d. MicroSD card
+The correct answer is: SAN/NAS
+Which technology allows a single
+Ethernet cable to carry both data and
+power to IP cameras?
+a. SDI
+b. HDMI
+c. USB
+d. PoE
+The correct answer is: PoE
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 63/69
+Question 92
+Not answered Marked out of 1.00
+Flag question
+Question 93
+Not answered Marked out of 1.00
+Flag question
+Which tool is used to detect and analyze
+IP address conflicts in CCTV networks?
+a. Focus ring
+b. RJ45 crimper
+c. Network scanner
+d. IR tester
+The correct answer is: Network scanner
+Which type of camera can be controlled
+to pan, tilt, and zoom remotely?
+a. Fixed camera
+b. Dome camera
+c. PTZ camera
+d. Megapixel camera
+The correct answer is: PTZ camera
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 64/69
+Question 94
+Not answered Marked out of 1.00
+Flag question
+Question 95
+Not answered Marked out of 1.00
+Flag question
+Which type of IP camera is most suitable
+for 360-degree monitoring?
+a. Thermal camera
+b. PTZ camera
+c. Bullet camera
+d. Fisheye camera
+The correct answer is: Fisheye camera
+Which type of IP camera is typically
+installed at entry/exit points with face
+recognition software?
+a. PTZ Camera
+b. Analog Bullet camera
+c. Full HD Dome camera
+d. 4K UHD Fixed Box camera
+The correct answer is: 4K UHD Fixed Box
+camera
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 65/69
+Question 96
+Not answered Marked out of 1.00
+Flag question
+Which video compression standard is
+mentioned in the specification for
+storage efficiency?
+a. VP9
+b. H.265
+c. H.264
+d. MPEG-2
+The correct answer is: H.265
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 66/69
+Question 97
+Not answered Marked out of 1.00
+Flag question
+While assessing the video quality from
+two fixed cameras installed at a
+reservation counter, one shows
+noticeably sharper images than the
+other. Both are standard analog models.
+What technical parameter should be
+checked to explain this difference?
+a. The brand of the coaxial
+cable used
+b. The LCD refresh rate
+c. TVL (Television Lines)
+resolution of the cameras
+d. Compression format used by
+DVR
+The correct answer is: TVL (Television
+Lines) resolution of the cameras
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 67/69
+Question 98
+Not answered Marked out of 1.00
+Flag question
+Question 99
+Not answered Marked out of 1.00
+Flag question
+Why is progressive scan important in IP
+cameras?
+a. To avoid motion blur and
+interlacing artifacts
+b. To record audio efficiently
+c. To zoom in on recorded video
+d. To provide night vision
+capabilities
+The correct answer is: To avoid motion
+blur and interlacing artifacts
+Why is video quality often lower in analog
+systems compared to IP systems?
+a. Less durable cameras
+b. Use of monochrome sensors
+c. Shorter cable range
+d. Multiple analog-to-digital
+conversions
+The correct answer is: Multiple analogto-digital conversions
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 68/69
+Previous activity
+Announcements
+Jump to...
+6/24/26, 9:02 PM TA7 - Quiz: Attempt review | IRISET LMS
+https://lms.iriset.in/mod/quiz/review.php?attempt=33611&cmid=330&showall=1 69/69
