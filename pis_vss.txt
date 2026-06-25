@@ -1,0 +1,3069 @@
+PASSENGER INFORMATION SYSTEM
+(TC3)
+C P Chaudhary
+Instructor Telecom (ICT-1)
+ IRISET
+25-May-26
+1
+Systems that facilitate dissemination of train related
+information to passengers are known as passenger
+information systems (PIS).
+What are Passenger Information Systems?
+25-May-26
+2
+PASSENGER INFORMATION SYSTEMS
+Information at
+Station premises
+Information at
+passenger’s end
+CLASSIFICATION OF PIS
+A B
+25-May-26 3
+AUDIO
+(PA SYSTEM)
+VIDEO ALPHANUMERIC
+DISPLAY
+TIDB CGDB
+INTERACTIVE
+(POET)
+NON-INTERACTIVE
+(CCTV)
+A
+25-May-26 4
+INTERACTIVE NON-INTERACTIVE
+IVRS INTERNET
+TEXT MESSAGES
+B
+25-May-26 5
+25-May-26 6
+Alphanumeric Display Types
+❖ Coach Guidance Board
+❖ Platform display Board
+❖ At A Glance Board
+❖ Multiline Display Board
+❖ Indoor Video Display
+❖ Outdoor Video Display
+❖ True Color Display Board
+Web Based PIS Applications
+❖National Train Enquiry System (NTES): The official web portal and
+mobile app for tracking train running status. Passengers use it to check
+live station arrivals/departures, train schedules, and identify cancelled
+or diverted trains.
+❖IRCTC Rail Connect: The flagship e-ticketing and passenger
+reservation system (PRS) website. It is used for booking reserved
+tickets, checking PNR status, and managing cancellation.
+❖RailOne: RailOne is the unified, all-in-one web and mobile application
+that consolidates reserved ticketing, platform ticketing, unreserved
+journey booking, live train tracking, and grievance redressal into a
+single platform.
+❖RailMadad: A dedicated web-based passenger grievance and support
+application use to lodge complaints, request assistance and provide
+feedback
+25-May-26 7
+Indian Railway IVRS
+❖ The technology functions entirely on the carrier voice network layer,
+making it accessible from basic feature phones without requiring
+internet data.
+❖ Indian Railways' official Interactive Voice Response System (IVRS) and
+integrated helpline number is 139
+❖ Passengers can dial 139 from any landline or mobile phone to access
+travel-related information without needing a smartphone or internet
+connection.
+❖ 139 Helpline is one of the largest automated customer service systems
+globally, processing over 300,000 calls per day
+❖ The system supports 12 major languages (including Hindi, English,
+Punjabi, Gujarati, Marathi, Kannada, Malayalam, Tamil, Telugu,
+Bengali, Assamese, and Odia)
+25-May-26 8
+Category of
+stations Category of proposed earnings Criteria of proposed outward
+passengers handled
+Total No.
+of stations
+Non-Suburban Group
+NSG 1 >500 Cr. (14) > 2 Cr. (7) 21
+NSG 2 >100 Cr. - ≤500 Cr. (70) > 1 Cr. - ≤2 Cr. (7) 77
+NSG 3 >20 Cr - ≤100 Cr. (218) > 50 Lakh - ≤1 Cr. (9) 227
+NSG 4 >10 Cr. - ≤20 Cr. (210) > 20 Lakh - ≤ 50 Lakh (76) 286
+NSG 5 >1 Cr. - ≤10 Cr. (1046) > 10 Lakh - ≤ 20 Lakh (10) 1056
+NSG 6 ≤1 Cr. (4238) ≤ 10 Lakh (0) 4238
+COMMERCIAL CLASSIFICATION OF STATIONS IN IR
+( Railway Board Letter No. RB/L&A/001/2018 dt.09.04.2018)
+25-May-26 9
+Suburban Group
+SG 1 > 25 Cr. (24) > 3 Cr. (11) 35
+SG 2 > 10 Cr. - ≤ 25 Cr. (52) > 1 Cr. - ≤ 3 Cr. (22) 74
+SG 3 ≤ 10 Cr. (398) ≤ 1 Cr. (0) 398
+Halt Group
+HG 1 > 50 Lakh (18) > 3 Lakh (12) 30
+HG 2 > 5 Lakh - ≤ 50 Lakh (538) > 1 Lakh - ≤ 3 Lakh (30) 568
+HG 3 ≤ 5 Lakh (1728) ≤ 1 Lakh (0) 1728
+25-May-26 10
+Minimum Essential Amenities (MEA) to be provided at stations
+As per (Rly. Board’s letter No. 2018/LM(PA)/03/06 dt.09.04.2018 )
+Sr.
+No. Amenities NSG1 NSG2 NSG3 NSG4 NSG5 NSG6
+1 Clock Yes Yes Yes Yes Yes Yes
+2
+PA System /
+Computer
+based
+Announcement
+Yes Yes Yes Yes Yes Yes
+3
+Electronic Train
+Indication
+Board
+Yes Yes Yes - - -
+25-May-26 11
+Sr.
+No. Amenities SG1 SG2 SG3 HG1 HG2 HG3
+1 Clock Yes Yes Yes Yes - -
+2
+PA System /
+Computer based
+Announcement
+Yes Yes Yes - - -
+3
+Electronic Train
+Indication Board Yes Yes Yes - - -
+25-May-26 12
+Desirable Amenities to be provided at stations
+As per (Rly. Board’s letter No. 2018/LM(PA)/03/06 dt.09.04.2018 )
+Sr.
+No. Amenities NSG1 NSG2 NSG3 NSG4 NSG5 NSG6
+1 Clock Yes Yes Yes Yes Yes Yes
+2
+PA System /
+Computer
+based
+Announcement
+Yes Yes Yes Yes Yes -
+3
+Electronic Train
+Indication
+Board
+Yes Yes Yes Yes - -
+4
+Train Coach
+Indicator
+System
+Yes Yes
+5 Wi-Fi Yes Yes Yes Yes Yes
+25-May-26 13
+Sr.
+No. Amenities SG1 SG2 SG3 HG1 HG2 HG3
+1
+Train Coach
+Information
+System
+Yes Yes Yes - -
+2
+PA System /
+Computer based
+Announcement
+Yes Yes Yes Yes - -
+3
+Electronic Train
+Indication Board Yes Yes Yes Yes - -
+25-May-26 14
+25-May-26 15
+Amrit Bharat Scheme for Stations
+❖ Various developmental schemes viz. Model, Modern,
+Adarsh and Umbrella Work have been launched by Zonal
+Railways on small scale and scattered manner.
+❖ Ministry of railways introduces new policy for
+modernization of stations named as “ Amrit Bharat
+Station Scheme” for developing stations on a continuous
+basis with a long-term vision vide Rly Bd. L.No.
+2022/GS/Stn. Dev.-1/08/70 Dtd. 23.12.2022
+❖ The scheme shall generally be executed through various
+Umbrella Works for Passenger Amenities Plan Head-53.
+25-May-26 16
+❖ This scheme will be implemented all over Indian Railway
+Stations. Each Division shall select 15 stations for Amrit
+Bharat Station Scheme amounting to a total of 1275
+stations over Indian Railway
+❖ Criteria for Station selection is as –
+❖ NSG1, NSG2, NSG3 category of stations
+❖ Stations of tourist and pilgrimage importance
+❖ Zonal and Divisional Headquarter Stations
+❖ Any other station with local significance with Rly.
+Board approval.
+TOUCH SCREEN SYSTEMS
+Basic Components of Touch Screens
+• Touch Sensor : Clear Glass panel with touch
+responsive surface, touching the screen cause
+voltage or signal change.
+• Controller : The Interface between touch sensor and
+PC, which translate touch into information. Usually
+integrated in the display with a USB port.
+• Software Driver : Interpret the touch event
+information received from controller. Most drivers
+are mouse emulation type which makes touch
+similar to mouse clicking
+25-May-26
+17
+Touch Screen Systems
+1. Resistive Touch Screen (POS)
+2. Capacitive Touch Screens (Smartphone)
+3. Surface acoustic Wave Touch Screen(Kiosk)
+4. Infrared Touch Screen (Digital Signage)
+25-May-26
+18
+Resistive Touch Screen
+Polyethene terephthalate (PET)
+25-May-26
+19
+Resistive Touch Screen
+❖ A resistive touch screen works by detecting physical pressure to close an
+open electrical circuit formed by two separate, flexible layers
+❖ This type of touch screen has two layers separated by spacers,
+electrical current runs through these two layers
+❖ Glass/acrylic panel is coated with electrically conductive and
+resistive layer separated by tiny separator dots
+❖It is pressure sensitive and responds to any input device,
+including finger, gloved hand or pen stylus.
+❖It is a reliable and affordable technology that is widely used
+❖When touched, the two layers make contact which changes the
+electrical field and coordinates of the touch are calculated based
+on the disruption of the electrical field
+25-May-26
+20
+Technical specifications
+• Touch Type : Resistive
+• Screen Sizes : 1.8” – 24” diagonal
+• Connection Interface : COM port/USB port
+• Touch Resolution : Up to 4096 x 4096 Pixels
+• Response Time : 10 ms maximum
+• Operating Voltage : up to 5 volts DC
+• Activation Force : 5 – 120 gm/cm2
+• Accuracy : 3 mm maximum error
+• Life Span : 30 lakh touches at one point
+25-May-26
+21
+Capacitive Touch Screens
+25-May-26
+22
+Capacitive Touch Screens
+• Consists of Glass panel with capacitive material coating
+on its surface
+• Touch screen has one layer that stores an electric charge.
+When the screen is touched, the human body acts as a
+conductor which distorts the voltage in that spot.
+• Technology works with the LCD monitors.
+• Very Responsive & have higher image clarity
+• No effect of dirt, grease, or moisture
+• Only responds to finger contact and will not work with a
+non- conductive gloved hand or pen stylus
+25-May-26
+23
+Technical specifications
+• Touch Type : Capacitive
+• Screen Sizes : 3” - 55”
+• Connection Interface : COM port/USB port
+• Touch Resolution : 4096 to 16384 pixels
+• Operating Voltage : 3 to 5 Volt DC
+• Activation Force : 0 gm/cm2
+• Response time : < 1 ms to 10 ms
+• Life Span : 10 Cr. touches at one point
+25-May-26
+24
+Surface Acoustic Wave touch screen
+25-May-26
+25 Working of SAW screen
+Surface Acoustic Wave touch screen
+• Two transducers placed on the x-axis (Trans) and y-axis (Recv.) that
+constantly emit ultrasonic sound waves with Piezoelectric Transducers.
+• Does not require conductive coating like resistive and capacitive
+• Reflectors are placed opposite to the transducers to reflect those signals
+• An interruption in the sound waves due to touch, causes a change in the
+amplitude of those waves. The controller and driver can then calculate
+where that occurred.
+• SAW screen is a good choice for applications where image clarity is
+important, viz. KIOSKs, Ticket Vending Machine
+• Do not perform well in extremely dusty environments, susceptible to
+false touch or failure if contaminated with dirt, water ,grease etc.
+• Responds to finger, gloved hand or soft stylus which absorbs ultrasonic
+waves.
+25-May-26
+26
+• Touch Type : Surface Acoustic Wave
+• Screen Sizes : 7” – 24”
+• Connection Interface : COM port/USB port
+• Accuracy : < 2.5 mm
+• Response time : < 10.4 msec
+• Touch Resolution : 4096 x 4096 pixels
+• Activation Force : < 50 to 80 gm
+• Life Span : 1 lakh touches at one point
+Technical specifications
+25-May-26
+27
+Infrared touch screen
+25-May-26
+28
+Infrared touch screen
+▪ Technology that available for large displays such as 42-inch
+Plasma screens.
+▪ It is a durable technology that offers high image clarity.
+▪ Responds to any input device or stylus.
+▪ Infrared touch screens use a grid of light-emitting diodes (LEDs)
+and photo detectors to detect touch inputs
+▪ When a user touches the screen, with finger or stylus interrupts
+the infrared light beams
+▪ The system then calculates the coordinates of touch point based
+on the specific beams that were interrupted. This information
+processed and interprets the touch input and performs the
+corresponding action.
+25-May-26
+29
+• Touch Type : Infra Red
+• Screen Sizes : 10” – 500” ( for modular video wall)
+• Minimum Touch size : 4mm X 4 mm
+• Connection Interface : USB port
+• Accuracy : ±1.5 to 2.5 mm
+• Response time : 7 to 16 msec
+• Touch Resolution : 4096 x 32768 pixels
+• Operating Voltage : 5 V DC
+• Life Span : 6 Crore touches at one point
+Technical specifications
+25-May-26
+30
+TYPICAL TOUCH SCREEN CONNECTIVITY
+25-May-26
+31
+Electronic Reservation Chart
+• Electronic reservation chart is a system established at railway
+stations for the convenience of passengers.
+• It displays reservation chart in bright cluster of LCD Monitors.
+• Status of RAC/Waitlisted tickets will be displayed in the system
+• Automatic display at scheduled timing.
+• Charts can be transferred over network to wayside stations.
+• Tampering, problem of passengers removing the charts will be
+totally eliminated.
+• Present problem of placing chart by employees is eliminated.
+Manual Intervention is totally removed.
+• Chart is stored electronically for future reference.
+25-May-26
+32
+ERC Components
+LAYER 2 MANAGEABLE SWITCHChart data is received in the ERC server through this switch.
+LAN EXTENDERS-
+• Electronic Chart displays placed in the remote platforms are
+connected in LAN with the ERC server using this LAN
+extenders.
+• Used to connect one or more system in LAN.
+LCD cluster displays-
+• Used to display Reservation charts
+25-May-26
+33
+Network Connectivity
+25-May-26
+34
+25
+-May
+-26
+35
+ERC Working Principle
+❑ Charting data from the PRS server is received in the ERC
+server .
+❑ The data is analyzed and sorted with reference to the
+train no. and date of journey Information.
+❑ After sorting the data, the display schedule of the chart is
+prepared with reference to the departure time of the train.
+❑ Chart for a train is displayed 1-2 hours before the
+departure time of the train which depends on the chart
+timings.
+25-May-26
+36
+ERC Working Principle contd.
+❑ Status of WL/RAC passenger with respect to the class of
+journey, will be displayed on the screen till the departure
+time.
+❑ Bilingual Chart data is also displayed on the screen
+whenever it is available.
+❑ When more than one train data is available, Queue will be
+formed and all train charts will be displayed in rotational
+basis.
+❑ All the displays are connected to the server via LAN with
+its unique IP address.
+25-May-26
+37
+GPS BASED DIGITAL CLOCKS
+(RDSO/SPN/TC/62/2008 Rev. 4.1)
+25-May-26
+38
+GPS Clocks Features
+❖ Automatic synchronisation of Real Time Clock from GPS receiver
+❖ Automatic intensity control with SMD white & Amber LEDs
+❖ Manual time setting not required
+❖ GPS signal indicator LED shows GPS reception
+❖ Can be used as Master-Slave Configuration
+❖ It shall Confirm IP54 (IPXY X= Solid, Y=Liquid )
+❖ Facility for 12/24 Hours format
+❖ Comes with Double and Single side display
+❖ Clock display shall be immune to electromagnetic effect of 25KV
+traction line
+25-May-26
+39
+Specification of Digital Clock PF Area
+❖ It should be microcontroller/Microprocessor based
+❖ In- built GPS receiver in stand alone mode
+❖ Built in RTC with 8 years non-volatile data retention without
+power.
+❖ Time accuracy +/- 1 minute per month
+❖ The RTC time shall be adjusted once in a minute to time
+received from GPS.
+❖ Digital clocks for platform should work in stand alone mode
+with its own GPS receiver with blinking LED for GPS
+communication.
+❖ A LED test switch to check LED working by displaying 88:88
+❖ 3 lines of LED for 7 Segment display.
+25-May-26
+40
+Platform Digital Clock
+25-May-26
+41
+Platform Digital Clock Dimensions
+25-May-26
+42
+Office Digital Clock Dimensions
+25-May-26
+43
+Global Positioning Systems (GPS)
+• GPS is Satellite Based Navigation system by U.S.
+• It is one of the Global Navigation Satellite System –GNSS
+• Others- GNSS- GLONASS, BeiDOU, Galileo, and NavIC
+(Navigation with Indian Constellation )
+• GPS uses 24 Satellites and provide location & time
+Information near earth surface.
+• GPS satellites are placed at Lower Earth Orbit (20000KM)
+• GPS requires at least 4 satellites for accurate information
+25-May-26
+44
+GPS Satellite Constellation System
+25-May-26
+45
+25-May-26
+46
+Railwire Wi-Fi
+25-May-26
+47
+Railwire Wi-Fi At B & C Class Stn.
+INTERGRATED PASSENGER INFORMATION SYSTEM
+IPIS
+25-May-26
+48
+INTRGRATED PASSENGER INFORMATION SYSTEM
+(RDSO/SPN/TC-61/2015, Rev-2.0)
+25-May-26
+49
+25-May-26
+50
+INTRGRATED PASSENGER INFORMATION SYSTEM
+(RDSO/SPN/TC-61/2015, Rev-2.0)
+The system consists of units/subsystems:
+• Central Control Unit (CCU)
+• Main Data Communication Hub (MDCH) 16 ports
+• Platform Data Communication Hub (PDC)H 2+16 Ports
+• PC based Announcement System
+• Single Line Display
+• Multi-line Display Board (MLDB)
+• Integrated Display Board
+• Coach Guidance Display Board (CGDB)
+• LED/LCD Display
+25-May-26
+51
+INTRGRATED PASSENGER INFORMATION SYSTEM
+(RDSO/SPN/TC-61/2015, Rev-2.0)
+CCU Hardware Details
+1. Pentium IV processor
+2. 512 MB RAM
+3. Storage space: 80GB HDD
+4. Standard I/O Ports (Min. 4 USB)
+5. Windows- XP or higher version OS
+6. Ethernet Card
+7. Sound Card for Audio Input /Output
+8. 19’ Monitor
+INTRGRATED PASSENGER INFORMATION SYSTEM
+(RDSO/SPN/TC-61/2015, Rev-2.0)
+25-May-26
+52
+INTRGRATED PASSENGER INFORMATION SYSTEM
+(RDSO/SPN/TC-61/2015, Rev-2.0)
+The system consists of units/subsystems:
+• Central Control Unit (CCU)
+• Main Data Communication Hub (MDCH) 16 ports
+• Platform Data Communication Hub (PDC)H 2+16 Ports
+• PC based Announcement System
+• Platform Display Board (PDB)-
+• Multi-line Display Board (MLDB)
+• At-a-glance display Board (AGDB)
+• Coach Guidance Display Board (CGDB)
+• LED/LCD Display (CCTV)
+25-May-26
+53
+INTRGRATED PASSENGER INFORMATION SYSTEM
+(RDSO/SPN/TC-61/2015, Rev-3.0)
+S1 S2 S3 S4
+S1 S2 S3 S4
+25-May-26
+54
+INTRGRATED PASSENGER INFORMATION SYSTEM
+(RDSO/SPN/TC-61/2015, Rev-3.0)
+The system consists of units/subsystems:
+• Central Control Unit (CCU)
+• Main Data Communication Hub (MDCH) 16 ports
+• Platform Data Communication Hub (PDC)H 2+16 Ports
+• PC based Announcement System
+• Platform Display Board (PDB)-
+• Multi-line Display Board (MLDB)
+• At-a-glance display Board (AGDB)
+• Coach Guidance Display Board (CGDB)
+• LED/LCD Display (CCTV)
+25-May-26
+55
+INTRGRATED PASSENGER INFORMATION SYSTEM
+(RDSO/SPN/TC-61/2015, Rev-4.0)
+25-May-26
+56
+25
+-May
+-26
+57
+25-May-26
+58
+IPIS Schematic
+INTRGRATED PASSENGER INFORMATION SYSTEM
+(RDSO/SPN/TC-61/2015, Rev-4.0)
+The system consists of units/subsystems:
+• Central Data Controller (CDC)
+• Central Data Switch (CDS)
+• Platform Data Controller (PDC)
+• PC based Announcement System
+• Platform Display Board (PDB)
+• Multi-line Display Board (MLDB)
+• At-a-glance display Board (AGDB)
+• Coach Guidance Display Board (CGDB)
+• LED/LCD Display (CCTV)
+25-May-26
+59
+• Both CPU of CDC shall be synchronised through LAN link
+• System shall be able to update train information from NTES /COIS network
+• CDS shall be 8/12 port layer 3 switch
+• Communication between CDS to PDC and MLDB shall be on Ethernet using CAT-6/ OFC
+• PDC shall have 2 optical interface for connecting CDS and at least 8 ethernet ports for
+connecting displays.
+• It also eight RS-485 ports for CGDB, each port shall drive minimum 6 CGDBs
+• PDC shall be equipped with Zig-Bee module for wireless connectivity of displays
+• PDC shall have 32 bit Microcontroller
+• All ports of PDC shall have LED indications showing status of connected devices
+• Environmental Protection: Equipment must be IP54 compliant to protect against dust
+and rain.
+Features of IPIS ver.4
+25-May-26
+60
+25
+-May
+-26
+61
+Platform Data Controller
+25-May-26
+62
+Main Data Entry Screen
+25
+-May
+-26
+63
+Main Data Entry Screen
+25
+-May
+-26
+64
+Train Master Data Base
+25-May-26
+65
+Train Display Caption
+25-May-26
+66
+Functional requirements of IPIS ver.4
+❖ Hardware and software of IPIS of the different vendors shall be interoperable
+❖ Multiline display board shall be of 2 lines or more and maximum up to 10 lines
+❖ Data transfer from CDC to all type of display boards excepts CGDB should be on
+Ethernet using standard TCP/IP protocol or on wireless
+❖ PDC to CGDB it should be either on wired serial interface (RS-485) or on wireless
+❖ The Platform Display board (PFD) shall display the information of a train
+scheduled for arrival/departure on that platform. If the platform display board is
+common between two platforms, it can be used to display the train information of
+trains scheduled on both the platforms alternatively.
+❖ All display boards shall be constructed using 16X48 LED matrix PCB modules
+❖ For English and Numeric, the character size shall be 16X10 & for Hindi or
+Regional Language up to 16X14 LED
+25-May-26
+67
+Functional requirements of IPIS ver.4
+❖ Wiring between different modules should be done with the help of
+male/female type of connectors
+❖ Class-D surge protection device shall be provided in CGDB and serial port of
+PDC for protection of data line against surge.
+❖ Coach Guidance Display (CGD) Board shall indicate the Coach No./Train
+No.
+❖ For installation of coach guidance display board on uncovered portion of the
+platform shall be provided using GI pipe of minimum 3-inch dia shall be used
+❖ Cool White color Chip Type SMD LEDs of uniform intensity shall be used
+such that it shall be possible to read the information clearly from a minimum
+distance of 50 meters
+❖ History of events or log of information transferred to various display boards
+shall be available for 45 days for analysis
+25-May-26
+68
+Display format of Single/multiline display board (16 x 336)
+25-May-26
+69
+CDC CPU Configuration
+1. i5 Processor or equivalent or higher processor
+2. Min. 4 GB or higher RAM
+3. Storage space: Solid State Disk Min. 500 GB or higher
+4. Standard I/O Ports (Min. 4 USB)
+5. Windows- 7 or higher version OS
+6. Gigabit Ethernet Port- 10/100/1000 Mbps
+7. Audio Input /Output ports
+8. Keyboard & Optical Mouse
+9. Schema based DBMS like MySQL/SQL server 2000,
+10. 2GB Graphic Card (If not inbuilt in CPU)
+11. Two video inputs for TV display and local monitor
+25-May-26
+70
+C D C Features
+The C D C shall fulfil the following data communication
+functions.
+i. Data send to TADDB & CGDB
+ii. Get Link Status of PDC,TADDB & CGDB
+iii. Set and get the configuration of PDC, TADDB & CGDB
+iv. Soft Reset of PDC, TADDB & CGDB
+v. Clear Reset Status of PDC, TADDB & CGDB
+25-May-26
+71
+PDC Features
+The PDC shall fulfill the following data communication functions:
+1. Validate packets.
+2. Send packets to the respective port.
+3. Send response for packets addressed to it.
+4. Report error to PDC in case of any failure.
+5. Maintain the communication link status of all the systems connected.
+6. Send Link status to PDC on request.
+7. It shall poll CGDBs at regular intervals for its status.
+8. It shall identify start/stop command packet and act on all the CGDBs.
+9. It shall receive port configuration table from PDC and store in non-volatile
+memory.
+Technical & Hardware Requirements
+• LED Specifications: Uses High-performance Cool White SMD LEDs. Amber is optional
+for some boards but white is mandatory for CGDBs. LEDs must be readable from at
+least 50 meters.
+• Microcontrollers: Display controllers must be based on a minimum 32-bit
+microcontroller.
+• Connectivity:
+• CDC to PDC: Ethernet using CAT-6 or Fiber Optic cable (standard TCP/IP).
+• PDC to CGDB: Wired (RS-485) or wireless (Zig-Bee 2.4 GHz).
+• Environmental Protection: Equipment must be IP54 compliant to protect against dust
+and rain. Boards must use 3mm U.V. stabilized polycarbonate sheets for protection.
+RDSO/SPN/TC-61/2015, Rev-4.0 Key Items
+25-May-26
+72
+Functional & Software Features
+• Interoperability: The system is designed so that hardware and software from
+different vendors can work together using standard data protocols.
+• Automation: System must be able to acquire updated train data automatically
+from NTES/COIS or central servers.
+• Multilingual Support: Information must be displayed in English, Hindi, and the
+local Regional language.
+• Intensity Control: Software-based brightness adjustment (25%, 50%, 75%,
+100%) to suit day/night conditions.
+RDSO/SPN/TC-61/2015, Rev-4.0 Key Items
+25-May-26
+73
+ProcurementDetails
+25-May-26
+74
+SN Description of the Item Quantity
+1. Central Data Controller consisting of CPU with other accessories. One Set
+2. Announcement recordings in digital format as per details given by
+Railways One set
+3. Type of data connectivity between PDC & Display Boards. wired or wireless
+4. Requirement of rain hood/sun guard for display boards to be provided
+in open area. Nos.
+5. Software for announcement system, various types of display boards
+information management & LED/LCD PIS management
+One set with system and one set of soft
+copy in CD for each station.
+6. Central Data Switch One No.
+7. Platform Data Controller As specified by purchaser
+8.
+Color of LEDs: White or Amber for display boards other than
+CGDB.Note:i. Colour of CGDB should be only White.ii. Unless
+otherwise specified by purchaser the colour should be white.
+White /Amber
+ProcurementDetails
+25-May-26
+75
+SN Description of the Item Quantity
+9. Multiline Display Boards of required lines (Single or Double sided
+and number of lines) As specified by purchaser
+10. Platform Display Board: (16x336) Single or double sided As specified by purchaser
+11. At A Glance Display Board: (32x192) Single or double sided As specified by purchaser
+12. Coach Guidance Display Boards As specified by purchaser
+13. LED/LCD TV As specified by purchaser
+15. Data Cable (in meters)(UTP CAT6 or higher grade) As specified by purchaser
+16. Power Cable and extension boards As specified by purchaser
+17. Any other items or features required by the purchaser As specified by purchaser
+IP BASED IPIS SYSTEM
+RDSO/SPN/TC/108/2019 V er. 1.0 (w.e.f. 05.03.24)
+25-May-26
+76
+RDSO/SPN/TC/108/2019 V er. 1.0 Key Points
+System Architecture & Networking
+❖ Core Infrastructure: The system is built on a standard IPv4 Ethernet
+network using OFC or CAT-6 cables.
+❖ Central Data Controller (CDC): Features two industrial-grade CPUs in
+redundant mode for continuous data synchronization. Minimum
+hardware: i5 processor, 4 GB RAM, and 500 GB SSD.
+❖ Platform Data Controller (PDC): Acts as a gateway for each platform. It
+routes data from the CDC to display boards (TADDB/CGDB) and monitors
+device health.
+❖ Connectivity: Uses Layer 3 Central Data Switches (CDS). Communication
+relies on TCP/IP (Port 25000) for point-to-point data and UDP (Port
+25-May-26 26000) for broadcast commands like "Start" or "Stop." 77
+RDSO/SPN/TC/108/2019 V er. 1.0 Key Points
+Display Board Categories
+• True Colour Video Displays (OVD & IVD): Outdoor and indoor video walls used
+for train information, commercial advertisements, and promotional videos.
+Supports 6, 12, or 18 lines.
+•Monochrome Multiline Display (MLDB): Placed at station entrances to show
+multiple trains (max 10 lines).
+•Platform Display Board (PFD): Shows information for a single train specific to
+that platform.
+•At-A-Glance Board (AGDB): Alternates between train information and full coach
+composition.
+•Coach Guidance Display (CGDB): Double-faced boards showing Coach No. and
+Train No. alternatively to guide passengers on the platform. 25-May-26 78
+Functional & Operational Features
+Integration:
+• NTES: Automatically acquires real-time train running data via REST API.
+• CAP: Integration with Common Alerting Protocol to automatically display disaster
+alerts
+• Interoperability: Hardware and software from different vendors must be
+interoperable.
+• Multilingual Support: Displays information in different Languages.
+Hardware & Technical Specifications
+• LED Quality: Cool White SMD LEDs for mono-colour boards; 3-in-1 RGB SMD LEDs for
+true color boards. LEDs must provide uniform intensity and flicker-free display.
+• Environmental Protection: Outdoor video boards are IP 65 (front) and IP 54 (back)
+compliant. All boards use 3mm U.V. stabilized polycarbonate sheets for protection.
+• Microcontrollers: Platform controllers must be based on a minimum 32-bit
+microcontroller.
+25-May-26
+79
+Software & Maintenance
+❖ Remote Monitoring (RMS): A web-based application allowing administrators to
+monitor system events, generate reports, and check link status from any PC on
+the LAN.
+❖ Data Logging: The CDC maintains event logs for 45 days, while the RMS server
+stores them for at least 90 days.
+❖ Self-Diagnostics: The system features watchdog timers for automatic recovery
+and real-time health monitoring of all connected display units.
+❖ Surge Protection: Includes Class C surge protection at the power input to guard
+against transient voltages.
+❖ Earthing: Mandatory earthing for all boards and the CDC, with a total resistance
+not exceeding 2 Ω.
+25-May-26
+80
+SYSTEM ARCHITECTURE
+25-May-26 81
+Hardware Requirements
+▪ CDC loaded with software for announcement & display
+▪ Central Data Switch (CDS)
+▪ Platform Data Controller (PDC)
+▪ Multiline Display Board (MLDB)
+ i. Mono colour MLDB
+ ii. True colour MLDB Indoor video display & Outdoor video display
+▪ Platform Display Board (PDB)
+▪ Coach Guidance Display Board (CGDB)
+▪ At-a-glance display Board (AGDB)
+▪ Display Monitor/ LED TV (industrial grade)
+▪ Remote monitoring Server (RMS)
+25-May-26 82
+SYSTEM REQUIRMENT
+Central Data Controller: Have two PCs in redundant mode connected
+through CDS. With CPU of minimum configuration
+1. i5 Processor or equivalent or higher processor
+2. Min. 4 GB or higher RAM
+3. Storage space: Solid State Disk Min. 500 GB or higher
+4. Standard I/O Ports (Min. 4 USB)
+5. Windows- 10 or higher version OS
+6. Gigabit Ethernet Port- 10/100/1000 Mbps
+7. Audio Input /Output ports
+8. Keyboard & Optical Mouse
+9. Schema based DBMS like MySQL/SQL server 2000, MS Access, Oracle or
+10. schemeless like MongoDB, Tableau or any other type of file handling like XML file, JSON
+file or similar.
+11. 2GB Graphic Card (If not inbuilt in CPU) 25-May-26 83
+SYSTEM REQUIRMENT
+Integration with CAP (Common Alerting Protocol )
+❑ System shall be able to get early warning information from National/
+State Disaster Management authorities through Common Alerting
+Protocol (CAP) based Integrated Alert System during emergencies
+❑ IPIS software shall be able to automatically announce the alert
+messages through PA and related messages to displays
+❑ Operators shall be notified about the new alerts at the arrival of the same
+through pop-up window in the IPIS software which shall contain the alert
+message, start time, end time, audio availability, urgency, severity and
+certainty as received through the CAP API.
+❑ In case of disaster situations, IPIS software shall be able to automatically
+announce the alert message through the existing PA system periodically
+and also send the disaster related message on the display boards.
+SYSTEM REQUIRMENT
+25-May-26 84
+❑ In MLDB (Mono & True color) disaster message shall be displayed on
+the last line of display boards in a scrolling manner and when no alert
+is active/available, all lines should be used for displaying train
+information.
+❑ For other display board like PFD & AGDB disaster message shall be
+displayed alternately along with train information in a scrolling
+manner.
+❑ The display time of both the train information and the alert messages
+should be configurable and repetition interval of the announcements
+should also be configurable.
+❑ CAP Application Programming Interface (API) shall be provided by CDOT (Centre for Development of Telematics) of the Department of
+Telecommunications (DoT), Ministry of Communications. Any change in
+data protocol shall be updated time to time.
+25-May-26 85
+❑ A separate tab in the IPIS software shall be provided for displaying
+all the active alerts.
+❑ This tab shall contain two buttons which can be used to
+override/pause message dissemination and audio dissemination of
+the selected alerts.
+25-May-26 86
+Integration with NTES:
+❑ System shall be fully equipped with suitable hardware & software to
+acquire updated data of running trains from NTES via NTES REST API
+951 & 952 using HTTPS protocol or any central server.
+❑ Backward Integration with NTES for PF Update: - System shall be able
+to send all changes in the Train Platform done by IPIS Software
+operator, from IPIS Software to NTES via NTES REST API 861.
+25-May-26 87
+❖ CDC is the main integrity of the IPIS.
+❖ All the database is saved within it.
+❖ All the communication is by the CDC.
+❖ It is to be loaded with all the software
+ and the services required.
+❖ There shall be continuous data sync.
+between two CPUs
+❖ The active workstation generates video
+ output for the display of multiline train
+ information on IVD/OVD/TV display.
+C D C RACK
+C D C Features
+25-May-26
+89
+C D C RACK specifications
+➢ Min. 1.2mm CRCA (Cold rolled closed annealed) sheet to be
+used to design CCU rack as per diagram in specification.
+➢ Only ivory/gray colour power coating to be used to protect from rust.
+➢ Good quality plugs and sockets to be used for power supply
+distribution.
+➢ Proper earthing of cabinet and devices to be provided.
+➢ Gland plates shall be provided on top panel of cabinet for cable
+entry.
+➢ Channel to be provided for routing of all cables.
+➢ All the doors shall be locked, only keyboard and mouse would be
+accessible.
+25-May-26
+90
+GENERAL REQUIREMENT
+Define both the CPUs as master and slave.
+Apart from CDC items, the cables required are-
+• Power Cord (comes along the devices)
+• 3 numbers of VGA or HDMI cable which ever is
+the provision in system.
+• 4 number of USB male to male cable.
+• 4 number of 3.5mm jack cable.
+• 2 Ethernet cable.
+• Power distribution board.
+25-May-26
+91
+C D C I N S T A L LA T I O N
+❖ Connect all the power devices like CPUs, monitor, speaker, mic &
+ CDS through UPS only.
+❖ Connect both the CPUs to the CDS via ethernet cable.
+❖ For monitor either VGA or HDMI, connect the cable between master
+CPU to KVM Master Input, slave CPU to KVM Slave Input and KVM
+Output to Monitor.
+❖ Connect keyboard to KVM output, and a USB cable from each CPU to
+KVM input.
+❖ Connect mouse to KVM output, and a USB cable from each CPU to
+KVM input.
+❖ Connect Mic to KVM output, and an ox cable from each CPUs to KVM
+input.
+25-May-26
+92
+CENTRAL DATA SWITCH (CDS)
+25-May-26 93
+• The Central Data Switch (CDS) is a Layer-3 Ethernet Switch
+means it shall be configured for various networks.
+• Provide Ethernet and optical connectivity for data communication
+between both CPUs of CDC, PDC and Display boards
+• Data communication between CDS to display boards shall be on
+Ethernet using STP CAT-6 cable or it should be on Optical Fiber
+cable
+• Minimum 4 X SFP (optical) ports & minimum 8 LAN (copper)
+ports Layer 3 switch
+• All the communication connectivity is through the CDS only
+• It is also used to integrate the IPIS system with Railway network/
+NTES port access/COIS/RMS server.
+25-May-26
+94
+Central Data Switch
+Before youstart configuringC D S
+• Write the number of platforms and the devices on each platform.
+• Write the number of devices to be connected on general IP series i.e., in 0
+series.
+• Number of MLDB, IVD, OVD, PFD, AGDB, CGDB, TV, VDC.
+• RMS IP shall be known of that station.
+• So, according to that number of VLANs to be created.
+• 1 or 2 port shall be reserved for management and its IP shall be known.
+25-May-26
+95
+PLATFORM DATA CONTROLLER (PDC)
+25-May-26 96
+1.The Platform Data Controller Shall act as a Gateway for all the platform
+devices.
+2.The PDC shall have Layer-2 switch compatibility features for routing
+packets between CDC and field devices like Platform display boards, At
+a Glance Display Board and Coach Guidance display boards.
+3.The PDC shall have minimum Six optical Ethernet ports with single
+mode optical interface and at least Four Copper Ethernet ports for
+connecting CDC through CDS and field Display Devices.
+4.The Platform Data Controller design should be based on minimum 32-bit
+microcontroller. The PDC shall route the data/ instructions coming from
+the CDC to the downstream display devices and health/ diagnostics
+information from the display devices to CDC
+Platform Data Controller (PDC)
+25-May-26 97
+• PDC Drives PFD, AGDB and CGDB.
+• The PDC unit receives data from CDC either via optical
+fiber port or copper Ethernet port
+• The PDC have six optical Ethernet ports with single mode
+optical interface and four Copper Ethernet ports.
+• All the ports have LED indications for monitoring the
+communication status of the connected devices.
+• PDC to be mounted in a 19” 4U rack preferably at the
+center of every platform
+PDC Functions
+25-May-26
+98
+25-May-26 99
+Platform Data Controller
+25-May-26 100
+Display Format for SLDB & MLDB
+25-May-26 101
+TRUE COLOUR DISPLAY BOARD
+(IVD&OVD)
+25-May-26 102
+GENERAL REQUIREMENT
+❖The LED video display board is made up of multiple LED modules
+and cabinets.
+❖Each module consist of LEDs and respective drivers.
+❖LED modules/cabinets are arranged vertically and horizontally to
+construct the actual display.
+❖These LED modules are interchangeable and can be used anywhere.
+❖LED Display module are manufactured using 16X48 LED matrix.
+❖Glass filled nylon /PC-ABS based LED trays are used to fix LED
+panels.
+❖Fans to be provided on each door for circulation of air inside the
+cabinets of the display board.
+❖ Air filters are also to be provided to avoid dust entry in to these
+cabinets.
+25-May-26
+103
+❖ Each cabinet to be equipped with water and dust proof connectors for data
+and power cables.
+❖ The door to be provided with gaskets to avoid water and dust entry into
+the cabinet.
+❖ Display Board cabinet shall be made up of minimum 1.2 mm thick
+CRCA sheet with powder coating.
+❖ To make a 6 line display three modules are required and the pixel
+resolution would be 432x128.
+❖ Each module would be of 144x128 pixel resolution.
+❖ OVD complies IP65 from front and IP54 from back to protect it against
+dust & rain.
+GENERALREQUIREMENT Contd.
+25-May-26 104
+25-May-26 105
+OVDModule Description
+General Requirements Indoor Video Display (IVD) Board:
+1. The pitch of Indoor video display boards shall be of 7.5mm± 0.5mm.
+Parameters of Indoor video display boards:
+SN Description 6 Line Display 12-line display 18 lines
+1. Pixel LED 3 in 1 RGB SMD LED
+2. Pixel Resolution 432x128 432x256 432x384
+3. No. of Lines 6 12 18
+4. Color Processing 12 bit per color or more
+5. Line Height 20 pixels
+6. Scan Rate 1:4
+IVDModule
+25-May-26 106
+25-May-26 107
+OVD Module Description
+General Requirements Outdoor Video Display (OVD) Board:
+1. The pitch of Outdoor video display boards shall be of 10 mm± 0.5 mm.
+2. Front side of LED Modules shall be protected from rain and dust with
+suitable protective material.
+3. The outdoor video display board shall be IP 65 front and IP 54 back for
+environmental standard compliant to protect it against dust &rain.
+SN Description 6 Line Display 12-line display 18 lines
+1. Pixel LED 3 in 1 RGB SMD LED
+2. Pixel Resolution 432x128 432x256 432x384
+3. No. of Lines 6 12 18
+4. Color Processing 12 bit per color or more
+5. Line Height 20 pixels
+6. Scan Rate 1:4
+Parameters of outdoor video display boards:
+OVD Module
+25-May-26 108
+25-May-26 109
+SCREEN
+25-May-26 110
+True Color Video Display Board (OVD & IVD)
+25-May-26 111
+25-May-26 112
+❑ RMS Server shall be provided at each station for remote
+monitoring.
+❑ CDC shall be connected to RMS & RMS can be connected to
+Railnet/ any other compatible network for remote monitoring.
+❑ Hardware and software of IPIS of the different vendors shall be
+ interoperable.
+❑ Addition of any new device of any approved vendors shall require
+configuration of IP in the network and the new device should run in
+the existing LAN network.
+❑ All the equipment of the system shall be connected on a single
+network at the station. This network will be connected through
+CDC.
+RMS Server
+25-May-26 113
+❑ RMS (Remote Monitoring software) should be a web-based application
+loaded in RMS Server. This shall allow the access to the applications from
+any of the standard PCs remotely connected in LAN, having standard
+browser tool only for monitoring and reporting purpose.
+❑ It should be possible to generate different reports in both servers (CDC &
+RMS) as per requirement for all operational & functional activities being
+done in the system like announcement, train send for coach display and
+trains send for TADDB.
+❑ Events & log of information transferred to various display boards shall be
+available in CDC for 45 calendar days, beyond 45 days data shall be
+automatically deleted. However
+RMS Server: (Contd.)
+25-May-26 114
+RMS IP Scheme
+25-May-26
+115
+DEVICE IP PLANNING
+25-May-26 116
+MONOCOLOURDISPLAYBOARD
+(MLDB)
+25-May-26 117
+OVERVIEW
+•LED Display module are manufactured using 16X48 LED matrix.
+•The pitch of mono colour LED matrix shall be 10±0.5 mm.
+•Display Board cabinet shall be made up of minimum 1.2 mm thick
+CRCA sheet with powder coating.
+•Information format of 16X336 should be as
+25-May-26
+118
+❖ MLDB can be from 2 lines to 10 lines.
+❖ Each line is a matrix of 16 X 336 i.e., 7 number of 16 X 48 cards are
+aligned in a row.
+❖ MLDB directly communicates with CDS.
+ A 3-line MLDB requires
+❖ A Control card,
+❖ 21 LED matrix card, ()
+❖ 3 SMPS (1 for each line),
+❖ A junction box card,
+❖ Under/over voltage cut-off,
+❖ Class C protection
+❖ Fuse, switch
+❖ Wire harness
+25-May-26 119
+25-May-26 120
+Mono color MLDB
+25-May-26 121
+PLATFORM DISPLAY BOARD
+(PFB)
+25-May-26 122
+OVERVIEW
+▪ PFD is a single line double face display board.
+▪ It is used to display train information for a particular PF
+▪ LED Display module are manufactured using 16X48 LED matrix.
+▪ The pitch of mono colour LED matrix shall be 10±0.5mm
+▪ Display Board cabinet shall be made up of minimum 1.2 mm
+thick CRCA sheet with powder coating.
+▪ The pixel resolution would be 16 X 336 for each line.
+▪ Information format remains the same as MLDB.
+▪ PFD can communicate directly with CDS or with PDC.
+25-May-26
+123
+25-May-26 124
+25-May-26 125
+AT A GLANCE DISPLAY BOARD
+(AGDB)
+25-May-26 126
+OVERVIEW
+• AGDB is a two-line display board.
+• It displays coaches as well as train information.
+• LED Display module are manufactured using 16 X 48 LED matrix.
+• The pitch of mono colour LED matrix shall be 10±0.5mm.
+• Display Board cabinet shall be made up of minimum 1.2 mm
+thick CRCA sheet with powder coating.
+• The pixel resolution would be 32 X 192 for each line.
+• AGDB can communicate directly with CDS or with PDC.
+25-May-26
+127
+25-May-26 128
+At-a Glance Board (AGDB)
+25-May-26 129
+COACH GUIDANCE DISPLAY
+BOARD (CGDB)
+25-May-26 130
+OVERVIEW
+• CGDB is a two-face display board.
+• It displays coach information.
+• CGDB is manufactured using 16 X 48 LED matrix.
+• The pitch of mono colour LED matrix shall be 10 ± 0.5 mm.
+• Display Board cabinet shall be made up of minimum 1.2mm thick
+CRCA Sheath with powder coating.
+• CGDB communicates through PDC via Junction Box.
+• CGDB would connect in daisy change with one another.
+25-May-26
+131
+25-May-26 132
+CGDB JB
+25-May-26 133
+CGDB DAISY CHAIN CONNECTION
+25-May-26 134
+Zigbee Network
+• Zigbee network is comprised of Coordinator(C),
+Router (R) & End Devices (E)
+• It is low power, low-cost M2M network
+• Supports up to 240 devices
+• Operates on 2.4 GHz frequency
+• Uses QSPK modulation
+• Bit rate – 250 Kbps
+• No. of Channels -16
+25-May-26 135
+Zigbee Wireless Network
+25-May-26 136
+1. Designed for low power consumption.
+2. Provides network security and application support services operating
+on the top of IEEE Standards
+3. Adequate security features.
+4. Low cost: Zigbee chips and modules are relatively inexpensive, which
+makes it a cost-effective solution for IoT applications.
+5. Mesh networking: Zigbee uses a mesh network topology, which allows
+for devices to communicate with each other without the need for a
+central hub or router.
+6. Reliability: Zigbee protocol is designed to be highly reliable, with
+robust mechanisms in place to ensure that data is delivered reliably
+even in adverse conditions.
+Advantages of Zigbee
+25-May-26 137
+TV DISPLAY
+25-May-26 138
+• TV Display is used to display multiple train information like
+Multiline Display Board.
+• Display monitors are used in the enquiry offices, waiting rooms or at
+any suitable Indoor application.
+• Only Smart Industrial Grade LED TV of minimum 40 inches (capable
+of working 24x7) to be used for Monitor Display Board.
+• All Monitor display Board are connected over LAN as per IP
+Scheme
+• There is provision to play media with or without audio on Monitor
+display Board.
+• Monitor Display Board automatically switches between active
+servers (Primary/Secondary).
+OVERVIEW
+25-May-26
+139
+TV Display
+25-May-26 140
+• In 1986, the Ministry of Railways established the “Centrefor
+Railway Information System”(CRIS).
+• CRIS is responsible for designing, developing and
+implementing all major computer systems for railways.
+• In 1990, CRIS introduced CONCERT (Country-wide
+Network for Enhanced Reservation and Ticketing) to
+facilitate reservation system.
+WEB BASED PIS
+25-May-26
+141
+1. Passenger reservation System solution
+2. Web Ticketing
+3. Unreserved Ticketing System for Railways
+4. Mobile Ticketing.
+5. Kiosk –based ticketing.
+6. Centralized Ticketing system
+7. Time Table and Scheduling System
+8. Traffic Management System
+9. Passenger Information display system
+10. Web based service: www.indianrail.gov.in
+WEB BASED PIS
+25-May-26
+142
+• Indian Railway’s web-site, www.indianrail.gov.in offers PRS
+enquiries on the internet Berth/Seat availability, Passenger
+Status, Fare, Train Schedule, etc.
+• NTES website and www.trainenquiry.com gives dynamic
+information about the running status of any train and its
+expected arrival/departure at any given station.
+WEB BASED PIS
+25-May-26
+143
+CHANGES IN REV 2.0, 3.0 AND 4.0 IN SPECIFICATION No. RDSO/SPN/TC/61
+Sl. No. REV 2.0 REV 3.0 REV 4.0
+1 2009 2012 2015
+2 Control Console Unit
+(CCU)
+Control Console Unit (CCU) Renamed as Central Data Controller (CDC)
+3
+Dual Monitors, mouse
+and keyboards for 2
+CCUs.
+One monitor, keyboard and
+mouse for 2 CCUs with KVM
+switch.
+One monitor, keyboard and mouse for 2 CCUs
+with KVM switch.
+4
+Main Data
+Communication Hub
+(MDCH)
+Any display boards can be
+connected to any hub MDCH/
+PDCH).
+Central Data Switch (CDS). It should be layer-3
+switch with at least two SFP ports.
+5
+Platform Data
+Communication Hub
+(PDCH)
+Platform Data Communication
+Hub (PDCH)
+Named as Platform Data Controller (PDC). It is a
+layer 2 switch with at least one SFP port.
+Comparative Study of IPIS Rev.2.0, 3.0 and 4.0
+25-May-26 144
+6
+a) Pentium with 2.0
+GHz or higher
+b) 512MB RAM.
+c) 80GB SATA HDD.
+d) Multi port serial
+card (At least 4 USB
+ports )
+e) Windows Xp or
+Windows 7 or higher
+a) i5 processor or higher
+b) 4GB DDR- 2 RAM.
+c) 250GB SATA HDD.
+d) Multi port serial card (At
+least 4 USB ports )
+e) Windows Xp or Windows
+7 or higher
+a) I5 processor or higher
+processor
+b) 8 GB RAM
+c) 500 GB SATA HDD or
+higher
+d) Standard I/O Ports (1
+Serial, 1 VGA and 4 USB)
+e) Windows 7 or higher
+version Operating System
+(OS)
+7 Red color LED is used White color LEDs are used. White color LEDs are used.
+8 Normal LEDs &
+components used.
+SMD LEDs & components are
+to be used.
+SMD LEDs & components are
+to be used.
+25-May-26 145
+9
+Only MLDB and PDB were
+multilingual
+MLDB, PDB and CGDB
+should be multilingual
+MLDB, PDB and CGDB should
+be multilingual
+10
+Device addresses to
+identify each display board
+and Multicast addresses to
+identify platforms
+Device addresses to identify
+each display board and
+Multicast addresses to
+identify platforms
+Display boards are assigned
+IP addresses
+11
+MDCH/PDCH should be of
+8-bit microcontrollers
+MDCH/PDCH should be of
+8-bit microcontrollers
+With Self diagnostic
+Display data controllers
+should be of 32-bit
+microcontrollers
+With Self diagnostic
+25-May-26 146
+Comparative Study of IPIS Rev.4.0 and 108 Version
+Sl. No. REV 4.0 Rev 108
+1 2015 2019
+2 RDSO/SPN/TC/61 . RDSO/SPN/TC/108/2019
+3
+Hardware Requirements
+a) CDC
+b) CDS
+c) PDC
+d) MLDB ( Mono, Multi Colour)
+e) PFD
+f) AGDB
+g) CGDB
+Additional Hardware
+a) CDC
+b) CDS
+c) PDC
+d) MLDB ( Mono, Multi Colour)
+e) PFD
+f) AGDB
+g) CGDB
+h) True colour IVD and OVD
+i) RMS Server
+j) Smart TV
+4 No support of True Colour Specs support of True Colour Specs
+5 No support of OPEN STANADRD for
+Interoperability
+support of OPEN STANADRD for
+25-May-26 Interoperability 147
+6
+No centralised Monitoring and recording RMS Server for remote /centralised Monitoring and
+recording of 90 days events
+7
+a) i5 processor or equivalent or higher
+processor
+b) 8 GB RAM
+c) 500 GB or higher SATA HDD
+d) Standard I/O Ports (1 Serial, 1 VGA and 4
+USB)
+e) Windows 7 or higher version Operating
+System (OS)
+a) i5 processor or equivalent or higher processor
+b) 4 GB or Higher RAM
+c) Solid state Disk 500 GB or higher SATA HDD
+d) Standard I/O Ports (1 Serial, 1 VGA and 4 USB)
+e) Windows 10 or higher version Operating System
+(OS)
+f) MYSQL/SQL Server 2000 or Higher
+g) 2GB Graphic card
+8 RS232 and RS485 cables are Data cables No RS232 and RS484 cables, only UTP Cables with
+RJ45 interface
+25-May-26 148
+9 Media convertors and Lan
+Extenders are used
+No Media convertors and LAN extenders will
+be used. On board Ethernet and OFC interface
+with control cards
+10 CGDB connectivity limited to 6
+Boards per Port in CDS
+Only one port of CDC for all CGBD
+11 No IP address to all CGDB IP address to all CGDB
+12 No Automatic updation of PDB
+from NTES
+Automatic updation of PDB from NTES
+10 Delay in transmission due to
+RS232/RS484 transmission
+Very fast Transmission due to LAN cable
+11 No recording of data in CDC CDC and RMS both servers will store the data,
+CDC up to 45 days, RMS up to 90 days storage
+12 No OVD ( Outdoor video and
+Indoor Video Display Support)
+OVD ( Outdoor video and Indoor Video Display
+Support)
+25-May-26 149
+IPIS
+RDSO/SPN/TC/108/2019 Ver. 2.0 (w.e.f 08.04.26)
+25-May-26 150
+1. The IP Based Integrated Passenger Information System (IPIS) will consist of
+Firewall,
+2. Central Data Controller (CDC) loaded with software for announcement &
+display, Network Monitoring Software (NMS), PDC, LED display (TV),
+3. Advance Video Display (AVDB) and display boards of different sizes like
+Single Line, Multiline, At a glance, True color video display, Coach Guidance
+4. With facility of backward compatibility with all older versions of IPIS system
+installed as per previous version of specifications i.e.
+RDSO/SPN/TC/108/2019 and RDSO/SPN/TC/61.
+System Description
+25-May-26 151
+1. Central Data Controller
+2. Central Data Switch
+3. Platform Data Controller (PDC)
+4. Multiline Display Board (MLDB)
+i. Mono colour MLDB
+ii. True colour MLDB Indoor video display & Outdoor video display
+5. Platform Display Board (PDB)
+6. Coach Guidance Display Board (CGDB)
+7. At-a-glance display Board (AGDB)
+8. Display Monitor/ LED TV (industrial grade)
+9. Remote monitoring Server with NMS
+10. Firewall
+System Hardware Requirements
+25-May-26 152
+CDC CPU Configuration
+1. i7 14th generation Processor
+2. Min. 16 GB or higher DDR4 RAM
+3. Storage space: Solid State Disk Min. 1000 GB or higher
+4. Standard I/O Ports (Min. 4 USB 3.0)
+5. Windows- 11 or higher version OS
+6. Gigabit Ethernet Port- 10/100/1000 Mbps
+7. Audio Input /Output ports
+8. Keyboard & Optical Mouse
+9. Schema based DBMS like MySQL/SQL server 2000, MS Access,
+Oracle or
+10. schemeless like MongoDB, Tableau or any other type of file
+handling like XML file, JSON file or similar.
+11. 2GB Graphic Card (If not inbuilt in CPU)
+25-May-26
+153
+CDS Configuration
+1. The Central Data Switch (CDS) shall provide Ethernet and optical
+connectivity for data communication between both CPUs of CDC, PDC and
+Display boards.
+2. Minimum 4 X SFP+ (optical) ports & minimum 24 LAN (copper) ports Layer
+3 switch as per site requirement or as specified by Purchaser with MAC table
+32k, RAM – 2GB and
+3. Flash Memory – 2GB shall be used as Central Data Switch.
+4. Data communication between CDS to display boards shall be on Ethernet
+using STP CAT-6 cable or on Optical Fiber cable
+5. CDS shall be of industrial grade & reputed make like HP, CISCO, Juniper,
+Brocade, IBM, Alcatel, Lucent, WatchDog etc.
+25-May-26
+154
+1.The Platform Data Controller Shall act as a Gateway for all the platform
+devices.
+2.The PDC shall have Layer-3 switch compatibility features for routing
+packets between CDC and field devices like Platform display boards, At
+a Glance Display Board and Coach Guidance display boards. PDC shall
+join main VLAN of CDS and Platform VLAN
+3.The PDC shall have minimum Six optical Ethernet ports with single
+mode optical interface and at least 4 Copper Ethernet ports for
+connecting CDC through CDS and field Display Devices.
+4.The Platform Data Controller design should be based on minimum 32-bit
+microcontroller. The PDC shall route the data/ instructions coming from
+the CDC to the downstream display devices and health/ diagnostics
+information from the display devices to CDC
+Platform Data Controller (PDC)
+25-May-26 155
+5. CGDB shall be connected in Daisy Chain
+structure using junction Box, each junction box
+shall have one input and two output ports
+6. Platform Data Controller shall be installed on
+each platform to cater data connectivity
+requirement of all the display board Connected to
+It.
+7.All Optical ports of PDC shall be fully loaded
+standard SC or LC type connector. SCAPC or LCAPC connector may be used.
+Platform Data Controller (PDC)
+25-May-26 156
+General Requirement of True Color Display
+25-May-26 157
+1. The LED video display board shall be made up of multiple LED modules
+and cabinets. Each module shall consist of LEDs and respective drivers
+2. Video Display controller (VDC) shall drive the video display boards which
+shall take the inputs from CDC and control respective LED module
+3. Video Display Controller design shall be based on minimum 32-bit
+microcontroller or higher processor. With minimum 2GB of RAM and
+4GB of Flash to store the active schedule content
+4. Video display controller shall monitor, capture and maintain the
+configuration, health and diagnostics information of the connected
+Video Display Board.
+25-May-26 158
+True Color Display
+5. Audio output shall be available from display controller which
+may be connected to a suitable audio amplifier.
+25-May-26 159
+True Color Display
+NMS System Architecture
+25-May-26 160
+Integration with CAP (Common Alerting Protocol )
+❑ System shall be able to get early warning information from National/
+State Disaster Management authorities through Common Alerting
+Protocol (CAP) based Integrated Alert System during emergencies
+❑ IPIS software shall be able to automatically announce the alert
+messages through PA and related messages to displays
+❑ Operators shall be notified about the new alerts at the arrival of the same
+through pop-up window in the IPIS software which shall contain the alert
+message, start time, end time, audio availability, urgency, severity and
+certainty as received through the CAP API.
+❑ In case of disaster situations, IPIS software shall be able to automatically
+announce the alert message through the existing PA system periodically
+and also send the disaster related message on the display boards.
+SYSTEM REQUIRMENT
+25-May-26 161
+❑ In MLDB (Mono & True color) disaster message shall be displayed on
+the last line of display boards in a scrolling manner and when no alert
+is active/available, all lines should be used for displaying train
+information.
+❑ For other display board like PFD & AGDB disaster message shall be
+displayed alternately along with train information in a scrolling
+manner.
+❑ The display time of both the train information and the alert messages
+should be configurable and repetition interval of the announcements
+should also be configurable.
+❑ CAP Application Programming Interface (API) shall be provided by CDOT (Centre for Development of Telematics) of the Department of
+Telecommunications (DoT), Ministry of Communications. Any change in
+data protocol shall be updated time to time.
+25-May-26 162
+❑ A separate tab in the IPIS software shall be provided for displaying
+all the active alerts.
+❑ This tab shall contain two buttons which can be used to
+override/pause message dissemination and audio dissemination of
+the selected alerts.
+25-May-26 163
+Integration with NTES:
+❑ System shall be fully equipped with suitable hardware & software to
+acquire updated data of running trains from NTES via NTES REST API
+951 & 952 using HTTPS protocol or any central server.
+❑ Backward Integration with NTES for PF Update: - System shall be able
+to send all changes in the Train Platform done by IPIS Software
+operator, from IPIS Software to NTES via NTES REST API 861.
+25-May-26 164
+Core System Architecture
+• Central Data Controller (CDC): Operates in 1+1 redundant mode with two CPUs
+for high availability. Minimum hardware includes a 14th Gen i7 processor, 16 GB
+RAM, and 1 TB SSD.
+• Platform Data Controller (PDC): Acts as a gateway for platform devices. It
+periodically fetches data from the CDC API (every 5 seconds) and disseminates it
+to platform display boards.
+• Networking: Utilizes Layer 3 Central Data Switches (CDS) with SFP+ (optical) and
+LAN (copper) ports. Communication between the CDC and all display boards is
+purely API-based over Ethernet.
+RDSO/SPN/TC/108/2019 Ver. 2.0 Key Points
+25-May-26 165
+Display Board Varieties
+• Multiline Display Boards (MLDB):
+• Mono-color: Standard LED boards showing train details in a single color.
+• True-color (VDB & AVDB): Advanced video walls (up to 18 lines) capable of
+showing train info alongside commercial advertisements and promotional videos.
+• Platform Specific Boards: Includes Single-line Platform Display Boards (PFD) and
+At-A-Glance (AGDB) boards which show both train info and full coach composition.
+• Coach Guidance Display Boards (CGDB): Double-faced boards placed at specific
+platform locations to show coach numbers (e.g., A1, B1).
+• Industrial LED TVs: Smart TVs used for indoor passenger information in waiting
+rooms or enquiry offices.
+RDSO/SPN/TC/108/2019 Ver. 2.0 Key Points
+25-May-26 166
+Functional & Operational Features
+• NTES & CAP Integration:
+• NTES: Fetches real-time train data (per 1 minute) and can update platform
+changes back to the central system.
+• Common Alerting Protocol (CAP): Automatically announces and displays disaster
+alerts (floods, cyclones, etc.) during emergencies.
+• Interoperability: Designed as Plug-and-Play (PnP); hardware of RDSO-approved
+vendors must be compatible with each other’s software via standard REST APIs.
+• Backward Compatibility: The latest software must generate text files to support
+older IPIS versions
+25-May-26 167
+Advanced Monitoring & Maintenance (NMS)
+• Two-Level Management:
+• Edge NMS: Station-level monitoring for all local devices.
+• Centralized NMS: Divisional-level monitoring to oversee all stations regardless of the
+vendor.
+• Self-Diagnostics: Shall carries out daily LED short/open detection tests (typically
+between 1:00 – 3:00 AM).
+Hardware Specifications & Power
+• LED Quality: Cool White SMD LEDs for mono boards; 3-in-1 RGB SMD LEDs for video
+walls.
+• Environmental Protection: All outdoor boards must be IP54/IP65 compliant and
+protected with 3mm U.V. stabilized polycarbonate sheets with matte/antiglare finishes.
+• Security: Includes a hardware Firewall with 18 Gbps throughput and local storage for
+logging and threat protection.
+25-May-26 168
+Central NMS Hardware Configuration
+1. 10 Core or higher Processor
+2. 128 GB or higher RAM
+3. Storage space: Solid State Disk Min. 2 TB or higher
+4. Standard I/O Ports (Min. 4 USB 3.0)
+5. Open-Source OS
+6. 4x Gigabit Ethernet NICs
+7. Enhanced Cooling for optimal operating temperature
+8. Rack Mountable
+9. Security- Hardware level Encryption, secure Boot
+25-May-26 169
+NMS Application Functional Requirement
+1. Automatic detection and registration of all networked devices
+2. Maintain an updated asset/inventory including Make, Model, data of
+Installation, device type, firmware version, physical location (Platform
+Number),Lat./Long. which shall be mapped to unique asset ID
+3. Render a real-time network topology map showing all Divisional HQ
+Station connections, switch interlinks, and device status (color-coded).
+4. Generate periodic reports on network performance, device health, and alarm
+statistics.
+5. Integration with Telecom Maintenance Management Systems (TMMS)
+6. Role-based access control for different user levels (administrator, operator,
+maintenance)
+25-May-26 170
+Edge NMS Hardware Configuration
+1. Intel Core i5 Processor
+2. Min. 8 GB or higher DDR4 RAM
+3. Storage space: Solid State Disk Min. 500 GB or higher
+4. Standard I/O Ports (Min. 4 USB 3.0)
+5. Open-Source OS
+6. 2x Gigabit Ethernet NICs
+7. Fan less Cooling
+25-May-26 171
+Edge NMS General Requirement
+1. system shall have two level of Network management. One at station
+level, namely Edge NMS, to monitor system components installed at the
+station. Second at Divisional level, namely Central NMS, for monitoring
+IPIS devices and systems
+2. The Local Edge NMS shall monitor IPIS system, displays and devices of
+the station. It will send all the events and device information to
+Centralized IPIS NMS Storage space: Solid State Disk Min. 500 GB or
+higher
+3. The IPIS system and equipment shall send event in case of failure,
+startup, information and periodic status to Local Edge NMS over SNMP.
+25-May-26 172
+S. No. Device IP Address Gateway Subnet
+1. CDS 10.0.0.1
+10.0.0.1 255.255.255.0
+2. Edge NMS 10.0.0.252
+3. Primary Server 10.0.0.253
+4. Sec Server 10.0.0.254
+5. PDC (Uplink VLAN) 10.0.0.2 to 30
+6. VDC 10.0.0.31 to 80
+7. AVDB 10.0.0.81 to 100
+8. MLDB 10.0.0.101 to 130
+9. AGDB 10.0.0.131 to 160
+10. PFDB 10.0.0.161 to 190
+11. TVD 10.0.0.191 to 230
+12. NW Switch 10.0.0.231 to 250
+Main Network IP Scheme
+25-May-26
+173
+S. No. Device IP Address Gateway Subnet
+1. PDC (Dn link VLAN) 10.0.PF.1
+10.0.PF.1 255.255.255.0
+2. CGDB 10.0.PF.2 to 30
+3. IVD 10.0.PF.31 to 80
+4. AVD 10.0.PF.81 to 100
+5. MLDB 10.0.PF.101 to 130
+6. AGDB 10.0.PF.131 to 160
+7. PFDB 10.0.PF.161 to 190
+8. TVD 10.0.PF.191 to 230
+9. NW Switch 10.0.PF.231 to 250
+Platform Network- VLAN
+25-May-26
+174
+Rake Reversal Display
+25-May-26 176
+Video Surveillance System In Indian Railways
+TA 7
+C P Chaudhary (ICT-1)
+Instructor (Tele)
+IRISET
+25-May-26
+178
+What is surveillance System ?
+❑ A surveillance system is an integrated network of equipment and
+technologies designed to observe, monitor, and record activities,
+behaviours, or information within a designated area
+❑ Cameras: The "eyes" of the system
+❑ Recorders: Devices like DVR or NVR that securely store the captured
+footage
+❑ Monitors: Display screens that allow security operators or
+administrators to view live or historical video feeds
+❑ Software & Analytics: The "brain" of the system. Advanced software
+utilizes artificial intelligence (AI) for facial recognition, motion
+detection, and behavioural analysis to spot anomalies automatically
+25-May-26
+179
+Video
+Surveillance
+Analog
+Digital
+25-May-26
+180
+25-May-26
+181
+A movie camera or a video camera operates similarly to a still
+camera, except it records a series of static images in rapid
+succession, commonly at a rate of 24 frames per second.
+When the images are combined and displayed in order, the
+illusion of motion is achieved
+Video Camera
+Components of Analog VSS
+Camera Capture low resolution images, uses co-axial cable for
+connection with DVR
+Digital Video
+Recorder
+Connect analog cameras and stores video of low
+resolution
+Storage Hard disk Shall work 24X7 with high read & write capabilities
+Monitor With good resolution and better refresh rate and
+suitable size
+Coaxial Cable Connects camera with DVR
+Power Supply Multiple output power supplies of 12 volt
+25-May-26
+182
+Analogue surveillance System Architecture
+25-May-26
+183
+❑ Analogue based Surveillance system consists of fixed analogue
+cameras, PTZ cameras, DVR, Keyboard, Monitor, video and power
+cables, etc.
+❑ An Analog camera is a video camera that sends signal via Coaxial
+cables to DVR
+❑ Fixed cameras are provided at waiting hall, reservation /ticket
+counters, parking areas, main entrance/exits, platforms, and other
+important locations.
+❑ PTZ cameras are providing at Circulating area, Parking area, near
+ticket counters, FOBs, platforms ends.
+Analog surveillance System Features
+25-May-26
+184
+Analogue Camera Features
+• Sends video over Co-axial cables to DVR.
+• Low video quality.
+• Poor Zoom-in quality
+• Lower resolution (640X480 pixels or 0.3 Megapixels)
+• Work up to 1.5 km on coaxial cable.
+• No remote management.
+• Camera require separate power source.
+• Vulnerable to security breach.
+25-May-26
+185
+Digital Video Recorder
+❑ A DVR records video contents in digital format and stores on storage
+device
+❑ Offers recording, playback, and storage management features.
+❑ Video data is compressed using encoding while retaining quality.
+❑ Playback retrieve data from storage and decoded back to viewable
+format.
+❑ Supports remote monitoring.
+❑ Provide video multiple compression technologies. (JPEG,MPEG-4 &
+H.265)
+❑ Remote monitoring of cameras using internet on compatible devices.
+❑ Password protection protect unauthorised access.
+25-May-26
+186
+DVR Recording Benefits
+• Remote access to camera footage
+• Real time feed monitoring
+• Digital storage of footage
+• Easy storage and faster video search
+• Video compression saves storage
+• Various compression technologies
+• Secured Access
+• Vulnerable to security breach.
+25-May-26
+187
+Analogue Camera Types
+BULLET CAMERA
+PTZ CAMERA
+DOME CAMERA
+BOX CAMERA
+IR CAMERA
+25-May-26
+188
+Camera Construction
+25-May-26
+189
+❑ Image details of a camera depends on Television Line(TVL).
+❑ These active horizontal lines create image with even
+numbered and odd numbered lines .
+❑ These lines determines resolution of camera (380 TVL)
+❑ Higher the TVL higher will be camera resolution
+Analog Camera Working Principle
+25-May-26
+190
+Analog Camera Working Principle
+25-May-26
+191
+Camera Core Technical Specifications
+Resolution Ranging from 2MP (1080p) to 4K (8MP or higher) for clear identification
+Imaging Sensor Progressive Scan CMOS is standard for sharp motion video
+Lens/Field of
+View
+Fixed (2.8mm/4mm) for wide angles, or Varifocal for adjustable zoom.
+Night Vision Infrared (IR) distance, typically ranging from 20m up to 120m in higherend models.
+Compression H.265+ or H.265 for efficient video storage without losing quality
+Dynamic Range Wide Dynamic Range, minimum 100dB, to handle high-contrast lighting
+Motion Clarity Fast Shutter (1/250 to 1/1000s): "Freezes" fast-moving subjects. This is
+essential for License Plate Recognition (LPR) or high-speed activities
+Slow Shutter (1/30s or slower): Allows more light in but causes motion blur. If an
+intruder runs past a camera at 1/30s, their face may be too smeared to
+25-May-26 identify. 192
+❑ Camera is an optical instrument which captures still or moving images.
+❑ Functioning of Camera is similar to Human Eye.
+❑ captured Images can be stored on Digital storage or on a Photographic
+film
+❑ It captures Photons from visible spectrum of Electromagnetic
+Spectrum.
+❑ A shutter mechanism controls the time duration of light entering the
+Camera.
+❑ Video Camera records images in rapid succession (min. 24 images/sec.)
+❑ When images are combined and displayed in order motion is achieved.
+CAMERA WORKING PRINCIPLE
+25-May-26
+193
+CAMERA INTERNAL COMPONENTS
+
+❖ LENS
+❖ APERTURE (f/1.4, f/16)
+❖ SHUTTER (1/30s, 1/1000s)
+❖ IMAGING SENSOR (CCD)
+❖ IR ILLUMINATOR
+25-May-26
+194
+DIGITAL VIDEO RECORDER PORTS
+25-May-26
+195
+Co-axial Cable Comparison
+25-May-26
+196
+History of CCTV over Indian Railway
+25-May-26
+197
+1. Early to Mid-2000s: Initial installations were isolated, covering only high-security or critical zones
+2. 2014: The Railway Board formally issued instructions to Zonal Railways to extend CCTV usage
+beyond security, utilizing camera networks to monitor cleanliness and passenger amenities
+at major stations.
+3. 2017–2020: The government launched a massive, structured rollout to install IP-based Video
+Surveillance Systems (VSS) across hundreds of stations. This focused on covering waiting
+halls, foot-over-bridges, and platforms, and included facial recognition and AI tracking to
+bolster security.
+4. 2023: Onboard surveillance became a major priority. By late 2023, the system had been
+expanded to cover nearly 12,000 train coaches, targeting crime-prone stretches and
+securing vestibules and entryways.
+5. Mid-2025: The Ministry of Railways approved a massive nationwide rollout to install CCTV
+systems across all 74,000 passenger coaches and 15,000 locomotives.
+25-May-26
+198
+6. Each coach is now equipped with four high-definition dome cameras monitoring
+common movement areas and entry/exit points, while locomotives utilize six
+cameras and desk-mounted microphones
+7. RDSO has revised the specifications and released specification on 20.05.2021
+RDSO/SPN/TC/65/2021 Version 6.0
+8. Clauses have been added to take care of items for the probable threat from land
+boundary countries, certification from STQC (Ministry of Electronics & Information
+Technology) or any other Government Agency from the list of CERT-In empaneled
+Information Security Auditing Organization.
+9. Artificial Intelligence (AI) enabled was added in the specifications. Software
+Development Kit (SDK) of all Hardware is to be shared. The rate of data transfer is
+being reduced from 8 to 3 mbps and 16 to 5 mbps for cameras.
+10. Specification RDSO/SPN/TC/65/2021 Version 6.0 have been taken as resources and
+guiding principle in implementation of the projects.
+History of CCTV over Indian Railway
+25-May-26
+199
+IP Based VSS
+▪ IP Based Video Surveillance System shall be provided at Main entry/exit,
+Platforms, Waiting hall, Reservation counter, Parking area, Railway yards,
+Foot over bridges etc.
+▪ The Video Surveillance System is based on nonproprietary open
+architecture (ONVIF - Open Network Video Interface Forum)
+▪ The Video Management Software, Video Recording Software, Video
+Analytics Software and Face Recognition Software can work and integrate
+with any make of IT hardware like Server, Storage, Workstation, Network
+Video Recorder and Switches, etc.
+IP based CCTV surveillance system
+RDSO/SPN/TC/65/2021 Version 6.0
+IP based system consists of fixed IP cameras, PTZ cameras,
+multichannel encoder/decoder, video management hardware &
+software, network Video recorder with software, Hard disk
+arrays for storage, Ethernet switches, media converter, video
+cable, power cable, twisted pair cable, optical fibre cable and
+CAT-6 cable.
+25-May-26
+200
+25-May-26
+201
+➢ Full HD and Ultra HD IP Cameras,
+➢ Digital Keyboard,
+➢ Large Format Display Monitor,
+➢ PC Workstation, Servers,
+➢ Network Video Recorders,
+➢ External Storage Device,
+➢ Ethernet Switches,
+➢ Wireless Transmitter/Receiver Unit,
+➢ Copper to Fiber Media Convertor,
+➢ Video Management Software,
+➢ Video Recording Software,
+➢ Graphical User Interface Client Software,
+➢ Artificial Intelligence (AI) enabled Video Analytics
+➢ Software and Face Recognition Software (FRS) etc.
+IP based CCTV surveillance system Requirements
+IP based surveillance system
+25-May-26
+202
+1. Remote accessibility
+Network cameras and video encoders can be configured and accessed
+remotely, enabling multiple, authorized users to view live and
+recorded video at any time and from virtually any networked location
+in the world.
+2. High image quality
+In a video surveillance application, with progressive scan and
+megapixel technologies, a network camera can deliver better image
+quality and higher resolution than an analog CCTV camera.
+Advantages of IP based Surveillance System
+25-May-26 203
+3. Event management and intelligent video
+Advanced network cameras and video encoders with built-in
+intelligence such as video motion detection, audio detection alarm,
+active tampering alarm, I/O (input/output) connections, and alarm
+and event management functionalities reduces the amount of
+uninteresting recordings and enabling programmed responses.
+4. Easy, future-proof integration
+Network video products can be easily integrated with computer and
+Ethernet-based information systems, audio or security systems and
+other digital devices, in addition to video management and application
+software.
+25-May-26 204
+5. Scalability and flexibility
+IP-based systems provide a means for many network cameras and
+video encoders, as well as other types of applications, to share the
+same wired or wireless network for communicating data.
+6. Cost-effectiveness
+IP-based networks and wireless options are also much less
+expensive alternatives than traditional coaxial and fiber cabling for
+an analog CCTV system. Power over Ethernet technology, which
+cannot be applied in an analog video system, can be used in a
+network video system.
+25-May-26 205
+25-May-26 206
+SYSTEM DESCRIPTION
+1. Video Surveillance System shall be suitable for provision at stations (25 KV AC
+Railway Electrified & Non-Railway Electrified Section) and other Railway
+establishments.
+2. Video Surveillance System shall be end to end IP based with IP Cameras as
+per site requirement.
+3. In IP based Video Surveillance System, the Cameras shall be provided at
+different locations so that the output is available as Ethernet and connected to
+the Servers/NVRs
+4. It shall be possible to integrate the surveillance system using the existing LAN/
+WAN infrastructure on Optical Fibre network of Railways.
+5. The system shall be able to work on both wired as well as wireless network.
+The wireless network is envisaged for extreme areas like, yards, foot over
+bridges and any other area in the station where cable is difficult to lay and
+maintain.
+25-May-26 207
+SYSTEM DESCRIPTION
+1. During failure of MPLS/IP network, the Camera shall automatically start
+recording on Edge Storage Memory Card
+2. Video Monitoring and Live Viewing: Continuous Video Monitoring/ Live Viewing
+is required for all the Cameras through PC Workstations and Large Format
+Display Monitors with Full HD and 4K UHD resolution
+3. Such Monitor shall display 16 Cameras on a single unit. For simultaneous
+viewing of more cameras, more monitors can be provided.
+4. The system shall have diagnostics facility for Video & Network interfaces.
+System logging shall be possible either through system software, remote client
+or console port on the system.
+5. The Recording shall be stored for at least 30 days at 25 FPS and Full HD
+resolution for Full HD Cameras and 25 FPS Ultra HD resolution for 4K UHD
+Cameras with H.265 or higher Video Compression.
+6. Full HD Fixed Box type IP Color Camera/ Full HD Bullet type IP Color Cameras
+shall be provided in parking area, entrance/exit points, platforms, yards etc.
+25-May-26 208
+SYSTEM DESCRIPTION
+7. Full HD Fixed Dome type IP color Cameras shall preferably be provided in
+indoor locations such as waiting halls, ticket counters, offices etc.
+8. Full HD P/T/Z (Pan/Tilt/Zoom) IP color Cameras shall preferably be provided in
+parking area, circulating area, platforms, foot over bridges etc.
+9. Typically, minimum two nos. of 4K UHD Fixed Box Cameras need to be
+provided on each platform with Face Recognition Software in addition to one
+such Camera each on entry and exit points to the station
+10. There shall be provision of Panic Button/Buttons at various locations at
+Stations. Pressing Panic Button, alarm shall be sent to the central location
+through available network. Panic Button System shall utilize same network
+system provided for CCTV system at Stations
+11. Approximate storage capacities per Camera with H.265 Video Compression
+and 25 FPS shall be as Days Full HD Camera 4K UHD Camera
+30 Days or more 750 GB after RAID 5/6 3TB after RAID 5/6
+25-May-26 209
+GENERAL SYSTEM REQUIRMENTS
+1. The Video Surveillance System shall be based on non-proprietary open architecture.
+2. Video Management Software, Video Recording Software, Video Analytics Software
+and Face Recognition Software can work and integrate with any make of IT
+hardware like Server, Storage, Workstation, Network Video Recorder and Switches.
+3. IP Cameras, Network Video Recorders and Software shall be compliant to global
+standards ONVIF Profile ‘S’ & ‘G’ for the interface of network video product. A
+certificate for the offered models should be available at the time of supply.
+4. IP Camera and Software may be from the same manufacturer or from different
+manufacturers. In case, IP Cameras and Software are from different OEM, then all
+features of Cameras shall be available through the Software for viewing, recording
+and analytics.
+5. Required licenses shall be provided by OEM/Vendor for Video Management, Video
+Recording, Video Analytics and Face Recognition Software as required by the
+purchaser as per site requirement.
+25-May-26 210
+GENERAL SYSTEM REQUIRMENTS
+5. The Video Recording and Management System shall provide secured recording
+for evidence purposes and user authentication to protect data integrity.
+6. Redundant Servers/NVRs may be provided if specified by the purchaser as per
+Schematic Diagram-1 and Schematic Diagram-2. The Redundancy System shall
+support defined number of Servers/NVRs in N:1 configuration so that the recording
+and playback availability is not affected in case of failure of any Server/NVR.
+7. The recording of last 30 days at any given point of time should be available
+through redundant Server/NVR in case of a Server/NVR failure.
+8. For data stored and computed at Cloud as per Schematic Diagram-3, the Cloud
+shall provide for protection of data and operation.
+9. The equipments shall be able to work in the temperature range and humidity as
+specified in the corresponding clauses of the specification or any other
+temperature requirement and humidity as per site requirement.
+Technical Requirements
+S. No. Components
+i. Full HD Fixed Box Type IP Colour Camera with Varifocal Lens and
+Housing &Mount as per Clause no. 5.1 & 5.3
+ii. 4K UHD Fixed Box Type IP Colour Camera with Varifocal Lens and
+Housing &Mount as per Clause no. 5.2 & 5.3
+iii. Full HD Bullet type IP Colour Camera as per Clause no. 5.4
+iv. 4K UHD Bullet type IP Colour Camera as per Clause no. 5.5
+v. Full HD Fixed Dome Type IP Colour Camera as per Clause no. 6.0.
+vi. Full HD P/T/Z (Pan/Tilt/Zoom) IP Colour Camera as per Clause no. 7.0.
+vii. Digital Keyboard as per Clause no. 8.0
+viii. Large Format Display Monitor as per Clause no. 9.0.
+ix. Server Hardware as per Clause no. 10.1
+x. Network Video Recorder (NVR) as per Clause no. 10.2
+25-May-26
+211
+Technical Requirements Contd..
+S. No. Components
+xi. PC Workstation as per Clause no. 11.0
+xii. External Storage Device as per Clause no. 12.0
+xiii. Core Switches as per Clause no. 13.0
+xiv.
+(I) Aggregation Switches
+(II) Layer 2 Switches (24Port) and
+(III) Field Switches (8 port) as per Clause no. 14.0
+xv. Video Management Software as per Clause no. 18.1
+xvi. Graphical User Interface Client Software as per Clause no. 18.2
+xvii. Video Recording Software as per Clause no. 18.3
+xviii. Video Analytics Software as per Clause no. 18.4
+xix. Remote viewing on Web and Mobile App as per Clause no. 18.5
+xx. Face Recognition Software as per Clause No. 19.0
+25-May-26 xxi. Software License as per Clause no. 20.0 212
+IP camera Specifications
+1. FHD Fixed Box IP colour Camera
+Parameter Specification
+Image Sensor 1/ 2.8” or larger, CMOS sensor
+Pixels 2.0 Mega Pixel Full HD (1920x1080)
+Video Compression H.265 or higher
+StreamingCapability Four H.265 or higher Streams
+Video resolutions 1920x1080 Configurable from FHD to HD/SD
+Resolution & FPS Full HD @ 25 FPS with H.265 or higher compression
+Shutter speed Maximum shutter speed should be 1/8000 sec or higher
+Signal to Noise Ratio ≥ 45 dB
+Video Standard PAL (Phase alternate lines)
+Lens mount CS/C mount or any other mount
+Varifocal Lens 8 to 50 mm IR corrected, 1 m min. object distance
+Data rate 3 to 8 Mbps for FHD @ 25 FPS
+25-May-Security Verification Certificate 26 STQC certification 213
+IP camera Specifications
+1. FHD Fixed Box IP colour Camera Contd..
+Parameter Specification
+Text
+Superimposing shall support superimposing the title and date & time on the video
+Edge Storage Edge Storage slot for 128 GB or higher along with memory card.
+Activity Controlled
+Video Recording
+During periods of negligible motion, the bits rate shall drop and
+when motion occurs, the bit rate shall return to normal without
+any delay.
+Network
+Connectivity Ethernet, 10/100 Base T
+Discovery
+Interface
+OEM interface to detect the Camera automatically and configure
+network settings
+Network Protocols Suitable and required network protocol stack to work Camera in
+TCP/IP based Ethernet network environment
+25-May-26
+214
+IP camera Specifications
+1. FHD Fixed Box IP colour Camera Contd..
+25-May-26
+215
+Web Server Internal Web server required with embedded OS
+WDR ≥ 90 dB
+Input Voltage Power should be drawn on PoE, 220V AC Voltage (Nominal) /
+24V AC or DC /12V DC
+PoE IEEE 802.3af/ at compliant
+Operating
+Temperature 0°C to + 50°C
+Humidity 20 to 80% RH non-condensing
+MAC Address The MAC address of the IP Cameras must be registered in
+the name of OEM supplying the Cameras.
+ONVIF Compliance
+ONVIF Profile ‘S’ & ‘G’ The quoted models should appear on
+the ONVIF website and a confirmation certificate for the
+offered models should be available at the time of supply
+Fixed Box IP colour Camera
+25-May-26
+216
+2. 4K UHD Fixed Box IP colour Camera
+Image Sensor 1/ 1.8” or larger, CMOS sensor or larger,
+Pixel Resolution 8.0 Mega Pixel Ultra HD (3840x2160) or Higher
+Video Compression MJPEG/H.265 or higher
+Streaming Capability Four H.265 or higher Streams
+Video resolutions Ultra HD (3840x2160).
+Resolution andFrame Rate Ultra HD (3840x2160) @ 25 FPS or more with H.265 or higher
+Shutter speed Maximum shutter speed should be 1/8000 sec or higher
+Signal to Noise Ratio ≥ 45 dB
+Video Standard PAL
+Varifocal Lens 4.5 to 10 mm, IR corrected, 1 m minimum object distance
+Day/Night Camera Auto Day/Night Configuration
+Data rate 5 Mbps bit rate or less for UHD@ 25FPS
+Video Streaming Unicast and Multicast streams
+Edge Storage Edge Storage slot suitable for 128 GB memory or higher
+Network Connectivity Ethernet, 10/100 Base T
+Security Verification Certificate STQC certification 25-May-26
+217
+4K UHD Fixed Box IP colour Camera
+25-May-26
+218
+3. FHD Bullet IP colour Camera contd..
+Image Sensor 1/2.8” or larger, Progressive scan, CMOS sensor
+Pixel Resolution 2.0 Mega Pixel Full HD (1920x1080)
+Video Compression H.265 or higher
+StreamingCapability H.265 or higher Streams
+Video resolutions 1920x1080 (Full HD) Configurable from Full HD to other HD/SD
+resolutions
+Resolution andFrame Rate Full HD @ 25 FPS with H.265 or higher
+Shutter speed Maximum shutter speed should be 1/8000 sec or higher
+Signal to NoiseRatio ≥ 45 dB
+Video Standard PAL
+Motorized Varifocal Lens 4.5 mm 10 mm, 1 m minimum object distance,
+Infra-Red Built-in Infra-Red Illuminator with range 20 m or more
+Day/Night Camera Auto Day/Night Configuration
+Data rate 3 Mbps bit rate or less average for Full HD@ 25 FPS
+Video Streaming Unicast and Multicast streams
+Text Superimposing Camera shall support superimposing the title and
+Network Connectivity Ethernet, 10/100 Base T
+25-May-26
+219
+3. FHD Bullet IP colour Camera contd..
+25-May-26
+220
+Parameter Specification
+Security Verification
+Certificate STQC certification
+Image Sensor 1/2.8” or larger, Progressive scan, CMOS sensor
+Pixel Resolution 2.0 Mega Pixel Full HD (1920x1080)
+Video Compression H.265 or higher
+Dual Stream Dual H.265 or higher Streams
+Video resolutions
+a) For Main stream: i) 1920x1080 (FHD) ii)Configurable
+from FHD to other HD/SD resolution
+b) For Second Stream: Configuration from D1 to other HD/SD
+ resolutions.
+Resolution and
+Frame Rate
+Minimum 25 frames per second (FPS) for both the streams.
+Full HD@ 25 FPS with H.265 or higher compression on one
+stream & D1@ 25 FPS with H.265 or higher compression on
+another stream
+3. FHD Bullet IP colour Camera contd..
+25-May-26
+221
+Shutter speed Maximum shutter speed should be 1/8000 sec or higher
+Signal to Noise Ratio ≥ 45 dB
+Video Standard PAL
+Motorized Vari focal
+Lens
+4.5 mm – 10 mm, 1 m minimum object distance, IR corrected
+Lens suitable for 2 Mega Pixel FHD Camera
+Infra-Red Built-in Infra-Red Illuminator with range 20 m or more
+Day/Night Camera Auto Day/Night Configuration
+Data rate
+i) 8 Mbps maximum for H.265 or higher Compression.
+ii) Shall work on 3 Mbps bit rate or less average for Full
+HD@ 25 FPS at Variable bit rate (VBR) on individual
+(Single) stream with H.265 or higher Video Compression.
+Video Streaming Unicast and Multicast streams
+3. FHD Bullet IP colour Camera contd..
+25-May-26
+222
+Text Superimposing Camera shall support superimposing the title anddate & time
+on the video
+Edge Storage Edge Storage slot suitable for 128 GB SD/SDHC/SDXC
+memory or higher along with memory card.
+NetworkConnectivity Ethernet, 10/100 Base T
+Discovery Interface OEM interface to detect the Camera automatically and
+configure network settings
+Network Protocols
+Suitable and required network protocol stack to work Camera
+in TCP/IP based Ethernet network environment. (As required
+for system working)
+FHD Bullet IP colour Camera
+25-May-26
+223
+4. 4K UHD Bullet IP colour Camera
+Image Sensor 1/ 1.8” or larger, Progressive scan, CMOS sensor
+Pixel Resolution 8.0 Mega Pixel Ultra HD (3840x2160) or Higher
+Video Compression MJPEG/ H.265 or higher
+StreamingCapability Four H.265 or higher Streams
+Video resolutions Ultra HD (3840x2160).
+Resolution and Frame Rate UHD (3840x2160) @ 25 FPS or more with H.265 or higher
+Shutter speed Maximum shutter speed should be 1/8000 sec or higher
+Signal to Noise Ratio ≥ 45 dB
+Video Standard PAL
+Motorized Varifocal Lens 4.5 mm 10 mm, 1 m minimum object distance
+Infra-Red Built-in Infra-Red Illuminator with range 20 m or more
+Data rate 5 Mbps bit rate or less (average) for UHD@ 25FPS
+Video Streaming Unicast and Multicast streams
+Security Certificate STQC certification 25-May-26
+224
+4K UHD Bullet IP colour Camera
+25-May-26
+225
+5. FHD Dome IP colour Camera
+Image Sensor 1/2.8” or larger, Progressive scan, CMOS sensor
+Pixels 2.0 Mega Pixel Full HD (1920x1080)
+Video Compression H.265 or higher
+StreamingCapability Four (4) H.265 or higher Streams
+Video resolutions 1920x1080 (Full HD).
+Resolution and Frame Rate FHD @ 25 FPS with H.265 or higher compression
+Shutter speed Maximum shutter speed should be 1/8000 sec or higher
+Signal to Noise Ratio ≥ 45 dB
+Video Standard PAL
+Lens 3.8mm - 8mm, 1 m minimum object distance,
+Infra-Red Built-in Infra-Red Illuminator with range 20 m or more
+Data rate 3 Mbps bit rate or less average for Full HD@ 25 FPS
+Video Streaming Unicast and Multicast streams
+25Security Verification Certificate -May-26 STQC certification 226
+FHD Dome IP colour Camera
+25-May-26
+227
+6. FHD PTZ IP colour Camera
+25-May-26
+228
+Parameter Specifications
+Image Sensor 1/2.8” or larger, Progressive scan, CMOS sensor
+Pixels 2.0 Mega Pixel Full HD (1920x1080)
+Video Compression H.265 or higher
+Dual Stream Dual H.265 or higher Streams
+Video resolutions a) For Main stream: i)1920x1080 (Full HD)
+ ii)Configurable from FHD to low resolution
+b) For Second Stream: Configuration from D1 to HD/SD
+Resolution and
+Frame Rate
+Min/ 25 frames per second (FPS) for both the streams.
+FHD@ 25 FPS with H.265 or higher on one stream &
+SD @ 25 FPS with H.265 or higher on another stream.
+Shutter speed Maximum shutter speed should be 1/8000 sec or higher.
+S/N Ratio ≥ 45 dB
+Video Standard PAL
+Lens a) Optical zoom 30x or better for FHD PTZ Camera.
+b) Focal length of lens: Upper range shall be 125mm or higher.
+c) 1 m minimum object distance, IR corrected Lens
+6. FHD PTZ IP colour Camera contd..
+25-May-26
+229
+Parameter Specifications
+Digital zoom 12x or better
+Infra-Red Built-in Infra-Red Illuminator with range 125 m ormore
+Focus & Iris Automatic with manual override
+Pan/Tilt adjustment 360-degree continuous pan; 0-to-90-degree tilt
+Pan/Tilt speed 1deg/sec to 90 deg./sec
+Preset Titling The Camera shall allow the storage of up to 99 preset scenes with
+each preset programmable for 16-character titles
+Data rate
+i) 8 Mbps maximum for H.265 or higher Compression
+ii) Shall work on 3 Mbps bit rate or less average for Full HD@ 25
+FPS at Variable bit rate (VBR) on individual (Single) stream
+with H.265 or higher Video Compression
+Text
+Superimposing
+Camera shall support superimposing the title and date & time on
+the video
+6. FHD PTZ IP colour Camera contd..
+25-May-26
+230
+Parameter Specification
+Edge Storage Edge Storage slot suitable for 128 GB SD/SDHC/ SDXC memory
+or higher along with memory card.
+Activity
+ControlledVideo
+Recording
+During periods of negligible motion, the bits rate shall drop and
+when motion occurs, the bit rate shall return to normal without any
+perceptible delay.
+Network
+Connectivity Ethernet, 10/100 Base T
+Discovery Interface OEM interface to detect the Camera automatically and configure
+network settings
+Network Protocols Suitable and required network protocol stack to work Camera in
+TCP/IP based Ethernet network environment.
+Automatic Gain
+Control Required
+6. FHD PTZ IP colour Camera contd..
+25-May-26
+231
+Wide Dynamic Range ≥ 90 dB
+Alarm Inputs /outputs 1 input & 1 output
+Input Voltage Power should be drawn on PoE, 220V AC Voltage (Nominal) /
+24V AC or DC/ 12VDC
+PoE IEEE 802.3af/ at compliant
+OperatingTemperature 0°C to + 50°C
+Humidity 20 to 80% RH non-condensing
+EnclosureProtection Vandal Proof Impact Resistant Aluminum enclosure with IP66
+ONVIF Compliance ONVIF Profile ‘S’ & ‘G’. The quoted models should appear on
+the ONVIF website
+MAC Address The MAC address of the IP Cameras must be registered in the
+name of OEM supplying the Cameras.
+Regulatory Approvals/
+Certifications
+UL/EN/CE/IEC/BIS certification for Safety and CE/FCC
+Certifications for EMC & Immunity.
+FHD PTZ IP colour Camera
+25-May-26
+232
+PTZ DIGITAL KEYBOARD
+• Multiple purpose keyboard for controlling of PTZ cameras
+• This include an integral variable speed PTZ Joystick.
+• Connected PTZ camera can be selected through Keyboard.
+25-May-26
+233
+25-May-26
+234
+Server Hardware
+Parameter Specification Specification
+Server for Video Analytics or Server for Video Management and Recording of 32/64/28
+Cameras
+Video Analytics Server: one each for 32 nos.
+of Cameras.
+FRS Server: One each for minimum 4
+numbers of Cameras
+Video Management and Video Recording of 32/64/128 nos. of
+Full HD Cameras or 8/16/32 numbers of 4K UHD Cameras or a
+mix of both on pro-rata basis or more no. of Cameras
+Processor Latest Generation x86 Intel Xeon / AMD Epyc Latest Generation x86 Intel Xeon/ AMD Epyc Processor
+No. of Cores &
+No. of
+Processors
+Minimum 16 Cores in Single Processor or
+2nos. of 8 Core Processor (Dual Socket)
+i) For 32/64 Cameras: Minimum 8 Cores in Single Processor
+ii) For 128 Cameras: Minimum 16 Cores in Single Processor or
+2 nos. of 8 Core Processor
+Memory 32 GB or higher, DDR4
+SDRAM or latest.
+i) For 32/64 Cameras: 16 GB or higher, DDR4 SDRAM or latest.
+ii) For 128 Cameras: 32 GB or higher, DDR4 SDRAM or latest
+OS Windows Operating System or Linux, latest with required no. of Client licenses as specified by the purchaser
+LAN/ Ethernet FC or iSCSI or SAS or FCoE or Ethernet interface for connecting External Storage device.
+HDD Hot Pluggable SAS HDD, 4x600 GB, 10000 RPM or higher with minimum 06 nos. or higher internal drive bays.
+HDD RAID
+Controller
+SAS RAID Controller with RAID 0/1/5 configuration.
+Chassis Type 19” Rack mountable with sliding rails and fittings to install into a Rack.
+L-3 Core Switch
+25-May-26
+235
+Network Switch Specifications
+• minimum 24 x GE SFP based ports
+• minimum 4 nos. SFP+ based 10 GE ports.
+• 64 Gbps full duplex line rate traffic.
+• support for 802.3x flow control.
+• support 802.1D spanning tree control/RSTP support and MSTP support.
+• support management features viz. Web-based GUI/SSH, SNMP, TFTP Client System Log.
+• support 802.1Q VLAN, 802.1p Priority queues.
+• support port mirroring, jumbo frame & should have at least 16K MAC address
+• support console port and telnet-based management.
+• AC power supply arrangement as given below in chassis without any external adaptors
+with redundant power supply (RPS): AC power supply 100 to 240 V AC with 50 to 60 Hz.
+• support Port-based VLAN, 802.1Q Tagged VLAN along with Management VLAN.
+25-May-26
+236
+25-May-26
+237
+STQC mandate
+• A certification framework under Ministry of
+Electronics and Information Technology that
+validates whether electronic product meet the
+cybersecurity and technical requirements defined
+by the Government .
+• For CCTV STQC confirms that the device complies
+with the Essential Requirements (ER) ensuring
+secure firmware, encrypted communication
+protection against tempering
+25-May-26
+238
+• Do not expose your network to cyber threats
+• Do not contain hardcoded credentials or hidden backdoors
+• Use secure firmware and update mechanisms
+• Protect communication through strong encryption
+• Prevent tampering at the hardware and software levels
+Essential Requirement compliance ensures that cameras:
+25
+-May
+-26
+239
+25-May-26
+240
+Brand Name Parent Company Manufacturing Base
+CP Plus Aditya Infotech Ltd. Tirupati & Delhi-NCR
+Sparsh CCTV Samriddhi Automation Haridwar, Uttarakhand
+Matrix Comsec Matrix Comsec Pvt. Ltd. Vadodara, Gujarat
+Prama India Prama India Pvt. Ltd. Vasai, Maharashtra
+HiFocus HiFocus Electronics Domestic Contract Hubs
+Qubo Hero Electronix Delhi-NCR Hubs
+Honeywell United States Local EMS Partners
+Equus Global / International VVDN Technologies
+i-PRO Japan (Formerly Panasonic) Selective Import / Local Assembly
+Brands with STQC Models
+Procurement Guidelines
+• STQC is made mandatory 2025 onward → only certified models are
+allowed for installation.
+• Brands like Prama, Matrix, Sparsh are available in market now
+• Certification is provided model-wise, not brand-wise
+• For procurement Model No., Firmware version and STQC certificate
+number to mentioned
+• NVR procurement must ensure
+• STQC certificate
+• Firmware version in certificate
+• OEM authorization
+• ONVIF compliance
+25-May-26
+241
+Procurement Guidelines
+For Indian Railways station CCTV:
+• NVR Capacity: 32 / 64 / 128 channels
+• Video Compression: H.265 / H.265+
+• Storage:
+• 30 days recording (as per policy)
+• RAID 5 / RAID 6 preferred
+• Redundancy:
+• Dual power supply
+• Dual NIC
+• Integration:
+• ONVIF compliant
+• VMS integration
+• Network:
+25-May-26
+• Gigabit / 10G uplink (for OFC backbone) 242
+Open Network Video Interface Forum(ONVIF)
+❖ A global standard that allows different brands of IP security devices to
+work together seamlessly
+❖ It allows an open-platform camera to talk directly to a different brand's
+recorder without software compatibility issues
+❖ Customers can mix and match hardware brands based on cost and
+features rather than being forced to buy from a single manufacturer
+❖ Legacy systems can easily integrate with newly launched cameras or
+software as long as both support the same ONVIF profile
+❖ ONVIF uses letter-coded "Profiles" to group specific features together.
+Devices must share the same profile to communicate
+25-May-26
+243
+ONVIF Profiles
+❖ Profile S: The basic standard for IP video streaming, audio streaming,
+and pan-tilt-zoom (PTZ) controls.
+❖ Profile G: Designed for edge storage and retrieval, governing how
+video is recorded and played back from onboard SD cards.
+❖ Profile T: The modern standard for advanced video streaming,
+supporting high-efficiency video compression (H.265) and analytics.
+❖ Profile M: Metadata configuration for AI applications, allowing
+devices to communicate analytics like facial recognition or object
+classification
+25-May-26
+244
+ONVIF Profile Compatibility for Cameras
+• Supported Profiles (Video & Analytics): A modern IP camera typically
+supports Profile S (basic video streaming), Profile T (advanced streaming
+and H.265 compression), and Profile M (AI metadata and analytics data).
+• Edge Storage Profiles: If the camera has a built-in microSD card slot for
+local recording, it will also support Profile G (edge storage and retrieval).
+• Unsupported Profiles (Access Control): A standard security camera will
+never support Profile C (door control) or Profile A (access control
+configuration), as these are strictly meant for physical access control panels
+and card readers.
+25-May-26
+245
+25-May-26
+246
+❖ RTSP (Real-Time Streaming Protocol)
+❖ Used to stream video/audio data over IP networks.
+❖ Enables video feeds from IP cameras to be transmitted in real-time to recording or
+monitoring systems.
+❖ ONVIF (Open Network Video Interface Forum)
+❖ Standard for interoperability between IP-based security products.
+❖ Ensures compatibility among different brands of cameras, recorders, and VMS
+❖ HTTP/HTTPS
+❖ Used for camera configuration and web-based access.
+❖ Enables remote management and access through secure web interfaces.
+❖ SNMP (Simple Network Management Protocol)
+❖ Used to monitor and manage network devices.
+❖ Allows system administrators to track the health and status of cameras, NVRs, and
+switches.
+❖ TCP/IP
+❖ Core communication protocol of the Internet and local networks.
+❖ Used for data transmission between all system components.
+Important Protocols & Technologies in VSS
+25-May-26
+247
+❖ UDP (User Datagram Protocol)
+❖Fast transmission of video data with low latency.
+❖Often used in live video streaming where speed is prioritized over packet reliability.
+❖PoE (Power over Ethernet)
+❖Transmits electrical power along with data to devices like IP cameras.
+❖Reduces the need for separate power supplies, simplifying installation.
+❖H.264 / H.265 (Video Compression Standards)
+❖Compress video data to reduce bandwidth and storage usage.
+❖Used by cameras and NVRs to encode video efficiently.
+❖VLAN (Virtual Local Area Network)
+❖ Isolates video traffic from the rest of the network.
+❖ Enhances security and manages bandwidth in surveillance networks.
+Important Protocols & Technologies in VSS
+Large Format Display Monitor
+Parameter Specification
+Screen Size 55” (inches) or larger
+Video Resolution Full HD (1920 x 1080)
+Brightness 350cd/m2 or above
+Contrast Ratio 1100:1
+Viewing angle (H/V) 1700
+Response Time 12 ms
+Digital Input HDMI
+Analog Input RGB/VGA/BNC
+USB Port 01 no.
+External Control RJ45
+Display Control Monitor control on screen display, programmable with remote.
+RegulatoryApprovals/Certific
+ations
+BIS/UL/EN/CE/IEC certification for Safety and BIS/CE/FCC Certifications
+for EMC & Immunity
+25-May-26
+248
+Panic Button and Alarms
+➢ Panic buttons added to video surveillance systems to increase safety and
+security.
+➢ These alarm buttons can be integrated into a security system such as
+surveillance camera systems; the panic button provides rapid emergency
+notification.
+➢ Panic Button System shall utilize the same network system provided for VSS
+system.
+➢ The hooter is made activated and the alarm is extended at the control office
+there by proactive actions can be taken by RPF staff .
+➢ Pressing a panic button will immediately notify the control room, railway staff,
+and trigger CCTV cameras to focus on the incident area, enabling swift response
+from the Railway Protection Force (RPF) and Government Railway Police
+25-May-26
+249
+Video Server and Recorder
+25-May-26
+250
+Video Management & Recording Hardware
+Processor Latest Generation x86 Intel / AMD Processor
+No. of Cores & No. of Processors Minimum 8 Cores in Single Processor or 2 nos. of 4 Core Processor (Dual Socket)
+No. of Threads 2 Threads per Core
+Frequency 2.1 GHz or higher
+Memory 16 GB or higher, DDR4 SDRAM or latest.
+Operating System Windows OS or Linux, latest with required no. of Client licenses
+LAN/ Ethernet Onboard/ on slot Gigabit Ethernet (RJ45) IPv6 compliant.
+Interface type FC or iSCSI or SAS or FCoE or Ethernet interface for connecting External Storage
+device.
+Hard Disk Drive Hot Pluggable Enterprise SATA HDDs / Hot Pluggable SSD or SAS (10000 RPM or
+higher
+HDD RAID Controller Hardware based - SATA / SAS / SSD - RAID Controller with RAID 0/1/5
+configuration.
+Regulatory
+Approvals/Certifications
+BIS/UL/EN/CE/IEC certification for Safety and BIS/CE/FCC Certifications for EMC &
+Immunity.
+25-May-26
+251
+Video Analytic Hardware
+Processor Latest Generation x86 Intel / AMD Processor
+No. of Cores & No. of Processors Minimum 4 Core Processor in single processor
+No. of Threads 2 Threads per Core
+Frequency 2.1 GHz or higher
+Memory 8GB or higher DDR4 SDRAM or latest andrecommended GPU card
+Operating System Windows OS or Linux, latest with required no. of Client licenses.
+LAN/ Ethernet Onboard/ on slot Gigabit Ethernet (RJ45) ,IPv6 compliant.
+Interface type FC or iSCSI or SAS or FCoE or Ethernet interface for connecting External Storage device.
+Hard Disk Drive Hot Pluggable Enterprise SATA HDDs / HotPluggable SSD or SAS (10000 RPM or higher
+HDD RAID Controller Hardware based - SATA / SAS / SSD - RAID Controller with RAID 0/1/5
+Power Supply Dual and Redundant Power Supply
+Chassis Type install into a Rack.
+Regulatory Approvals/ Certifications BIS/UL/EN/CE/IEC certification for Safety & BIS/CE/FCC Certifications for EMC & Immunity.
+25-May-26
+252
+FRS Hardware
+Processor Latest Generation x86 Intel / AMD Processor
+No. of Cores & No. of Processors Minimum 16 Cores in Single Processor or 2 nos. of 8 Core Processor
+No. of Threads 2 Threads per Core
+Frequency 2.1 GHz or higher
+Memory 32 GB or higher DDR4 SDRAM or latest and recommended GPU card.
+Operating System Windows OS or Linux, latest with required no. of Client licenses
+LAN/ Ethernet Onboard/ on slot Gigabit Ethernet (RJ45), IPv6 compliant.
+Interface type FC or iSCSI or SAS or FCoE or Ethernet interface for connecting External Storage
+device.
+Hard Disk Drive Hot Pluggable Enterprise SATA HDDs / Hot Pluggable SSD or SAS (10000 RPM or
+higher
+HDD RAID Controller Hardware based - SATA / SAS / SSD - RAID Controller with RAID 0/1/5
+configuration.
+Power Supply Dual and Redundant Power Supply
+Chassis Type install into a Rack.
+Regulatory Approvals/
+Certifications
+BIS/UL/EN/CE/IEC certification for Safety and BIS/CE/FCC Certifications for EMC &
+Immunity.
+25-May-26
+253
+25-May-26
+254
+❖ Face recognition systems shall work in real time and offline mode.
+❖ The system shall capture face images from live CCTV video feed and generate
+alerts, if blacklist match is found. FRS alerts should be pushed to the Video
+Management System/ NVR.
+❖ The system shall have the best suited technology employed for 1:1 (one to
+one) and 1: N (one to many) matching application, when they enter the field
+of view of CCTV Cameras
+❖ The system shall be able for matching suspect faces from pre-recorded
+video feeds obtained for CCTV deployed various identified locations.
+❖ The system shall be able to add photographs obtained from law enforcement
+agencies to the criminals’ repositories along with option details for sex, age,
+scars, tattoos etc. for future searches.
+Face Recognition Software
+25-May-26
+255
+❖ The system shall be able to work on full HD or Ultra HD Cameras.
+❖ System shall be implemented on hardware like Server or Workstation.
+❖ System shall be able to use CPU and GPU based processing for multiple
+Camera streams in a single Server/Workstation.
+❖ FRS is deployed at stations shall support minimum 4 nos. of Camera
+streams on Server intended for Face Recognition Software.
+❖ The benchmarking parameters such as acceptable Error rate/Ranking in
+NIST report as applicable are to be specified by the purchaser. For
+assessing the benchmarking criteria, proof of concept trials/ demo etc.
+may be asked by the purchaser.
+Face Recognition Software contd..
+25-May-26
+256
+Video Management Software
+❖ This shall be a highly scalable enterprise level software solution.
+❖ It shall offer a complete video surveillance solution that will be scalable to
+required numbers of Cameras that can be added on a unit-by-unit basis.
+❖ The video management software shall be licensed and shall operate on open
+architecture and shall require no proprietary IT hardware.
+❖ The video management software shall allow for video to be streamed on
+workstation in Matrix or on a video wall
+❖ The system shall allow the recording, live monitoring, playback of archived video
+and data simultaneously
+❖ The software shall provide the following:
+❖ Several simultaneous live picture connections of Camera in network.
+❖ Programming of alarm-triggered automatic events in alarms configuration.
+❖ Programming of automatic recording events on a network recorder
+25-May-26
+257
+Video Management Software contd..
+❖ The software shall display dual MJPEG/H.265 or higher video streams in real
+time simultaneously at frame rates ranging from 1 fps to 25 fps and resolution
+ranging Full HD/Ultra HD to other HD/SD resolution
+❖ Each Camera’s bit rate, frame rate and resolution shall be set independently
+from other Cameras in the system, and altering these settings shall not affect
+the recording and display settings of other Cameras
+❖ The software shall provide drag & drop functions on the system and also for set
+up of connection between Cameras and monitors connected to one
+workstation.
+❖ VMS shall allow Live display of Cameras, Live display of Camera sequences.
+Control of PTZ Cameras, Playback of archived video. Retrieval of archived
+video. Instant Replay of live video.
+❖ Configuration of P/T/Z Cameras, features auto tours, presets etc.
+25-May-26
+258
+➢ The software shall be capable of handling Camera and alarm icons on area
+maps. The area map shall be configurable to pop up upon the receipt of
+an alarm received from a Camera on the map. This can be on the same or
+other monitors.
+➢ VMS shall have the facility to export the desired portion of clipping of
+video from a desired date/time to another desired date/time on DVD/ on
+any client/ network storage device
+➢ The Video Management Servers shall not limit the number of Video
+Recording Servers which can be networked together to form video
+management and recording system
+➢ The alarm management shall be able to set any monitor or groups of
+monitors to automatically display Cameras in response to alarm inputs
+Video Management Software contd..
+25-May-26
+259
+➢ VMS shall support at least 128 video streams concurrently. It shall support at
+least 8 monitors in one server/ workstation for displaying live video. It shall
+allow minimum 5 levels of user and alarm prioritization. It shall allow minimum
+16 Cameras to be replayed simultaneously.
+➢ The Video Management System shall be seamlessly integrated with Face
+recognition Software and have capability to receive the alerts
+➢ The Video Management Software shall be compliant to global standards
+ONVIF Profile ‘S’ & ‘G’ for the interface of network video product. The quoted
+models should appear on the ONVIF website and a confirmation certificate for
+the offered models should be available at the time of supply.
+Video Management Software contd..
+25-May-26
+260
+❖ Video analytics is a capability of leveraging structured algorithms
+in a video management software to analyze the unstructured
+video data and generate actionable insights for immediate
+response and effective decisions.
+❖ Video analytics continuously scans the live video footage and
+captures the incidents according to the user configured criteria.
+❖ The data generated through live and recorded videos, via video
+analytics, helps in establishing a comprehensive security solution
+Video analytics
+25-May-26
+261
+Required Minimum Features of Video Analytics Software
+1. Intrusion Detection (For cameras at PF end)
+a) People crossing the tracks or entering railways operation areas.
+b) Object placed on the tracks through camera placed at platform ends.
+c) Software shall able to distinguish between humans/animals & vehicles/objects.
+2. Left Object detection: (Camera on PF, ticket counters, concourse area)
+a) Object/baggage left behind at PF/waiting Hall/ticketing counters etc.
+b) Shall also be able to detect vehicle parked in any location other than the parking.
+3. Overcrowding: It shall give an alarm as soon as people converge at a single place
+above a predefined threshold level. (PF and FOB etc.)
+4. Camera Tampering : The software shall be able to detect sabotage, tampering to
+the Cameras, detect Camera blurring, Camera blinding and change of orientation.
+Video analytics Software
+Network Video Recorder
+25-May-26
+262
+Network Video Recorder (NVR)
+25-May-26
+263
+Parameters
+Specifications
+32 Channel NVR 64 Channel NVR 128 Channel NVR
+Channels 32 nos. 64 nos. 128 nos.
+Video
+Management
+and Recording
+One 32/64/128 Channel NVR shall support Video Management
+and Recording of 32/64/128 nos. of Full HD Cameras or
+8/16/32 nos. of 4K UHD Cameras, respectively or a mix of both
+on pro-rata basis with required Storage
+Recording
+Bandwidth
+The Average Recording Bandwidth shall be @ 3Mbps per
+channel for Full HD Camera. The maximum recording
+bandwidth shall be as below:
+256 Mbps or higher 320 Mbps or
+higher 576 Mbps or higher
+The NVR should be able to record all channels
+simultaneously at FHD resolution.
+Network Video Recorder (NVR)
+25-May-26
+264
+Parameters Specifications
+Video Playback 16 Channels Simultaneously @ Full HD or higher
+Power Supply Dual and Redundant Power Supply
+Camera Type IP, 2 Mega Pixel Full HD (1920x1080) and
+8.0Megapixel Ultra HD (3840x2160) Cameras
+Recording Resolution and
+Frame Rate
+Support Full HD (1920x1080) @ 25 FPS and 8.0
+Megapixel Ultra HD (3840x2160) @ 25 FPS
+depending on Camera
+Supported
+ImageResolution
+Support SD resolutions, HD resolution, Full HD and
+Ultra HD resolution
+Operating System Embedded Windows or Linux
+Video Compression MJPEG/ H.265 or higher
+Network Protocols
+Suitable and required network protocol stack to work
+Camera in TCP/IP based Ethernet network
+environment. (as required for system working)
+Network Video Recorder (NVR)
+25-May-26
+265
+Parameters Specifications
+Discovery Interface OEM interface to detect the camera automatically and
+configure network settings
+Network Interface Ethernet, 10/100/1000 Base T or 10/100/1000 BaseX
+Software Features
+Video Management Software & Graphic User Interface
+Client Software and Video Recording Software shall be as
+per Clause no. 18.1, 18.2 and 18.3 of Software Requirement
+of the specification.
+ONVIF Compliance
+ONVIF Profile ‘S’& ‘G’. The quoted models should appear
+on the ONVIF website and a confirmation certificate for the
+offered models should be available at the time of supply.
+Regulatory Approvals/
+Certifications
+UL/EN/CE/IEC/BIS certification for Safety and CE/FCC
+Certifications for EMC & Immunity.
+Software License
+25-May-26
+266
+❖ OEM/Vendor shall offer required number of licenses for Video
+Management, Video Recording, Video Analytics and Face Recognition
+Software for all the Cameras, NVRs, Servers, PC workstations, Clients
+etc. supplied as per site requirement or as specified.
+❖ The Licenses shall be of one-time type. Licenses related compliance
+shall be ensured by purchaser depending upon the requirement.
+Diagram-1 VSS FOR STATION
+25-May-26
+267
+Diagram -2 VSS for Cluster of Stations
+25-May-26
+268
+25-May-26
+269
+Diagram - 3 Cloud Based VSS for Cluster of Stations
+IP VSS for Rolling Stock of Indian Railways
+RDSO/SPN/TC/106/2025, Version 3.1
+25-May-26
+270
+GENERAL REQUIREMENTS
+❖ VSS for Rolling Stock for IR shall be end to end IP based.
+❖ The Video data of Cameras shall be stored in the Mobile NVR for at least 30 days at
+minimum 25 FPS with FHD resolution with H.265 or higher Video Compression.
+❖ Mobile NVR should be provided with inbuilt GPS/IRNSS module for real-time location, etc.
+Shall have provision of date & time stamps which shall be synchronized with GPS/IRNSS
+❖ Mobile NVR, IP cameras and VMS shall be compliant to ONVIF Profile ‘S’ for the interface
+of network video product
+❖ Mobile NVR shall be provided with unique digital identification number. This shall be used
+as key identifier for Mobile NVR retrieving data. It shall be possible to change
+identification number of Mobile NVR as per requirement.
+❖ To ensure security of IP based VSS Camera & Software from vulnerabilities & breaches,
+camera and software shall have STQC certificate.
+❖ There shall be provision of a rugged Hand-Held Terminal (HHT)/Tablet along with min.
+8TB External SSD for retrieving the data from Mobile NVRs.
+25-May-26
+271
+Parameter Specification
+Image Sensor 1/ 2.8" or larger, Progressive scan, CMOS Sensor
+Streaming capability
+and Video Compression Minimum three (3) streams @ H.265 orhigher compression
+Resolution and Frame
+Rate
+• FHD (1920x1080) resolution @ 25 fps with H.265 or
+higher compression on one stream.
+• FHD/HD/D1@ 25 FPS with H.265 or higher compression
+on 2nd stream.
+• VGA or CIF or QVGA or QCIF @ 15 FPS with H.265 or
+higher compression on 3rd stream.
+Lens
+Focal Length 2.8 mm or larger, IR corrected, 1 m minimum
+object distance, Fixed IRIS Control suitable for Full HD
+Dome/Wedge type IP Color Camera.
+Infra-Red Built-in Infra-Red Illuminator with range 30 m or more
+Wide Dynamic Range ≥ 120 dB
+Specification for FHD Fixed Dome/Wedge IP Camera
+Parameter Specification
+Network Connectivity
+&PoE
+Ethernet, 10/100 Base T, IEEE 802.3af/at PoE compliant
+with M12/M23 connector
+Bit Rate
+Shall support Variable Bit Rate (VBR) on individual (Single)
+stream with H.265 or higher Video Compression. The
+camera shall also support Constant Bit Rate (CBR).
+video
+During periods of negligible motion, the recording bits rate
+shall drop and when motion occurs, the recording bit rate
+shall return to normal without any perceptible delay.
+Power Consumption
+(PoE) Should be less than 10 Watt.
+Ingress Protection IP 65 or higher for indoor & IP 67 or higher for outdoor.
+Vandal Proof Casing IK10 or higher
+25-May-26
+272
+Specification for FHD Fixed Dome/Wedge IP Camera
+25-May-26
+273
+Specification for Mobile NVR
+Parameter Specification
+Channels
+Minimum requirement:08 nos.: where cameras including
+microphones are 08 or less.16 nos.: where more than 08
+cameras including microphones.
+Operating System Embedded Windows or Linux
+Camera type IP 2 & 4 Mega Pixel Full HD (1920x1080) orhigher
+Recording Resolution
+& FPS
+Full HD (1920x1080) @ 25 FPS (indoor camera) & @ 45
+FPS (outdoor camera) or higher
+Image Resolution SD, HD and Full HD resolution
+Compression
+Video H.265 or higher
+Audio G.711/G.722/G.726/AAC or similar
+25-May-26
+274
+Specification for Mobile NVR
+Parameter Specification
+Recording The Mobile-NVR should be able to record all channels
+simultaneously at FHD resolution.
+Storage Data storage for minimum 30 days. SSD : Min. 4TB with
+08 Channel M- NVR & Min. 8TB with 16 Channel M-NVR.
+GPS/IRNSS
+Module Inbuilt GPS / Indian Regional Navigation Satellite System
+Mobile
+Communication
+Inbuilt LTE Mobile communication (5G auto fallback to
+4G) interface with standard SIM Card Slot .
+Wi-fi Inbuilt Wi-fi, IEEE 802.11 b/g/n or 802.11 ac with Antenna
+1G Ethernet Minimum 02 nos. with M12/M23 connector
+25-May-26
+275
+Power over Ethernet (PoE) is technology that passes electric power over
+twisted-pair Ethernet cable to powered devices (PD), such as wireless
+access points, IP cameras, and VoIP phones in addition to the data that
+cable usually carries. It enables one RJ45 cable to provide both data
+connection and electric power to PDs instead of having a separate cable for
+each devices.
+Power over Ethernet (PoE)
+A standard PoE system requires two types of devices:
+1. Power Sourcing Equipment (PSE): The device that injects power into the cable.
+This is usually a PoE Network Switch or a PoE NVR (Network Video Recorder).
+2. Powered Device (PD): The device receiving the power, such as your IP security
+camera
+25-May-26
+276
+PoE Standards
+Standard Common Name Max Power Typical Camera Type
+IEEE 802.3af PoE 15.4 W Standard Fixed IP / Dome Cameras
+IEEE 802.3at PoE+ 30.0 W Motorised Zoom, Varifocal, or IR
+Bullet Cameras
+IEEE 802.3bt PoE++ (Type 3) 60.0 W Advanced PTZ Cameras with built-in
+heaters/wipers
+IEEE 802.3bt PoE++ (Type 4) 90.0 W Heavy-duty multi- sensor AI
+panoramic camera
+Pin out of PoE Cables
+25-May-26
+277
+25-May-26
+278
+Powered Device (PD)
+Network device that is powered by PoE is referred to as a powered device, or PD. Wireless
+access points, IP security cameras and VoIP phones are common examples. The rise of the
+more powerful IEEE 802.3bt standard has paved the way for more power-hungry HighSpeed HD Outdoor PoE network cameras.
+Power Sourcing Equipment (PSE)
+PSE devices send power and data over the Ethernet cable to a connected PD. PSE devices
+are classified as either “midspan” or “end-span.”
+25-May-26
+279
+PoE budget , maximum power per port , average power per port
+❑ A PoE budget — also known as a power budget — refers to the total power in watts
+that a PoE switch or injector (PSE) can provide across all its output ports. PoE
+budgets vary widely across PSE devices, but all budgets directly relate to how much
+power per port is available to devices. Knowing the PoE budget is crucial because an
+inadequate power budget can cause devices not to work.
+❑ In addition to the PoE budget, the spec sheets of many PoE switches and injectors
+state the maximum output power per port. This number can be an indicator of the
+highest PoE standard the switch complies with.
+❑ For example, a switch with a max. output power per port up to 30 W is a PoE+
+switch; an injector with an output up to 60 W per port is a PoE++ injector or an Ultra
+PoE injector.
+25-May-26
+280
+ENDSPAN
+Also called endpoint, the typical end-span is a PoE Network Switch. Since the
+switch itself can power connected devices, there is no need for an additional
+power source between the PoE switch (PSE) and the connected PoE edge
+device (PD).
+25-May-26
+281
+MIDSPAN
+If a non-PoE-enabled network switch is to be used with a PoE device, an
+power source that adds power to the connection is required. This device
+is placed between ("in the middle") the non-PoE network switch and the
+PoE device. A very common type of a PoE midspan is a PoE injector.
+25-May-26
+282
+Advantages of PoE
+1. The delivery of data and power over a standard Ethernet cable eliminates the need
+for AC/DC power supplies and outlets to give power to PD equipment. That lowers
+the costs of adding or installing compatible PD equipment.
+2. With PoE technology there are fewer points of failure. By connecting PoE switch or
+PoE injector to an uninterruptible power supply (UPS) and PoE powered devices are
+guaranteed a constant power delivery, which is important for mission-critical PoE
+edge devices.
+3. With PoE installations, which utilize managed PoE switches, offer the ability to
+remotely access PoE devices. This function helps to greatly reduce the downtime of
+your connected devices.
+Digital Imaging Technique
+❑ Light passes through camera lens and strikes the sensor
+❑ Sensor containing millions of light receptors which converts light
+energy into electrical charge.
+❑ More the light stronger the electrical charge.
+❑ Light receptors record intensity of Red, Green and Blue Lights.
+❑ These electrical signals passed to the image processor of camera
+❑ Image processor determines colour & brightness values of all
+pixels and create a digital image.
+25-May-26
+283
+sensor
+Digital Imaging
+25-May-26
+284
+CAMERA IMAGE SENSORS TYPE
+1. Charge-Coupled Device (CCD)
+2. Electron-Multiplying Charge-Coupled Device(EMCCD)
+3. Complimentary Metal-Oxide-Semiconductor(CMOS)
+4. Back-Illuminated CMOS
+25-May-26
+285
+CCD Sensor
+• CCD sensors are an integrated grid of semiconductor capacitors
+capable of holding an electrical charge.
+• When light reaches the sensor, these capacitors, acting as
+photosites, absorb the light and convert it into an electrical charge.
+• The amount of charge at each photosite is directly proportional to
+the intensity of the light that strikes it.
+• Charge from each photosite is transferred through the sensor's
+grid (hence the term charge-coupled) and read at one corner of
+the array
+• This method ensures a high degree of image quality and
+uniformity because each pixel uses the same pathway to output its
+signal
+25-May-26
+286
+CCD sensor CMOS sensor
+25-May-26
+287
+CMOS Sensor
+• CMOS sensor contains multiple transistors at each
+photosite, enabling the charge to be processed
+directly at the site
+• CMOS sensors require less power, making them
+more energy efficient
+• Read off electrical charges at a much faster rate,
+which is crucial for shooting high-speed
+sequences
+25-May-26
+288
+Bit Rate
+25-May-26
+289
+25
+-May
+-26
+290
+Resolution and PPI
+• 1920x1080 pixel is NOT a resolution, but an image size in pixels.
+• Pixel per Inch (PPI) is the resolution.
+25-May-26
+291
+25
+-May
+-26
+292
